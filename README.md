@@ -20,8 +20,10 @@ data. Printed reference tables (complete and clearly marked subsets) are in
 [`data/reference/`](data/reference) with per-file provenance in
 `table_manifest.json`.
 
-Original project: https://github.com/sushuqiong/cross-disease-transcriptomic-resource
-(tag v1.0, MIT licence). Data deposit: Zenodo, DOI reserved at submission.
+This repository is the analysis-code repository cited in the manuscript's
+Code Availability statement (release tag v1.0, MIT licence):
+https://github.com/202420652/cross-disease-transcriptomic-resource
+Data deposit: Zenodo, DOI reserved at submission.
 
 ## Layout
 
