@@ -5,8 +5,8 @@ This repository was extracted from the manuscript submission package
 submission package did **not** include the data deposit or the original
 pipeline scripts. Everything listed below must come from the deposit (Zenodo,
 DOI reserved at the time of submission: https://doi.org/10.5281/zenodo.XXXXXXX)
-or from the original repository (https://github.com/sushuqiong/cross-disease-transcriptomic-resource,
-tag v1.0). Nothing here is reconstructed by guesswork; code that needs these
+or from the analysis-code repository cited in the manuscript
+(https://github.com/202420652/cross-disease-transcriptomic-resource, tag v1.0). Nothing here is reconstructed by guesswork; code that needs these
 inputs stops with an explicit error instead of fabricating values.
 
 | Missing input | Deposit location | Needed by |
