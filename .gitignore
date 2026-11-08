@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.Rhistory
+.RData
+.Rproj.user/
+outputs/
+_extraction/
+.DS_Store

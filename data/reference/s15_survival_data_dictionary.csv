@@ -1,0 +1,7 @@
+Field,Definition
+Endpoint,overall survival (death from any cause)
+Time,"OS_MONTHS, months from diagnosis to death or last follow-up"
+Censoring,patients alive at last follow-up censored at OS_MONTHS
+Covariates,"age (continuous, years) and pathological stage (I-IV, falling back to clinical stage)"
+Missing data,multivariable models fitted on complete cases only
+Data version,cBioPortal releases retrieved 2026-09; full dictionary in 07_estimates/survival_data_dictionary.md

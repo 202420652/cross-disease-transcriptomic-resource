@@ -1,0 +1,5 @@
+Statistic,Value
+Number of module pairs compared,136
+Maximum pairwise Jaccard overlap,0.0
+Pairs sharing any gene,0
+Interpretation,"the seventeen module gene sets are mutually disjoint, so modules do not double-count genes"

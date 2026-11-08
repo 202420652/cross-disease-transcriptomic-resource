@@ -1,0 +1,9 @@
+Feature,recount3,ARCHS4,DEE2,refine.bio,Xena/Toil,Expression Atlas,GREIN,curated*/MetaGx,This resource
+Uniformly re-processed expression matrices,yes,yes,yes,yes,yes,yes,yes,partial,no (deliberately)
+Sample-level case–control annotation,partial,partial,—,partial,partial,yes,yes,yes,yes
+Explicit control-tissue ontology,—,—,—,—,—,—,—,—,yes
+Frozen score definitions with per-cohort gene coverage,—,—,—,—,—,—,—,—,yes
+Design-aware standardised effect sizes per cohort,—,—,—,—,—,partial,—,—,yes
+Not-estimable results retained with reasons,—,—,—,—,—,—,—,—,yes
+Validation ledger with PASS/FAIL/PARTIAL/NOT TESTED,—,—,—,—,—,—,—,—,yes
+Single-cell layer with donor-level rules,—,—,—,—,—,—,—,—,yes (descriptive)

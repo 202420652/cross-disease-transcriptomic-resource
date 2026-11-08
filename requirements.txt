@@ -1,0 +1,8 @@
+# Minimal Python dependencies for the validation layer of this repository
+# (Python 3.11, matching the manuscript's environment statement).
+# h5py, python-docx and Pillow are part of the deposit environment
+# (see environment.txt) but are not required by src/cdtr itself.
+numpy>=1.24
+scipy>=1.10
+# Dev / test
+pytest>=7.0

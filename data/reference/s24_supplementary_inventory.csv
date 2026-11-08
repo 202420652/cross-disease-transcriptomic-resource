@@ -1,0 +1,17 @@
+Item,Content,Provided
+Table 1,Cohort composition by disease context,manuscript
+S1-S19,"Cohort registry, modules, single-cell summaries, exclusions, decision rules, validation, score-layer guidance, comparability, direction consistency, expression QC, module overlap, control-tissue ontology, study-level overlap, survival dictionary, composition comparison, single-cell sensitivity",manuscript (this file)
+S20,"Status, identifiers and versions of every input dataset",manuscript (this file)
+S21,Reconciled accounting of every series downloaded,manuscript (this file)
+S22,Comparability metrics with intervals and control-class composition,manuscript (this file)
+S23,Independent re-implementation check,manuscript (this file)
+S25,Pooled estimates stratified by study design (paired versus unpaired),manuscript (this file)
+S26,Sensitivity of the estimates layer to the classical denominator convention,manuscript (this file)
+S27,Monte Carlo validation of the large-sample variance used with the RMS denominator,manuscript (this file)
+S28,Exclusion sensitivity for the cohort with five control samples,manuscript (this file)
+S29,Donor-level single-cell effects with bootstrap confidence intervals,deposit; first rows also in this file
+S30,"Distribution of cells per donor, cell type and arm",manuscript (this file)
+S31,"Source download manifest (accession, retrieval date, checksum, provider URL)",deposit only
+Estimates layer,"Per-cohort effects, pooled estimates and sensitivity variants",deposit only
+Expression matrices,"Upstream expression matrices, or accession + checksum + download script where redistribution is not permitted",deposit only (per-file licence field in the data dictionary)
+S32,"Analysis sample sizes per cohort (cases, controls and complete pairs entering the effect estimate)",manuscript (this file)

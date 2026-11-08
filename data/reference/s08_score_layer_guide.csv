@@ -1,0 +1,5 @@
+Question,Layer,Caveat
+Within-cohort case-control difference,bulk GSVA z-scores,cohort-internal; compare across cohorts only via effect sizes
+Patient-level difference across tumour contexts,TCGA member-mean z-scores,different construction rule from the bulk layer
+Cell-type-resolved difference,single-cell member means,"donor means are tested, not cells; no minimum cells per donor applied"
+Composition as descriptor or sensitivity covariate,xCell compartments or the marker-proxy alternative,enrichment scores share genes with module scores

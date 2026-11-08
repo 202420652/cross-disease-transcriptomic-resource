@@ -1,0 +1,8 @@
+Metric,Value
+context-module pairs with at least two cohorts,165
+pairs with the same direction in every contributing cohort,112 (68%)
+"Wilson 95% interval for that proportion (pair-level, pairs not independent)",60.4% to 74.5%
+consistency restricted to pairs with at least three cohorts,67/99 (68%)
+cohorts whose control is tumour-adjacent normal tissue,16/26
+control classes present in the resource,healthy donor / non-diseased control: 1 cohort; non-diseased control tissue: 4; non-inflamed tissue of the same or comparable patients: 2; other: 3; tumour-adjacent normal tissue: 16
+primary and secondary pooling,"the joint all-cohort table (REML + Hartung-Knapp) is the primary analysis; the design-stratified table (paired cohorts pooled with SMCRPH, unpaired cohorts with SMDH) is the pre-specified secondary analysis; unpaired-only pooling is a shipped sensitivity analysis"

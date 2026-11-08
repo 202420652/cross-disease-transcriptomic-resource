@@ -1,0 +1,11 @@
+Step,Stage,n,Note
+1,GEO series downloaded and evaluated for the ten disease contexts,31,"27 series listed in the cohort registry (26 case-control + 1 treatment-response), 3 further series downloaded but not carried forward, and 1 external-validation series"
+2,series with a usable processed matrix on one platform,30,all except one series whose platform annotation was incomplete
+3,case-control cohorts entering the resource,26,case and control samples on the same platform with a usable matrix
+4,treatment-response series reviewed and excluded from the case-control resource,1,"GSE16879 (inflammatory bowel disease, responder versus non-responder)"
+5,series retained for external validation only,1,"GSE39582 (colorectal cancer), not part of the 26 cohorts"
+6,series downloaded but not carried forward,3,"GSE21501, GSE62254, GSE15459 with reasons in input_dataset_status.csv"
+7,single-cell datasets reviewed,5,"CRC, IBD, STAD and asthma processed; lung adenocarcinoma excluded (tumour-only)"
+8,single-cell datasets contributing testable comparisons,3,"CRC, IBD, STAD; asthma produced no comparison meeting the donor rules"
+9,tumour molecular contexts included,6,"LUAD, CRC, STAD, PAAD, HCC, oesophageal squamous"
+10,accounting check: 26 + 1 + 1 + 3,31,equals the number of bulk series downloaded and evaluated

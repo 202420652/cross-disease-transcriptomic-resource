@@ -1,0 +1,68 @@
+Context,Arm,Cell type,Cells analysed
+CRC,tumour,malignant cell,26193
+CRC,non-tumour,early colonocyte,5962
+CRC,non-tumour,intestinal crypt stem cell of colon,2048
+CRC,non-tumour,secretory cell,4709
+CRC,non-tumour,colon goblet cell,1275
+CRC,non-tumour,BEST4+ colonocyte,1275
+CRC,tumour,secretory cell,748
+CRC,tumour,BEST4+ colonocyte,88
+CRC,non-tumour,colonocyte,1676
+CRC,tumour,early colonocyte,816
+CRC,tumour,colonocyte,354
+CRC,tumour,colon goblet cell,436
+CRC,non-tumour,tuft cell of colon,645
+CRC,non-tumour,malignant cell,358
+CRC,tumour,intestinal crypt stem cell of colon,155
+CRC,tumour,tuft cell of colon,183
+CRC,non-tumour,enteroendocrine cell of colon,169
+CRC,tumour,enteroendocrine cell of colon,17
+CRC,ALL,ALL,29
+IBD,control,T cell of anorectum,3249
+IBD,case,T cell of anorectum,8879
+IBD,control,plasma cell,3359
+IBD,case,plasma cell,12274
+IBD,control,colon epithelial cell,6713
+IBD,case,colon epithelial cell,5634
+IBD,control,stromal cell of lamina propria of colon,1172
+IBD,case,stromal cell of lamina propria of colon,1649
+IBD,control,myeloid cell,677
+IBD,case,myeloid cell,3094
+IBD,ALL,ALL,18
+STAD,tumour,unknown,1846
+STAD,tumour,mucous neck cell of gastric gland,6136
+STAD,tumour,foveolar cell of stomach,5121
+STAD,tumour,epithelial cell,8659
+STAD,tumour,peptic cell,349
+STAD,tumour,intestine goblet cell,541
+STAD,tumour,enterocyte,1769
+STAD,tumour,type EC enteroendocrine cell,272
+STAD,tumour,parietal cell,178
+STAD,tumour,enteroendocrine cell,1170
+STAD,tumour,BEST4+ enterocyte,8
+STAD,tumour,type X enteroendocrine cell,143
+STAD,tumour,type G enteroendocrine cell,60
+STAD,control,foveolar cell of stomach,1144
+STAD,control,mucous neck cell of gastric gland,567
+STAD,control,epithelial cell,873
+STAD,control,parietal cell,48
+STAD,control,enteroendocrine cell,33
+STAD,control,type EC enteroendocrine cell,7
+STAD,control,peptic cell,19
+STAD,control,type G enteroendocrine cell,64
+STAD,control,intestine goblet cell,12
+STAD,control,enterocyte,7
+STAD,control,type X enteroendocrine cell,4
+STAD,non-tumour,foveolar cell of stomach,8048
+STAD,non-tumour,parietal cell,1132
+STAD,non-tumour,epithelial cell,10024
+STAD,non-tumour,mucous neck cell of gastric gland,11669
+STAD,non-tumour,peptic cell,1987
+STAD,non-tumour,enterocyte,3799
+STAD,non-tumour,type EC enteroendocrine cell,879
+STAD,non-tumour,intestine goblet cell,649
+STAD,non-tumour,type X enteroendocrine cell,459
+STAD,non-tumour,enteroendocrine cell,725
+STAD,non-tumour,BEST4+ enterocyte,56
+STAD,non-tumour,type G enteroendocrine cell,356
+STAD,ALL,ALL,59

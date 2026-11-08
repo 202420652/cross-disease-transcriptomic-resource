@@ -1,0 +1,554 @@
+{
+  "source_document": "Tables.docx",
+  "source_sha256": "6af7871b2e1b520ac2ec74dce7a931758035766890e9991b16bc0422a5074005",
+  "value_policy": "Cell text exported verbatim; no imputation or numeric reformatting.",
+  "table_count": 36,
+  "tables": [
+    {
+      "source_block": 2,
+      "source_title": "Table 1. Cohort composition of the resource by disease context",
+      "file": "table01_context_composition.csv",
+      "scope": "complete printed table",
+      "data_rows": 10,
+      "columns": [
+        "Context",
+        "Cohorts",
+        "Assay records",
+        "Patients (with identifiers)",
+        "Patients with both tissues",
+        "Platforms",
+        "Cohorts without patient identifiers"
+      ],
+      "sha256": "38416464840d73699855e140ad87cb1866df1832eea303c7411f6bbfae22f5b3"
+    },
+    {
+      "source_block": 5,
+      "source_title": "Table 2. Feature-by-feature comparison with existing transcriptome resources (manuscript Table 2; see DataDescriptor_v20 Background & Summary)",
+      "file": "table02_resource_comparison.csv",
+      "scope": "complete printed table",
+      "data_rows": 8,
+      "columns": [
+        "Feature",
+        "recount3",
+        "ARCHS4",
+        "DEE2",
+        "refine.bio",
+        "Xena/Toil",
+        "Expression Atlas",
+        "GREIN",
+        "curated*/MetaGx",
+        "This resource"
+      ],
+      "sha256": "73a3cc826d4d358eaf250b37aaad7c7490ff7eb51b64920249deebb04e7f3903"
+    },
+    {
+      "source_block": 8,
+      "source_title": "Table 3. Structure of the deposit (eleven folders) (manuscript Table 3; see DataDescriptor_v20 Data Records)",
+      "file": "table03_deposit_structure.csv",
+      "scope": "complete printed table",
+      "data_rows": 11,
+      "columns": [
+        "Folder",
+        "Content",
+        "Key files"
+      ],
+      "sha256": "52f00ba527080452c96a251a18f95055107f6ef0213d8a3c2048448a03c20db0"
+    },
+    {
+      "source_block": 10,
+      "source_title": "Supplementary Table S1. Cohort registry with design, counts, control class, origin publication and provenance",
+      "file": "s01_cohort_registry.csv",
+      "scope": "26 case-control cohorts",
+      "data_rows": 26,
+      "columns": [
+        "Accession",
+        "Context",
+        "Platform",
+        "Assays",
+        "Patients",
+        "Cases",
+        "Controls",
+        "Both-tissue patients",
+        "Paired used",
+        "Patient IDs",
+        "Control class",
+        "Origin PMID"
+      ],
+      "sha256": "f226d0a4abf3d9da8935f5141b4ecedbbe7eba32239b4f61d0667a2cd770c022"
+    },
+    {
+      "source_block": 13,
+      "source_title": "Supplementary Table S2. Module size, minimum per-cohort gene coverage and the number of cohorts with incomplete coverage (26 case-control cohorts). The complete gene membership, with role annotation and source pathway, is shipped as 04_modules/module_definitions.csv.",
+      "file": "s02_module_coverage_summary.csv",
+      "scope": "17 modules plus one design-note row",
+      "data_rows": 18,
+      "columns": [
+        "Module (short label)",
+        "Members",
+        "Minimum coverage",
+        "Cohorts incomplete (of 26)"
+      ],
+      "sha256": "0d7d6fcce6cf8c4f2384b9047d4ee79aa4811f0268889013ff9bc805d3077fd9"
+    },
+    {
+      "source_block": 16,
+      "source_title": "Supplementary Table S3. Single-cell datasets, cells and comparison arms",
+      "file": "s03_single_cell_datasets.csv",
+      "scope": "complete printed table",
+      "data_rows": 5,
+      "columns": [
+        "Dataset",
+        "Cells total",
+        "Cells used",
+        "Donors",
+        "Cell types",
+        "Arms",
+        "Notes"
+      ],
+      "sha256": "9a8201b090e8360e400d7964cf66a59a8cec4f6f9db6b2a55955d9efa98c9925"
+    },
+    {
+      "source_block": 19,
+      "source_title": "Supplementary Table S4. Documented exclusions, flags and design corrections",
+      "file": "s04_exclusions_flags_design_corrections.csv",
+      "scope": "complete printed table",
+      "data_rows": 9,
+      "columns": [
+        "Item",
+        "n",
+        "Layer",
+        "Reason"
+      ],
+      "sha256": "6cf07fec1d3045d5670180fbc2c0efb0c7e1c9f4337082bb017bf9847277d0c3"
+    },
+    {
+      "source_block": 22,
+      "source_title": "Supplementary Table S5. Decision rules and thresholds",
+      "file": "s05_decision_rules.csv",
+      "scope": "complete printed table",
+      "data_rows": 10,
+      "columns": [
+        "Rule",
+        "Definition / threshold"
+      ],
+      "sha256": "7dfe77e1226f3a68e5f6e6f5fd9b512656bb20870a504c1c51a6b272817a0fce"
+    },
+    {
+      "source_block": 25,
+      "source_title": "Supplementary Table S6. Cohort-by-module pairs that are not estimable",
+      "file": "s06_not_estimable_pairs.csv",
+      "scope": "all 8 not-estimable pairs",
+      "data_rows": 8,
+      "columns": [
+        "Accession",
+        "Module",
+        "Reason"
+      ],
+      "sha256": "c54d414a3987b93b0b64ff93a65bad7f320f08464f450d61f91e49ff2687ddd6"
+    },
+    {
+      "source_block": 28,
+      "source_title": "Supplementary Table S7. Validation evidence: reproduction within tolerance versus rank agreement",
+      "file": "s07_validation_evidence.csv",
+      "scope": "complete printed table",
+      "data_rows": 8,
+      "columns": [
+        "Check",
+        "Scope",
+        "Result",
+        "Interpretation"
+      ],
+      "sha256": "89fba0f187b23fd40a8f03c12802d7fe6880354fd621da406f9a421a0282008f"
+    },
+    {
+      "source_block": 31,
+      "source_title": "Supplementary Table S8. Which score layer to use",
+      "file": "s08_score_layer_guide.csv",
+      "scope": "complete printed table",
+      "data_rows": 4,
+      "columns": [
+        "Question",
+        "Layer",
+        "Caveat"
+      ],
+      "sha256": "50c4fd1c497b3e9d81214a5c955acdcb43d3836426802b78d6430a3ce89db177"
+    },
+    {
+      "source_block": 34,
+      "source_title": "Supplementary Table S9. Comparability, coupling and collinearity checks",
+      "file": "s09_comparability_coupling_collinearity.csv",
+      "scope": "complete printed table",
+      "data_rows": 6,
+      "columns": [
+        "Check",
+        "Result"
+      ],
+      "sha256": "97222686b1c0bc24a306ae34bc9f71709f712b7a514da9fa0cb4880f3854fd0e"
+    },
+    {
+      "source_block": 37,
+      "source_title": "Supplementary Table S10. Cross-cohort direction consistency (summary metrics). The per-pair discordance detail is Supplementary Table S19; the corresponding deposit files are 08_qc/qc_cross_cohort_consistency.csv (summary, 165 rows) and 08_qc/qc_cross_cohort_disagreement_detail.csv (detail).",
+      "file": "s10_direction_consistency_summary.csv",
+      "scope": "summary only; 165-row detail not supplied",
+      "data_rows": 3,
+      "columns": [
+        "Statistic",
+        "Value"
+      ],
+      "sha256": "f326df43fbb64bb7d63d790c8a5f19bac1d9ba3dc13bf80b0ed87196cc8c87a7"
+    },
+    {
+      "source_block": 40,
+      "source_title": "Supplementary Table S11. Expression matrix quality control per cohort",
+      "file": "s11_expression_matrix_qc.csv",
+      "scope": "26 cohorts plus GSE16879",
+      "data_rows": 27,
+      "columns": [
+        "Accession",
+        "Context",
+        "Samples",
+        "Genes",
+        "Missing fraction",
+        "Outlier samples (>3 MAD)",
+        "Zero-variance genes"
+      ],
+      "sha256": "474ae298bb5e1c04b8d7db712f6f24c4080ebf098a4e3512178fa935f711b911"
+    },
+    {
+      "source_block": 43,
+      "source_title": "Supplementary Table S12. Module overlap matrix (maximum pairwise Jaccard overlap)",
+      "file": "s12_module_overlap_summary.csv",
+      "scope": "summary; gene-level membership not supplied",
+      "data_rows": 4,
+      "columns": [
+        "Statistic",
+        "Value"
+      ],
+      "sha256": "6e664fab7788ff2e68e47e06cbeb562dae5816db8417697e1f44d2b4c29961ac"
+    },
+    {
+      "source_block": 46,
+      "source_title": "Supplementary Table S13. Control tissue ontology",
+      "file": "s13_control_tissue_ontology.csv",
+      "scope": "complete printed table",
+      "data_rows": 26,
+      "columns": [
+        "Accession",
+        "Context",
+        "Control description",
+        "Control class"
+      ],
+      "sha256": "0fcde4562cd0f13480a97d338b9b4ca0ad9f2c11fa2007a507d07bdda185b297"
+    },
+    {
+      "source_block": 49,
+      "source_title": "Supplementary Table S14. Study-level overlap audit and leave-one-out dedup sensitivity",
+      "file": "s14_study_overlap_audit.csv",
+      "scope": "complete printed table",
+      "data_rows": 2,
+      "columns": [
+        "Scenario",
+        "Pooled states (k>=3)",
+        "Nominally significant"
+      ],
+      "sha256": "0715fc0ab54ed7c3a472b2829e3878c237dc955ba2361530b90eca424adba3d3"
+    },
+    {
+      "source_block": 52,
+      "source_title": "Supplementary Table S15. Survival layer data dictionary (summary)",
+      "file": "s15_survival_data_dictionary.csv",
+      "scope": "printed summary",
+      "data_rows": 6,
+      "columns": [
+        "Field",
+        "Definition"
+      ],
+      "sha256": "4b872b60aecfe9e1a65613e8e9b5316f10e7295f166812a8df871a3ca458828d"
+    },
+    {
+      "source_block": 55,
+      "source_title": "Supplementary Table S16. Marker-proxy composition method agreement with xCell",
+      "file": "s16_marker_proxy_xcell_agreement.csv",
+      "scope": "complete printed table",
+      "data_rows": 4,
+      "columns": [
+        "Compartment",
+        "Samples",
+        "Spearman vs xCell",
+        "Pearson vs xCell"
+      ],
+      "sha256": "3229b14d871564e25981bf385a431e210ddf2ea22aa512196be6905ec555cca2"
+    },
+    {
+      "source_block": 58,
+      "source_title": "Supplementary Table S17. Single-cell sensitivity analyses",
+      "file": "s17_single_cell_sensitivity.csv",
+      "scope": "complete printed table",
+      "data_rows": 4,
+      "columns": [
+        "Analysis",
+        "Comparisons",
+        "Not testable",
+        "Significant, FDR < 0.05"
+      ],
+      "sha256": "2dc01f3b6c4d602b57efd4f5ebb9aa03f6d6eeb6256fe7b5d0050f7b3c604185"
+    },
+    {
+      "source_block": 61,
+      "source_title": "Supplementary Table S18. Single-cell sensitivity: donor-abundance thresholds and multiplicity definitions",
+      "file": "s18_single_cell_thresholds_multiplicity.csv",
+      "scope": "complete printed table",
+      "data_rows": 4,
+      "columns": [
+        "Donor set",
+        "Comparisons",
+        "Testable",
+        "Not testable",
+        "Significant: comparison-type family",
+        "Significant: cell-type family",
+        "Significant: global"
+      ],
+      "sha256": "e5ee9318f5971e96333e074366519fa0c0b2d0e743908fc25ae1a552e9068227"
+    },
+    {
+      "source_block": 64,
+      "source_title": "Supplementary Table S19. Cross-cohort direction consistency: where the disagreement sits",
+      "file": "s19_direction_discordance_summary.csv",
+      "scope": "complete printed summary",
+      "data_rows": 10,
+      "columns": [
+        "Metric",
+        "Value"
+      ],
+      "sha256": "fe909c3903a0afc6830d630105d1d872bb6f096a14b8ad8b4649a94643c95216"
+    },
+    {
+      "source_block": 67,
+      "source_title": "First twelve discordant pairs (complete table shipped as 08_qc/qc_cross_cohort_disagreement_detail.csv):",
+      "file": "s19_discordant_pairs_first12.csv",
+      "scope": "first 12 rows only",
+      "data_rows": 12,
+      "columns": [
+        "Context",
+        "Module",
+        "Cohorts",
+        "Pattern",
+        "Cohorts positive",
+        "Cohorts negative"
+      ],
+      "sha256": "7325cbfe8fe2731dbdb9b936acde9df063fc448efcd36a6ac82ea43e2075df02"
+    },
+    {
+      "source_block": 70,
+      "source_title": "Supplementary Table S20. Status of every input dataset",
+      "file": "s20_input_dataset_status.csv",
+      "scope": "complete printed table",
+      "data_rows": 42,
+      "columns": [
+        "Accession or dataset",
+        "Context",
+        "Layer",
+        "Status",
+        "In estimates",
+        "Testable comparison",
+        "Reason"
+      ],
+      "sha256": "94d1eb10f39d622df202659a9d45842a0c8398b268cc8bcdad8ed4704a9b5c4b"
+    },
+    {
+      "source_block": 73,
+      "source_title": "Supplementary Table S21. Reconciled accounting of every series downloaded",
+      "file": "s21_series_accounting.csv",
+      "scope": "complete printed table",
+      "data_rows": 10,
+      "columns": [
+        "Step",
+        "Stage",
+        "n",
+        "Note"
+      ],
+      "sha256": "c7c5a754df6326e80e015e1cdbfa4894fc8b1e73a6e015a0eb91bfe98278b759"
+    },
+    {
+      "source_block": 76,
+      "source_title": "Supplementary Table S22. Comparability metrics, including intervals and control-class composition",
+      "file": "s22_comparability_metrics.csv",
+      "scope": "complete printed table",
+      "data_rows": 7,
+      "columns": [
+        "Metric",
+        "Value"
+      ],
+      "sha256": "b3c893f4ab57fac14dfb602a40bf8bf7d30e4c4a4864d6031df77de8ea6119e0"
+    },
+    {
+      "source_block": 79,
+      "source_title": "Supplementary Table S23. Independent re-implementation check (plain Python, no project code). The pre-specified tolerance is 1e-6 for statistics, 1e-12 for the variance identity and 1e-9 for the Benjamini-Hochberg step-up; each record carries one of four mutually exclusive states (PASS, FAIL, PARTIAL, NOT TESTED), and no record is marked as passing on the strength of a partial comparison.",
+      "file": "s23_independent_reimplementation.csv",
+      "scope": "complete printed ledger",
+      "data_rows": 10,
+      "columns": [
+        "Check",
+        "Statistic",
+        "State",
+        "|Difference|",
+        "Tolerance",
+        "Status"
+      ],
+      "sha256": "9a550b490f91429d674ef5bf78783d5c84de887c367e5a04ac0f0b0fc13d07d8"
+    },
+    {
+      "source_block": 82,
+      "source_title": "Supplementary Table S24. Inventory of supplementary items and where each one is provided",
+      "file": "s24_supplementary_inventory.csv",
+      "scope": "complete printed table",
+      "data_rows": 16,
+      "columns": [
+        "Item",
+        "Content",
+        "Provided"
+      ],
+      "sha256": "1f9d9ddd4065b036500d06e016e94fa87a700e177ea22ee419234abf6ffbb8d0"
+    },
+    {
+      "source_block": 85,
+      "source_title": "Supplementary Table S25. Pooled estimates stratified by study design (the pre-specified secondary analysis). This table is generated from the same frozen per-cohort effects as the joint primary table and uses the same REML + Hartung-Knapp inference rule (t distribution); its all-cohort rows agree with the joint primary estimates to within 6.4e-6, a difference attributable to the printed precision of the two files.",
+      "file": "s25_meta_by_design_stratum.csv",
+      "scope": "all 312 printed rows",
+      "data_rows": 312,
+      "columns": [
+        "Disease",
+        "Module",
+        "Stratum",
+        "k",
+        "Cohorts",
+        "Effect",
+        "SE",
+        "p",
+        "tau2",
+        "95% CI",
+        "BH adj. p"
+      ],
+      "sha256": "40e06b7438e1c82cc2e8813f273ae6e5f333102b82bb0b849493ca9041b0cce7"
+    },
+    {
+      "source_block": 89,
+      "source_title": "Supplementary Table S26. Sensitivity to the classical denominator convention",
+      "file": "s26_classic_denominator_sensitivity_first80.csv",
+      "scope": "80 of 165 deposit rows",
+      "data_rows": 80,
+      "columns": [
+        "Context",
+        "Module",
+        "k",
+        "Primary estimate (RMS denominator)",
+        "Estimate (classical convention)",
+        "Same sign",
+        "Absolute difference"
+      ],
+      "sha256": "19f5da7b9f59975ba63354079acf3c10353b6564e2fa08efcb69b2e5f455dd48"
+    },
+    {
+      "source_block": 93,
+      "source_title": "Supplementary Table S27. Monte Carlo validation of the variance used with the RMS denominator",
+      "file": "s27_smdh_variance_monte_carlo.csv",
+      "scope": "20 printed conditions; provisional coverage",
+      "data_rows": 20,
+      "columns": [
+        "n case",
+        "n control",
+        "SD case",
+        "SD control",
+        "True effect",
+        "Mean estimate",
+        "Empirical variance",
+        "Analytic variance",
+        "Ratio",
+        "95% coverage"
+      ],
+      "sha256": "4505845ae291cfa2def4ad4b3260352a6198c0a274353a02ad7d8596d83c8b82"
+    },
+    {
+      "source_block": 96,
+      "source_title": "Supplementary Table S28. Exclusion sensitivity for the cohort with five control samples",
+      "file": "s28_low_control_exclusion_sensitivity.csv",
+      "scope": "17 module rows",
+      "data_rows": 17,
+      "columns": [
+        "Context",
+        "Module",
+        "k with that cohort",
+        "Estimate with",
+        "Estimate without",
+        "Same sign",
+        "Effect shift"
+      ],
+      "sha256": "1be1d2cfb3bf10ae4c511511eb9ffbc6e3fdec115e3106accda3a6825ccbcb62"
+    },
+    {
+      "source_block": 98,
+      "source_title": "",
+      "file": "s28_low_control_exclusion_metrics.csv",
+      "scope": "summary metrics",
+      "data_rows": 6,
+      "columns": [
+        "Metric",
+        "Value"
+      ],
+      "sha256": "2b21b883eeb5cfffeb0c4a232c6924db76b4a343eff4125139a972883a74d0f7"
+    },
+    {
+      "source_block": 101,
+      "source_title": "Supplementary Table S29. Donor-level single-cell effects with bootstrap confidence intervals. The complete table shipped in the deposit (06_single_cell/single_cell_donor_level_effects_with_ci.csv) has 208 rows: every audited comparison with at least three donors per arm carries a donor-level summary and a bootstrap 95% interval. The 240 audited comparisons reconcile as follows: 160 satisfy the test rules (72 paired, 56 donor-disjoint unpaired, 32 cell-identity) and additionally carry exploratory p and FDR columns; 48 carry a summary and interval but no test; and 32 carry no estimate because of insufficient donor representation. The 80 comparisons reported as not testable are the 48 with a summary plus the 32 without. All p and FDR values are exploratory.",
+      "file": "s29_single_cell_donor_effects_first60.csv",
+      "scope": "60 of 208 deposit rows",
+      "data_rows": 60,
+      "columns": [
+        "Context",
+        "Module",
+        "Cell type",
+        "Comparison",
+        "Donors A",
+        "Donors B",
+        "Median donor difference",
+        "95% CI",
+        "p (descriptive)"
+      ],
+      "sha256": "2273492c54da4c909ce7f963d03caf6e5432cb71e51931960c17886d4b293382"
+    },
+    {
+      "source_block": 105,
+      "source_title": "Supplementary Table S30. Cells per donor, cell type and arm. Per arm x cell-type rows report total cell counts; the dataset-level ('ALL') rows report the number of donor-cell-type-arm units (the aggregation unit used for testing) falling below 10, 20 and 50 cells. Donor-level counts below thresholds are aggregated at dataset level in the table; the underlying per-donor counts are shipped in the deposit file 06_single_cell/single_cell_donor_cell_count_distribution.csv.",
+      "file": "s30_cells_per_donor_cell_type_arm.csv",
+      "scope": "complete printed table",
+      "data_rows": 67,
+      "columns": [
+        "Context",
+        "Arm",
+        "Cell type",
+        "Cells analysed"
+      ],
+      "sha256": "a830f7932920297e8cf2cd82a36f35627660251671b5d49b881340d24f40c2a2"
+    },
+    {
+      "source_block": 108,
+      "source_title": "Supplementary Table S32. Analysis sample sizes per cohort: the case and control samples annotated, the complete pairs, and the samples that enter the effect estimate (complete pairs for paired cohorts, all samples for unpaired cohorts).",
+      "file": "s32_analysis_sample_sizes.csv",
+      "scope": "26 cohorts plus total row",
+      "data_rows": 27,
+      "columns": [
+        "Accession",
+        "Context",
+        "Design",
+        "Cases",
+        "Controls",
+        "Pairs",
+        "Cases (est.)",
+        "Controls (est.)",
+        "Measure",
+        "Note"
+      ],
+      "sha256": "f80321d6a125da67931ede897d0ff7290a7234635a693bfa89d77d31795bba02"
+    }
+  ]
+}

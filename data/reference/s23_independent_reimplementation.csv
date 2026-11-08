@@ -1,0 +1,11 @@
+Check,Statistic,State,|Difference|,Tolerance,Status
+Unpaired effect (SMDH) recomputed in plain Python from the shipped group descriptives,effect size yi,NAFLD/EPH_RECEPTORS/GSE33814,9.61e-06,1e-06,FAIL
+Unpaired effect (SMDH) recomputed in plain Python from the shipped group descriptives,effect size yi,NAFLD/ERBB_LIGANDS/GSE33814,6.93e-06,1e-06,FAIL
+Unpaired effect (SMDH) recomputed in plain Python from the shipped group descriptives,effect size yi,NAFLD/ERBB_RECEPTORS/GSE33814,3.68e-06,1e-06,FAIL
+Unpaired effect (SMDH) recomputed in plain Python from the shipped group descriptives,effect size yi,NAFLD/FGFR_AXIS/GSE33814,4.68e-06,1e-06,FAIL
+Paired effect (SMCRPH): shared root-mean-square denominator only,standardisation denominator,STAD/EPH_RECEPTORS/GSE13911,not comparable (denominator check only),1e-06,PARTIAL
+Paired effect (SMCRPH): shared root-mean-square denominator only,standardisation denominator,STAD/ERBB_LIGANDS/GSE13911,not comparable (denominator check only),1e-06,PARTIAL
+REML + Hartung-Knapp recomputation of one pooled state in plain Python,est / se / p,Asthma/EPH_RECEPTORS (k=3),0.0,1e-06,PASS
+Benjamini-Hochberg recomputed within every disease-context family of the primary pooled table,adjusted p,"10 families, 165 states",9.43689570931383e-16,1e-09,PASS
+Benjamini-Hochberg within single-cell cell-type families,adjusted p,single-cell families,,1e-06,NOT TESTED
+"Sampling variance of every unpaired effect (Bonett LS, metafor escalc SMDH)",vi,183 unpaired cohort-module effects,1.0824674490095276e-15,1e-12,PASS

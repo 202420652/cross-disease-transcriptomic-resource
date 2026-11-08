@@ -1,0 +1,12 @@
+Folder,Content,Key files
+01_cohort_registry,"Cohort registry, provenance, control ontology, CELLxGENE identifiers",cohort_registry.csv; input_dataset_status.csv; source_versions.csv; contrast_ontology.csv; cellxgene_sources.csv
+02_sample_annotation,Sample-level annotation for bulk and TCGA layers,sample_annotation_geo_cohorts.csv; sample_annotation_escc_squamous_tcga.csv
+03_expression,Expression provenance and transformation records,transformation_log.csv; transformation_summary_per_cohort.csv; source_download_manifest.csv
+04_modules,"Module definitions, coverage and overlap",module_definitions.csv; platform_module_coverage.csv; module_overlap_matrix.csv; sample_module_scores_gsva_z.csv
+05_composition,Compartment scores and marker-proxy alternative,xcell_composition_scores.csv; composition_scores_per_sample.csv; alternative_method_marker_proxy.csv
+06_single_cell,"Single-cell audit, labels and donor-aware comparisons",single_cell_comparisons.csv; single_cell_donor_level_effects_with_ci.csv; single_cell_donor_cell_count_distribution.csv
+07_estimates,"Estimates layer, pooled tables, survival dictionary",per_cohort_effects.csv; meta_primary_reml_knha.csv; meta_by_design_stratum.csv; not_estimable_pairs.csv; survival_data_dictionary.md
+08_qc,"Quality control, validation evidence, curation flow",data_dictionary.csv; file_inventory_and_checksums.csv; curation_flow_reconciled.csv; qc_*.csv; manifest_checksum.txt
+09_reuse_examples,Runnable reuse examples with expected outputs,example1–example3 scripts; expected_output/; README_examples.md
+10_environment,"Environment, run order, versioning",environment.txt; run_order.md
+11_code,"Analysis scripts, README, licence",run_all.R; config.yml; README_code.md; LICENSE (MIT); sessionInfo.txt

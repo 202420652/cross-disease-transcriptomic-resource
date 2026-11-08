@@ -1,0 +1,4 @@
+Statistic,Value
+Context-module pairs with at least two cohorts,165
+Pairs whose effect direction is the same in every contributing cohort,112 (68%)
+"Detail (one row per pair with cohort counts, sign counts and median effect)",deposited as 08_qc/qc_cross_cohort_consistency.csv (165 rows); not printed here because oversized tables are deposited rather than printed

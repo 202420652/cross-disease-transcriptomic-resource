@@ -1,0 +1,5 @@
+Donor set,Comparisons,Testable,Not testable,Significant: comparison-type family,Significant: cell-type family,Significant: global
+no minimum,240,160,80,37,53,35
+>= 10 cells per donor,200,152,48,41,49,30
+>= 20 cells per donor,184,136,48,32,39,22
+>= 50 cells per donor,160,136,24,30,40,20

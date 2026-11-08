@@ -1,0 +1,11 @@
+Context,Cohorts,Assay records,Patients (with identifiers),Patients with both tissues,Platforms,Cohorts without patient identifiers
+LUAD,3,300,150,150,3,0
+CRC,3,490,289,142,3,1
+STAD,3,319,163,156,2,0
+PAAD,3,246,123,123,2,0
+HCC,2,160,122,38,2,0
+ESCC,2,140,70,70,2,0
+IBD,3,277,169,11,3,1
+COPD,2,387,n/a,n/a,2,2
+NAFLD,2,109,n/a,n/a,2,2
+Asthma,3,283,n/a,n/a,3,3

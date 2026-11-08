@@ -1,0 +1,27 @@
+Accession,Context,Platform,Assays,Patients,Cases,Controls,Both-tissue patients,Paired used,Patient IDs,Control class,Origin PMID
+GSE13911,STAD,GPL570,69,38,38,31,31,yes,yes,tumour-adjacent normal tissue,19081245
+GSE27342,STAD,GPL5175,160,80,80,80,80,yes,yes,tumour-adjacent normal tissue,21445269
+GSE63089,STAD,GPL5175,90,45,45,45,45,yes,yes,tumour-adjacent normal tissue,25646628
+GSE15471,PAAD,GPL570,72,36,36,36,36,yes,yes,tumour-adjacent normal tissue,28881803
+GSE20347,ESCC,GPL571,34,17,17,17,17,yes,yes,tumour-adjacent normal tissue,20955586
+GSE23400,ESCC,GPL96,106,53,53,53,53,yes,yes,tumour-adjacent normal tissue,26635288
+GSE28735,PAAD,GPL6244,90,45,45,45,45,yes,yes,tumour-adjacent normal tissue,23918603
+GSE33814,NAFLD,GPL6884,44,not provided,31,13,0,no,no,non-diseased control tissue,23071592
+GSE47460,COPD,GPL14550,236,not provided,145,91,0,no,no,non-diseased control tissue,26560100
+GSE57957,HCC,GPL10558,74,37,37,37,37,yes,yes,tumour-adjacent normal tissue,25093504
+GSE62232,HCC,GPL570,86,85,81,5,1,no,yes,tumour-adjacent normal tissue,25822088
+GSE62452,PAAD,GPL6244,84,42,42,42,42,yes,yes,tumour-adjacent normal tissue,27197190
+GSE66676,NAFLD,GPL6244,65,not provided,31,34,0,no,no,non-diseased control tissue,26026390
+GSE76925,COPD,GPL10558,151,not provided,111,40,0,no,no,non-diseased control tissue,28287180
+GSE10072,LUAD,GPL96,66,33,33,33,33,yes,yes,tumour-adjacent normal tissue,18297132
+GSE179285,IBD,GPL6480,53,42,22,31,11,yes,yes,healthy donor / non-diseased control,34561227
+GSE19804,LUAD,GPL570,120,60,60,60,60,yes,yes,tumour-adjacent normal tissue,25889623
+GSE23878,CRC,GPL570,59,not provided,35,24,0,no,no,tumour-adjacent normal tissue,21281787
+GSE32863,LUAD,GPL6884,114,57,57,57,57,yes,yes,tumour-adjacent normal tissue,22613842
+GSE41258,CRC,GPL96,235,191,182,53,44,yes,yes,tumour-adjacent normal tissue,19359472
+GSE4302,Asthma,GPL570,70,not provided,42,28,0,no,no,other,19628779
+GSE43696,Asthma,GPL6480,108,not provided,88,20,0,no,no,other,27050946
+GSE44076,CRC,GPL13667,196,98,98,98,98,yes,yes,tumour-adjacent normal tissue,36182938
+GSE67472,Asthma,GPL16311,105,not provided,62,43,0,no,no,other,25611785
+GSE75214,IBD,GPL6244,97,not provided,74,23,0,no,no,non-inflamed tissue of the same or comparable patients,28885228
+GSE87473,IBD,GPL13158,127,127,106,21,0,no,yes,non-inflamed tissue of the same or comparable patients,29401083

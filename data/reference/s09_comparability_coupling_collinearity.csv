@@ -1,0 +1,7 @@
+Check,Result
+Cross-cohort direction consistency,112 of 165 context-module pairs (68%) share the effect sign in every contributing cohort
+Coverage-threshold sensitivity,"BH-significant states 13 (all, k=165) / 13 (>=0.60) / 12 (>=0.80) / 6 (>=0.90)"
+Module versus xCell signature overlap,all 17 modules share more than 20% of members with the xCell panel; maximum 100%
+Collinearity: overall model,"R2 of disease status on the four compartments: median 0.33, maximum 0.89"
+Collinearity: per-predictor VIF,"median 2.09, maximum 4.53"
+Curation flow,27 series retrieved; 26 case-control cohorts; 1 treatment-response series excluded; 3 downloaded series not carried forward

@@ -1,0 +1,25 @@
+# Pinned software environment for the analysis code
+# Mirrors 10_environment/environment.txt of the data deposit described in the manuscript.
+#
+# R environment
+R 4.4.1
+GSVA 1.52.3
+metafor 5.0.1
+survival (version not pinned in the manuscript materials)
+limma (version not pinned in the manuscript materials)
+GEOquery (version not pinned in the manuscript materials)
+xCell 1.1.0
+ggplot2 (version not pinned in the manuscript materials)
+patchwork (version not pinned in the manuscript materials)
+#
+# Python environment
+Python 3.11
+numpy
+h5py
+scipy
+python-docx
+Pillow
+#
+# NOTE: the manuscript pins explicit versions only for R, GSVA, metafor, xCell
+# and Python. Unpinned entries above are transcribed verbatim from the
+# manuscript's environment statement; do not invent version numbers here.

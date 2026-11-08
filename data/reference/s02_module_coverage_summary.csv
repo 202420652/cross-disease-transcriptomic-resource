@@ -1,0 +1,19 @@
+Module (short label),Members,Minimum coverage,Cohorts incomplete (of 26)
+RET_ALK_NTRK,6,0.33,5
+RAS_MAPK,12,0.58,10
+FGFR_AXIS,8,0.62,9
+HGF_MET_AXIS,3,0.67,1
+JAK_STAT,9,0.67,4
+TAM_AXL_AXIS,3,0.67,3
+EPH_RECEPTORS,4,0.75,1
+ERBB_RECEPTORS,4,0.75,1
+IGF_INSR_AXIS,4,0.75,18
+WNT_CTNNB1,4,0.75,4
+VEGF_PDGF_AXIS,9,0.78,3
+PDGFR_KIT_CSF1R,5,0.80,6
+SRC_FAK,5,0.80,3
+TGFB_SMAD,5,0.80,2
+ERBB_LIGANDS,6,0.83,2
+PI3K_AKT,9,0.89,7
+TIE_ANGPT_AXIS,3,1.00,0
+Cohorts analysed as unpaired despite available patient identifiers (fewer than four complete pairs),2,bulk,GSE62232 (one both-tissue patient) and GSE87473 (none); below the pre-specified four-pair threshold (Supplementary Table S32)

@@ -1,0 +1,5 @@
+Analysis,Comparisons,Not testable,"Significant, FDR < 0.05"
+Primary: donor means from all cells; BH within context x module x comparison type,240,80,37
+Sensitivity 1: only donors contributing at least ten cells per cell type and arm,200,48,41
+"Sensitivity 2: same donors, single BH correction across all comparisons",200,48,30
+Primary under a single BH correction across all comparisons (for reference),240,80,35

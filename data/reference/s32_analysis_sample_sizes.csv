@@ -1,0 +1,28 @@
+Accession,Context,Design,Cases,Controls,Pairs,Cases (est.),Controls (est.),Measure,Note
+GSE4302,Asthma,unpaired,42,28,—,42,28,SMDH,
+GSE43696,Asthma,unpaired,88,20,—,88,20,SMDH,
+GSE67472,Asthma,unpaired,62,43,—,62,43,SMDH,
+GSE47460,COPD,unpaired,145,91,—,145,91,SMDH,
+GSE76925,COPD,unpaired,111,40,—,111,40,SMDH,
+GSE23878,CRC,unpaired,35,24,—,35,24,SMDH,
+GSE41258,CRC,paired,182,53,44,44,44,SMCRPH,138 case samples unused (no complete pair)
+GSE44076,CRC,paired,98,98,98,98,98,SMCRPH,
+GSE20347,ESCC,paired,17,17,17,17,17,SMCRPH,
+GSE23400,ESCC,paired,53,53,53,53,53,SMCRPH,
+GSE57957,HCC,paired,37,37,37,37,37,SMCRPH,
+GSE62232,HCC,unpaired,81,5,—,81,5,SMDH,
+GSE179285,IBD,paired,22,31,11,11,11,SMCRPH,11 case samples unused (no complete pair)
+GSE75214,IBD,unpaired,74,23,—,74,23,SMDH,
+GSE87473,IBD,unpaired,106,21,—,106,21,SMDH,
+GSE10072,LUAD,paired,33,33,33,33,33,SMCRPH,
+GSE19804,LUAD,paired,60,60,60,60,60,SMCRPH,
+GSE32863,LUAD,paired,57,57,57,57,57,SMCRPH,
+GSE33814,NAFLD,unpaired,31,13,—,31,13,SMDH,
+GSE66676,NAFLD,unpaired,31,34,—,31,34,SMDH,
+GSE15471,PAAD,paired,36,36,36,36,36,SMCRPH,
+GSE28735,PAAD,paired,45,45,45,45,45,SMCRPH,
+GSE62452,PAAD,paired,42,42,42,42,42,SMCRPH,
+GSE13911,STAD,paired,38,31,31,31,31,SMCRPH,7 case samples unused (no complete pair)
+GSE27342,STAD,paired,80,80,80,80,80,SMCRPH,
+GSE63089,STAD,paired,45,45,45,45,45,SMCRPH,
+Total,26 cohorts,15 paired / 11 unpaired,1651,1060,689,1495,1031,SMDH / SMCRPH,156 case samples without a complete pair in three paired cohorts

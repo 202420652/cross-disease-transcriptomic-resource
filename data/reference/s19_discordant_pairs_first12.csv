@@ -1,0 +1,13 @@
+Context,Module,Cohorts,Pattern,Cohorts positive,Cohorts negative
+Asthma,FGFR_AXIS,3,1 positive / 2 negative,GSE4302,GSE43696;GSE67472
+Asthma,RET_ALK_NTRK,3,1 positive / 2 negative,GSE43696,GSE4302;GSE67472
+Asthma,SRC_FAK,3,2 positive / 1 negative,GSE4302;GSE67472,GSE43696
+Asthma,TGFB_SMAD,3,1 positive / 2 negative,GSE67472,GSE4302;GSE43696
+Asthma,TIE_ANGPT_AXIS,3,1 positive / 2 negative,GSE43696,GSE4302;GSE67472
+COPD,EPH_RECEPTORS,2,1 positive / 1 negative,GSE76925,GSE47460
+COPD,ERBB_RECEPTORS,2,1 positive / 1 negative,GSE76925,GSE47460
+COPD,FGFR_AXIS,2,1 positive / 1 negative,GSE47460,GSE76925
+COPD,IGF_INSR_AXIS,2,1 positive / 1 negative,GSE47460,GSE76925
+COPD,TIE_ANGPT_AXIS,2,1 positive / 1 negative,GSE47460,GSE76925
+CRC,ERBB_RECEPTORS,3,2 positive / 1 negative,GSE23878;GSE41258,GSE44076
+CRC,PI3K_AKT,3,1 positive / 2 negative,GSE23878,GSE41258;GSE44076

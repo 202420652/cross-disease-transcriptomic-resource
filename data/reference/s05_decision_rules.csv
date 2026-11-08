@@ -1,0 +1,11 @@
+Rule,Definition / threshold
+Effect size,"SMDH (unpaired) or SMCRPH (paired, empirical within-pair correlation r); shared denominator sqrt((sd_case^2 + sd_control^2)/2); paired cohorts use complete pairs only; zero-variance modules are reported as not estimable"
+Pooling,"REML with Hartung-Knapp correction; minimum two cohorts; k, tau-squared, I-squared, 95% CI and 95% prediction interval reported"
+Paired design,metadata-derived: at least four patients contributing both a case and a control sample
+Coverage policy,every effect row carries its module coverage; pooled results are re-estimated after excluding cohorts below 0.60 / 0.80 / 0.90 coverage
+Control ontology,"control tissue is classified (adjacent non-tumour, non-inflamed, healthy donor, non-diseased); classes are not pooled silently"
+Common-gene sensitivity,re-score with members present in every cohort; flag when the direction disagrees in >=20% of cohorts; not scorable when fewer than two members are shared
+Proportional hazards,scaled Schoenfeld residuals (cox.zph) in the age-adjusted model; flagged at p<0.05
+Single-cell design,library-size normalisation (1e4) and log1p; donor means per cell type and arm; >=3 donors per arm; paired signed-rank when >=5 complete pairs; unpaired only when donor-disjoint; otherwise not testable; BH within context x module x comparison type
+Reproduction tolerance,exact reproduction means an absolute difference of at most 1e-6 in the statistic concerned; rank agreement is reported as Spearman and never described as reproduction
+Mutation status,reported only for samples in the source mutation-profiled list; otherwise not assayed / unknown

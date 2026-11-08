@@ -1,0 +1,33 @@
+# Path configuration for the analysis scripts.
+# All R scripts resolve their inputs and outputs through this file, so the
+# pipeline can run from any directory once root_dir is set. This mirrors the
+# deposit convention (11_code/config.yml) described in the manuscript.
+#
+# root_dir must point at the extracted data deposit (the eleven-folder
+# structure summarised in Table 3 of the manuscript: 01_cohort_registry/ ...
+# 10_environment/). The deposit is NOT shipped in this repository; see
+# data/placeholders/README.md for what must be supplied.
+root_dir: ""          # REQUIRED: absolute path to the extracted deposit
+output_dir: "outputs" # directory for recomputed tables (created if missing)
+
+# Scoring settings fixed before scoring (manuscript, Methods):
+gsva:
+  method: "gsva"
+  kcdf: "Gaussian"    # all 26 cohorts are microarray; no Poisson kernel used
+  min_size: 3         # resource choice; package default is 1
+effect_sizes:
+  unpaired_measure: "SMDH"
+  paired_measure: "SMCRPH"
+  vtype: "LS"         # Bonett heteroscedastic large-sample variance
+  sensitivity_r: [0.5, 0.7]  # fixed-correlation sensitivity values
+pooling:
+  estimator: "REML"
+  test: "knha"        # Hartung-Knapp
+  min_cohorts: 2
+multiplicity:
+  method: "BH"        # Benjamini-Hochberg within disease context
+coverage_thresholds: [0.60, 0.80, 0.90]  # pre-specified sensitivity thresholds
+single_cell:
+  target_library_size: 10000
+  min_donors_per_arm: 3
+  min_complete_pairs: 5
