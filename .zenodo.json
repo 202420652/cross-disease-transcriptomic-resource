@@ -5,11 +5,45 @@
   "access_right": "open",
   "license": "cc-by-4.0",
   "creators": [
-    { "name": "Qin, Shimeng" },
-    { "name": "Qin, Fengyan" },
-    { "name": "Zuo, Hongqun" },
-    { "name": "Lai, Hao" },
-    { "name": "Lin, Yuan" }
+    {
+      "name": "Qin, Shimeng",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China",
+      "orcid": "0009-0000-8028-8056"
+    },
+    {
+      "name": "Qin, Fengyan",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China",
+      "orcid": "0009-0007-2959-1712"
+    },
+    {
+      "name": "Su, Shuqiong",
+      "affiliation": "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, China"
+    },
+    {
+      "name": "Hu, Mingyang",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+    },
+    {
+      "name": "Rong, Ju",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+    },
+    {
+      "name": "Zou, Xiaojun",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+    },
+    {
+      "name": "Zuo, Hongqun",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China",
+      "orcid": "0009-0007-8660-185X"
+    },
+    {
+      "name": "Lai, Hao",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+    },
+    {
+      "name": "Lin, Yuan",
+      "affiliation": "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+    }
   ],
   "keywords": [
     "transcriptomics",
@@ -27,5 +61,5 @@
       "scheme": "url"
     }
   ],
-  "notes": "Author order and roles transcribed from the submission cover letter (Shimeng Qin and Fengyan Qin co-first; Hongqun Zuo, Hao Lai and Yuan Lin corresponding). Affiliations and ORCID identifiers are NOT recorded here and must be completed by the corresponding authors before the record is published. The CC-BY-4.0 licence recorded above applies to the author-generated data in deposit/; the code is MIT-licensed (see LICENSE at the repository root), and upstream expression matrices remain under the terms of GEO, TCGA/GDC and CELLxGENE."
+  "notes": "Author list, order, affiliations and ORCID identifiers are transcribed from the manuscript (notified equal contribution: Shimeng Qin and Fengyan Qin; corresponding authors: Hongqun Zuo, Hao Lai and Yuan Lin). ORCID identifiers are given only where the manuscript provides them. The CC-BY-4.0 licence recorded above applies to the author-generated data in deposit/; the code is MIT-licensed (see LICENSE at the repository root), and upstream expression matrices remain under the terms of GEO, TCGA/GDC and CELLxGENE."
 }
