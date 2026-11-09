@@ -33,13 +33,32 @@ Data Availability statement and the shipped files all describe the same
 snapshot: the release now contains the full data deposit. No tag other than
 `v1.0` has been published, and the release has not been cited externally.
 
+**Archival record (Zenodo).** This release is archived and published:
+
+| Identifier | Value |
+|---|---|
+| Version DOI | `10.5281/zenodo.24083604` — https://doi.org/10.5281/zenodo.24083604 |
+| Concept DOI | `10.5281/zenodo.24083603` — https://doi.org/10.5281/zenodo.24083603 |
+| Record | https://zenodo.org/records/24083604 |
+| Archived file | `202420652/cross-disease-transcriptomic-resource-v1.0.zip` (1.9 MB, md5 `f1ed808c7c9195eba46cd22e8a47896f`) |
+| Archived commit | `4f7283f` (tag `v1.0`) |
+| Archived on | 2026-11-09 |
+
+The record was created by the GitHub–Zenodo integration from `.zenodo.json` at
+the tagged commit: nine creators in manuscript order, affiliations, the three
+ORCID iDs the manuscript provides, `dataset` / open access / CC-BY-4.0, and the
+relation `isSupplementTo` this repository. The record is the citable persistent
+identifier; later releases are archived the same way and get their own version
+DOI under the concept DOI.
+
 **Known gaps (declared, not hidden)**
 
 - `deposit/03_expression/` ships provenance, checksums and download scripts
   rather than redistributable matrices wherever the upstream terms forbid
   redistribution; the matrices are regenerated from the public accessions.
-- The DOI-issuing archive of this release is being prepared; the DOI is inserted
-  in the manuscript and in `README.md` on publication.
+- Files inside `deposit/` are left byte-for-byte as archived so the 133 checksums
+  still verify; the DOI is therefore recorded in `README.md`, `CITATION.cff`,
+  `LICENSE-DATA` and this file, not inside `deposit/`.
 - Software Heritage registration is not claimed for this release.
 
 **Verification performed for this release**

@@ -33,9 +33,16 @@ Printed reference tables (complete, with three clearly marked subsets) are in
 This repository is the resource cited in the manuscript's Data Availability and
 Code Availability statements — release tag **v1.0**:
 https://github.com/202420652/cross-disease-transcriptomic-resource
-The v1.0 release is additionally archived in a DOI-issuing repository (DOI to be
-inserted on publication), which provides the citable persistent identifier; this
-repository remains the working access point.
+
+**Citable archived version.** Release v1.0 is archived at Zenodo:
+
+- version DOI: [10.5281/zenodo.24083604](https://doi.org/10.5281/zenodo.24083604)
+- concept DOI (all versions): [10.5281/zenodo.24083603](https://doi.org/10.5281/zenodo.24083603)
+- record: https://zenodo.org/records/24083604
+
+Cite the version DOI for exactly this snapshot and the concept DOI when pointing
+at the resource in general. The Zenodo record is the persistent archive; this
+repository remains the working access point (issues, fixes, later releases).
 
 ## Layout
 
@@ -54,6 +61,7 @@ repository remains the working access point.
 | `config.yml`, `environment.txt` | Path configuration and pinned environment |
 | `LICENSE`, `LICENSE-DATA` | MIT for code; CC-BY-4.0 for author-generated data |
 | `CHANGELOG.md` | Release notes and version history of this repository |
+| `CITATION.cff` | Machine-readable citation for the archived release (version and concept DOI) |
 
 ## Quickstart
 
@@ -87,13 +95,28 @@ deposit each step stops with a message naming the missing input.
 
 ## Archiving and the citable identifier
 
-The release is designed to be archived from GitHub through the Zenodo
-integration using the metadata in [`.zenodo.json`](.zenodo.json), which records
-the title, description, creators (names only — affiliations and ORCID iDs must be
-completed by the corresponding authors), the CC-BY-4.0 data licence and the
-relation to this repository. Once the record is published, insert the DOI in the
-manuscript's Data Availability statement, in `deposit/00_README.md` and in
-`CHANGELOG.md`.
+Release v1.0 was archived from GitHub through the Zenodo integration on
+2026-11-09; the metadata in [`.zenodo.json`](.zenodo.json) (title, description,
+the nine creators with affiliations and the ORCID iDs the manuscript provides,
+the CC-BY-4.0 data licence and the relation to this repository) is what the
+record was built from. The record is published:
+
+| Identifier | Value | Use |
+|---|---|---|
+| Version DOI | `10.5281/zenodo.24083604` | cite this exact snapshot (v1.0) |
+| Concept DOI | `10.5281/zenodo.24083603` | cite the resource across versions |
+
+The archived file is the repository snapshot at tag `v1.0`
+(`202420652/cross-disease-transcriptomic-resource-v1.0.zip`, md5
+`f1ed808c7c9195eba46cd22e8a47896f`). Later releases are archived automatically by
+the same integration and receive their own version DOI under the concept DOI.
+
+The DOI is recorded in the manuscript's Data Availability and Code Availability
+statements, in [`CHANGELOG.md`](CHANGELOG.md), in [`CITATION.cff`](CITATION.cff)
+and in [`LICENSE-DATA`](LICENSE-DATA). Files inside `deposit/` are deliberately
+left byte-for-byte as archived, so `sha256sum -c 08_qc/checksums_sha256.txt`
+still verifies 133/133; the DOI therefore lives in the repository-level files
+listed above rather than inside the deposit.
 
 ## Licence
 
@@ -110,6 +133,8 @@ Split by content, as stated file by file in `deposit/08_qc/data_dictionary.csv`:
   terms of their original repositories. Where redistribution is not permitted,
   only the accession, the checksum and the download script are shipped.
 
-If you use the resource, cite the Data Descriptor and the release (tag `v1.0`);
-the DOI that will replace the tag as the citable identifier is inserted on
-publication. See [`CHANGELOG.md`](CHANGELOG.md) for what the release contains.
+If you use the resource, cite the Data Descriptor and the archived release:
+version DOI `10.5281/zenodo.24083604` for this snapshot, concept DOI
+`10.5281/zenodo.24083603` for the resource in general. [`CITATION.cff`](CITATION.cff)
+carries the same information in machine-readable form. See
+[`CHANGELOG.md`](CHANGELOG.md) for what the release contains.

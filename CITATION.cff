@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this resource, cite this archived release (version DOI) or the Data Descriptor; the concept DOI 10.5281/zenodo.24083603 identifies the resource across versions."
+title: "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.0)"
+abstract: >-
+  Analysis code and the eleven-folder data deposit of a cross-disease case-control
+  transcriptome resource: 26 public case-control cohorts across 10 disease contexts,
+  17 frozen signalling modules (99 genes) and 442 cohort-module pairs, scored in three
+  separate layers (bulk GSVA z-scores, TCGA member-mean z-scores, single-cell member
+  means) with coverage-aware standardised effect sizes (SMDH, SMCRPH), REML pooling
+  with Hartung-Knapp inference, and a validation ledger that separates PASS, FAIL,
+  PARTIAL and NOT TESTED.
+type: dataset
+authors:
+  - family-names: Qin
+    given-names: Shimeng
+    orcid: "https://orcid.org/0009-0000-8028-8056"
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Qin
+    given-names: Fengyan
+    orcid: "https://orcid.org/0009-0007-2959-1712"
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Su
+    given-names: Shuqiong
+    affiliation: "Department of Gastroenterology, Guangxi Medical University Cancer Hospital, Nanning, China"
+  - family-names: Hu
+    given-names: Mingyang
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Rong
+    given-names: Ju
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Zou
+    given-names: Xiaojun
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Zuo
+    given-names: Hongqun
+    orcid: "https://orcid.org/0009-0007-8660-185X"
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Lai
+    given-names: Hao
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+  - family-names: Lin
+    given-names: Yuan
+    affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
+version: "v1.0"
+doi: "10.5281/zenodo.24083604"
+date-released: "2026-11-09"
+license: CC-BY-4.0
+repository-code: "https://github.com/202420652/cross-disease-transcriptomic-resource"
+url: "https://zenodo.org/records/24083604"
+keywords:
+  - transcriptomics
+  - case-control
+  - gene-set scoring
+  - GSVA
+  - meta-analysis
+  - data descriptor
+  - reusable resource
