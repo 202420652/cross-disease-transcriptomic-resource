@@ -1,0 +1,31 @@
+{
+  "title": "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.0)",
+  "description": "<p>Analysis code and the eleven-folder data deposit of a cross-disease case-control transcriptome resource: 26 public case-control cohorts across 10 disease contexts, 17 frozen signalling modules (99 genes) and 442 cohort-module pairs, scored in three separate layers (bulk GSVA z-scores, TCGA member-mean z-scores, single-cell member means) with coverage-aware standardised effect sizes (SMDH, SMCRPH), REML pooling with Hartung-Knapp inference, and a validation ledger that separates PASS, FAIL, PARTIAL and NOT TESTED.</p><p>Contents: <code>deposit/</code> (data, quality-control records, reuse examples, environment and the archived pipeline), the maintained Python and R implementations under <code>src/</code>, <code>R/</code>, <code>scripts/</code> and <code>tests/</code>, printed reference tables under <code>data/reference/</code>, and the integrity manifests <code>deposit/08_qc/file_inventory_and_checksums.csv</code> and <code>deposit/08_qc/checksums_sha256.txt</code>.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Qin, Shimeng" },
+    { "name": "Qin, Fengyan" },
+    { "name": "Zuo, Hongqun" },
+    { "name": "Lai, Hao" },
+    { "name": "Lin, Yuan" }
+  ],
+  "keywords": [
+    "transcriptomics",
+    "case-control",
+    "gene-set scoring",
+    "GSVA",
+    "meta-analysis",
+    "data descriptor",
+    "reusable resource"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/202420652/cross-disease-transcriptomic-resource/tree/v1.0",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Author order and roles transcribed from the submission cover letter (Shimeng Qin and Fengyan Qin co-first; Hongqun Zuo, Hao Lai and Yuan Lin corresponding). Affiliations and ORCID identifiers are NOT recorded here and must be completed by the corresponding authors before the record is published. The CC-BY-4.0 licence recorded above applies to the author-generated data in deposit/; the code is MIT-licensed (see LICENSE at the repository root), and upstream expression matrices remain under the terms of GEO, TCGA/GDC and CELLxGENE."
+}

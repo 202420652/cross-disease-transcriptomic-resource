@@ -13,6 +13,7 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 | `LICENSE` | MIT licence for the code (as declared in the manuscript's Code Availability) |
 | `LICENSE-DATA` | CC-BY-4.0 licence for the author-generated data, with scope and attribution |
 | `CHANGELOG.md` | Release notes and version history of the repository (the "release notes" cited in Data Availability) |
+| `.zenodo.json` | Archival metadata for the DOI-issuing repository (title, description, creators, CC-BY-4.0 data licence); affiliations and ORCID iDs to be completed by the authors |
 | `config.yml` | Path configuration (`root_dir: deposit`) and the pre-specified analysis settings |
 | `environment.txt` | Pinned software environment (R 4.4.1 + GSVA 1.52.3, metafor 5.0.1, xCell 1.1.0, …; Python 3.11) |
 | `requirements.txt` | Minimal Python dependencies |

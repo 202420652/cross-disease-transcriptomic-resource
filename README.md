@@ -85,6 +85,16 @@ deposit each step stops with a message naming the missing input.
 - Exact reproduction means |difference| ≤ 1 × 10⁻⁶ on full-precision
   recomputation, not on printed values.
 
+## Archiving and the citable identifier
+
+The release is designed to be archived from GitHub through the Zenodo
+integration using the metadata in [`.zenodo.json`](.zenodo.json), which records
+the title, description, creators (names only — affiliations and ORCID iDs must be
+completed by the corresponding authors), the CC-BY-4.0 data licence and the
+relation to this repository. Once the record is published, insert the DOI in the
+manuscript's Data Availability statement, in `deposit/00_README.md` and in
+`CHANGELOG.md`.
+
 ## Licence
 
 Split by content, as stated file by file in `deposit/08_qc/data_dictionary.csv`:
