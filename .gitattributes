@@ -1,0 +1,14 @@
+# Line-ending policy: force LF in the working tree on every platform.
+# The deposit's integrity manifests (deposit/08_qc/checksums_sha256.txt) record
+# SHA-256 of the shipped files; a CRLF checkout would change those bytes and make
+# `sha256sum -c 08_qc/checksums_sha256.txt` fail. Keep LF everywhere.
+* text=auto eol=lf
+
+# Binary content: never convert.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tiff binary
+*.pdf binary
+*.docx binary
+*.zip binary
