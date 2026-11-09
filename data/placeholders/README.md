@@ -3,10 +3,12 @@
 This repository was extracted from the manuscript submission package
 (manuscript, Tables 1–3, Supplementary Information PDF, five figures). The
 submission package did **not** include the data deposit or the original
-pipeline scripts. Everything listed below must come from the deposit (Zenodo,
-DOI reserved at the time of submission: https://doi.org/10.5281/zenodo.XXXXXXX)
-or from the analysis-code repository cited in the manuscript
-(https://github.com/202420652/cross-disease-transcriptomic-resource, tag v1.0). Nothing here is reconstructed by guesswork; code that needs these
+pipeline scripts. Everything listed below must come from the data deposit,
+which is distributed through this repository as the eleven folders
+`01_cohort_registry/` … `11_code/` described in the manuscript's Data
+Availability statement, or from the analysis-code repository itself
+(https://github.com/202420652/cross-disease-transcriptomic-resource, tag v1.0).
+Nothing here is reconstructed by guesswork; code that needs these
 inputs stops with an explicit error instead of fabricating values.
 
 | Missing input | Deposit location | Needed by |

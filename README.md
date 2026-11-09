@@ -23,7 +23,8 @@ data. Printed reference tables (complete and clearly marked subsets) are in
 This repository is the analysis-code repository cited in the manuscript's
 Code Availability statement (release tag v1.0, MIT licence):
 https://github.com/202420652/cross-disease-transcriptomic-resource
-Data deposit: Zenodo, DOI reserved at submission.
+Data deposit: distributed through this repository as the eleven-folder
+inventory described in the manuscript (see the Data Availability statement).
 
 ## Layout
 
