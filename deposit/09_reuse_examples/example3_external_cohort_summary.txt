@@ -1,0 +1,6 @@
+external cohort: GSE54129
+samples: 111 case / 21 control
+modules scored: 17
+modules with a comparable resource estimate: 17
+direction agreement: 9 of 17
+wall-clock runtime: 1.6 minutes

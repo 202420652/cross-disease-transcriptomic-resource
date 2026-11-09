@@ -1,40 +1,41 @@
-# Placeholder inventory — inputs that are NOT in this repository
+# Deposit input map — where every input lives
 
-This repository was extracted from the manuscript submission package
-(manuscript, Tables 1–3, Supplementary Information PDF, five figures). The
-submission package did **not** include the data deposit or the original
-pipeline scripts. Everything listed below must come from the data deposit,
-which is distributed through this repository as the eleven folders
-`01_cohort_registry/` … `11_code/` described in the manuscript's Data
-Availability statement, or from the analysis-code repository itself
-(https://github.com/202420652/cross-disease-transcriptomic-resource, tag v1.0).
-Nothing here is reconstructed by guesswork; code that needs these
-inputs stops with an explicit error instead of fabricating values.
+The data deposit described in the manuscript is shipped in this repository as
+`deposit/` (eleven folders `01_cohort_registry/` … `11_code/`, deposit version
+v18.0, released as tag `v1.0`). Everything the code needs is therefore present in
+the repository; this file maps each input to its path so that a reader can go
+straight from a script to the file it consumes.
 
-| Missing input | Deposit location | Needed by |
+| Input | Path (relative to `deposit/`) | Used by |
 |---|---|---|
-| 99-gene module membership with role/source annotation | `04_modules/module_definitions.csv` | all scoring steps (module sizes and names are known from the manuscript; individual gene identities are not printed) |
-| Per-cohort processed expression matrices (26 cohorts, TCGA contexts) | `03_expression/` | R steps 01, 02, 05 |
-| Sample annotation (case/control, pairing, exclusions) | `02_sample_annotation/` | R step 03 |
-| Full-precision per-cohort effects (`r_emp`, `npair`, member counts) | `07_estimates/per_cohort_effects.csv` | internal reproducibility of the estimates layer |
-| Full-precision SMCRPH inputs (per-pair values behind `r_emp`) | deposit | the paired effect layer cannot be re-derived from printed summaries |
-| Complete S26 sensitivity table (165 rows; printed: first 80) | `07_estimates/meta_classic_denominator_sensitivity.csv` | sensitivity comparison |
+| 99-gene module membership with role and module version | `04_modules/module_definitions.csv` | all scoring steps; module sizes, names and individual gene identities |
+| Frozen module coverage per platform | `04_modules/platform_module_coverage.csv` | coverage-aware filtering |
+| Sample-level bulk GSVA z-scores | `04_modules/sample_module_scores_gsva_z.csv` | effect-size layer |
+| Sample annotation (case/control, pairing, exclusions) | `02_sample_annotation/sample_annotation_geo_cohorts.csv`, `…_escc_squamous_tcga.csv` | `R/03_effects_escalc.R` |
+| Per-cohort processed expression matrices | regenerated from `03_expression/source_download_manifest.csv` + `download_and_rebuild_one_series.R` | `R/01`, `R/02`, `R/05` |
+| Full-precision per-cohort effects (`r_emp`, `npair`, member counts) | `07_estimates/per_cohort_effects.csv` (442 rows) | reproducibility of the estimates layer |
+| Complete S26 sensitivity table (165 rows; the printed table in `data/reference/` is the first 80) | `07_estimates/meta_classic_denominator_sensitivity.csv` | sensitivity comparison |
 | Complete S29 single-cell donor effects (208 rows; printed: first 60) | `06_single_cell/single_cell_donor_level_effects_with_ci.csv` | single-cell layer |
-| Patient-level OS annotation, driver alteration calls, module scores | deposit | R step 06 |
-| Single-cell count matrices (CELLxGENE collections + GSE193816) | upstream only | `cdtr.single_cell` on real data |
-| `manifest_checksum.txt`, `file_inventory_and_checksums.csv` | `08_qc/` | checksum verification of the deposit |
-| Original `11_code/` scripts and `sessionInfo.txt` | deposit / original repo | byte-level internal reproducibility |
+| Patient-level TCGA scores, OS annotation, driver calls | `07_estimates/tcga_patient_module_scores.csv`, `07_estimates/driver_interactions.csv`, `07_estimates/tcga_escc_squamous_survival_cox.csv` | `R/06_tcga_survival.R` |
+| Single-cell count matrices (CELLxGENE collections + GSE193816) | upstream only, identified by `01_cohort_registry/cellxgene_sources.csv` | `cdtr.single_cell` on real data |
+| File inventory, checksum list, manifest digest | `08_qc/file_inventory_and_checksums.csv`, `08_qc/checksums_sha256.txt`, `08_qc/manifest_checksum.txt` | integrity verification |
+| Original pipeline scripts and run information | `11_code/`, `10_environment/run_order.md`, `11_code/sessionInfo.txt` | provenance of every deposited table |
 
-## Printed subsets shipped here
+Paths quoted in the manuscript are relative to the deposit root; in the
+repository that root is `deposit/`. Scripts that read these files take the root
+from `config.yml` (`root_dir`) and stop with an explicit error when a file is
+absent — they never substitute a value.
 
-The following reference tables are **printed subsets**, marked in the file
-name; do not treat them as complete data:
+## Printed subsets kept in `data/reference/`
+
+`data/reference/` holds tables exported verbatim from `Tables.docx` (the printed
+supplementary tables). Three of them are **printed subsets**, marked in the file
+name; use the deposit files above for complete data:
 
 - `s26_classic_denominator_sensitivity_first80.csv` — first 80 of 165 rows
 - `s29_single_cell_donor_effects_first60.csv` — first 60 of 208 rows
 - `s19_discordant_pairs_first12.csv` — first 12 rows
 
-All other `s*.csv` / `table*.csv` files in `data/reference/` are complete
-printed tables, exported verbatim (cell text unchanged) from the
-manuscript's Tables document; provenance is recorded in
+All other `s*.csv` / `table*.csv` files in `data/reference/` are complete printed
+tables, cell text unchanged; provenance is recorded in
 `data/reference/table_manifest.json` (source SHA-256 included).

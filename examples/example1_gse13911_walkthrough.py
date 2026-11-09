@@ -14,8 +14,9 @@ The shipped anchor numbers for GSE13911 / EPH_RECEPTORS are:
 
 This script exercises steps 1, 3 and 5 against the printed reference tables
 in data/reference/ (registry, module coverage, design-stratified pooled
-table). Steps 2 and 4 require deposit files that are not shipped in this
-repository; see data/placeholders/README.md.
+table), so it runs without reading the deposit. Steps 2 and 4 read the deposit
+itself (02_sample_annotation/ and 04_modules/ under deposit/); the input map
+is in data/placeholders/README.md.
 """
 
 from __future__ import annotations

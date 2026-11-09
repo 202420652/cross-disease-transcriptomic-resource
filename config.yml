@@ -1,13 +1,16 @@
 # Path configuration for the analysis scripts.
 # All R scripts resolve their inputs and outputs through this file, so the
 # pipeline can run from any directory once root_dir is set. This mirrors the
-# deposit convention (11_code/config.yml) described in the manuscript.
+# deposit convention (deposit/11_code/config.yml) described in the manuscript.
 #
-# root_dir must point at the extracted data deposit (the eleven-folder
-# structure summarised in Table 3 of the manuscript: 01_cohort_registry/ ...
-# 10_environment/). The deposit is NOT shipped in this repository; see
-# data/placeholders/README.md for what must be supplied.
-root_dir: ""          # REQUIRED: absolute path to the extracted deposit
+# root_dir points at the data deposit shipped in this repository: the
+# eleven-folder structure summarised in Table 3 of the manuscript
+# (01_cohort_registry/ ... 11_code/). The path below is relative, so the
+# scripts must be run from the repository root; use an absolute path instead
+# if you run them from elsewhere. Every input is mapped in
+# data/placeholders/README.md, and a missing file stops the run with an
+# explicit message rather than being replaced by a substitute value.
+root_dir: "deposit"   # eleven-folder deposit shipped at the repository root
 output_dir: "outputs" # directory for recomputed tables (created if missing)
 
 # Scoring settings fixed before scoring (manuscript, Methods):

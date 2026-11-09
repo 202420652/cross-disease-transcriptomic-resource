@@ -1,0 +1,12 @@
+R version 4.4.1 (2024-06-14 ucrt)
+GSVA:1.52.3
+metafor:5.0.1
+survival:3.8.3
+dplyr:1.1.4
+ggplot2:4.0.3
+python: 3.11.4
+xCell:1.1.0
+limma:3.60.6
+GEOquery:2.72.0
+Biobase:2.64.0
+single-cell pipeline python: 3.11 (numpy 1.26, scipy 1.11, h5py 3.11); donors aggregated before testing

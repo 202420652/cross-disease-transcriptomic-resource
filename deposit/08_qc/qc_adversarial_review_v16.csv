@@ -1,0 +1,40 @@
+area,check,status,detail
+figure,Fig1_resource_overview.png 尺寸/打印,OK,2010x2790px → 6.2x8.6 in (324 dpi @6.2in)
+figure,Fig1_resource_overview.png 裁切/出血,OK,边带墨迹像素 0
+figure,Fig1_resource_overview.png 墨迹密度,OK,"深色占比 0.011, 均值 238.1"
+figure,Fig1_resource_overview.png 缩50%可读性,OK,OCR 词数 107/135 = 0.79
+figure,Fig1_resource_overview.png 图内无图例/总标题,OK,
+figure,Fig2_technical_validation.png 尺寸/打印,OK,2010x2460px → 6.2x7.6 in (324 dpi @6.2in)
+figure,Fig2_technical_validation.png 裁切/出血,OK,边带墨迹像素 0
+figure,Fig2_technical_validation.png 墨迹密度,OK,"深色占比 0.011, 均值 236.6"
+figure,Fig2_technical_validation.png 缩50%可读性,OK,OCR 词数 105/106 = 0.99
+figure,Fig2_technical_validation.png 图内无图例/总标题,OK,
+figure,Fig3_comparability_checks.png 尺寸/打印,OK,2010x2580px → 6.2x8.0 in (324 dpi @6.2in)
+figure,Fig3_comparability_checks.png 裁切/出血,OK,边带墨迹像素 0
+figure,Fig3_comparability_checks.png 墨迹密度,OK,"深色占比 0.012, 均值 240.6"
+figure,Fig3_comparability_checks.png 缩50%可读性,OK,OCR 词数 143/144 = 0.99
+figure,Fig3_comparability_checks.png 图内无图例/总标题,OK,
+figure,Fig4_sensitivity_checks.png 尺寸/打印,OK,2010x2220px → 6.2x6.8 in (324 dpi @6.2in)
+figure,Fig4_sensitivity_checks.png 裁切/出血,OK,边带墨迹像素 0
+figure,Fig4_sensitivity_checks.png 墨迹密度,OK,"深色占比 0.010, 均值 220.3"
+figure,Fig4_sensitivity_checks.png 缩50%可读性,OK,OCR 词数 92/98 = 0.94
+figure,Fig4_sensitivity_checks.png 图内无图例/总标题,OK,
+tables,Tables_v16.docx: 33 张表,OK,全部为三线表、表头完整、无空/NA 格
+tables,渲染后页面越界词数,OK,0
+tables,渲染后文字重叠对数,OK,0
+tables,DataDescriptor_v16.docx: 1 张表,OK,全部为三线表、表头完整、无空/NA 格
+manuscript,上下标,OK,docx 上标 run = 53
+manuscript,图注只出现一次,OK,出现 1 次
+manuscript,Table 1 内嵌,OK,1 张表
+manuscript,公式排版（docx 内实测）,WARN,"docx 中仍为 ASCII: _case, _control"
+manuscript,数字区间使用连字符（排除 DOI/UUID）,WARN,"6-7, 1-9, 0-5, 1-6"
+manuscript,多余空格,OK,
+manuscript,参考文献条数,OK,51 条
+numbers,83 个仅配对状态,OK,83
+numbers,64 个仅非配对状态,OK,64
+numbers,163/165 同号,OK,163/165
+numbers,蒙特卡洛 15 组,OK,15
+numbers,208 个供者级比较,OK,208
+numbers,24 个 CI 排除 0,OK,24
+numbers,HCC 17 个状态受影响,OK,17
+numbers,数据文件数,OK,129

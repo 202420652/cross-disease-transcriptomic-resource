@@ -1,0 +1,21 @@
+n_case,n_control,sd_case,sd_control,true_delta,mean_estimate,empirical_variance,analytic_variance,ratio_analytic_over_empirical,coverage_of_analytic_95CI,sign_convention,replicates
+8,8,1.0,1.0,0.0,-0.0033,0.26149,0.29616,1.133,0.966,delta = case - control; positive = higher in cases,4000
+8,8,1.0,1.0,0.3,0.2979,0.270848,0.300181,1.108,0.967,delta = case - control; positive = higher in cases,4000
+8,8,1.0,1.0,0.8,0.8055,0.285982,0.32331,1.131,0.972,delta = case - control; positive = higher in cases,4000
+12,12,1.0,1.0,0.0,-0.0077,0.175323,0.186145,1.062,0.962,delta = case - control; positive = higher in cases,4000
+12,12,1.0,1.0,0.3,0.2933,0.175027,0.188253,1.076,0.962,delta = case - control; positive = higher in cases,4000
+12,12,1.0,1.0,0.8,0.8017,0.182533,0.202119,1.107,0.967,delta = case - control; positive = higher in cases,4000
+20,20,1.0,1.0,0.0,-0.0002,0.101159,0.106661,1.054,0.96,delta = case - control; positive = higher in cases,4000
+20,20,1.0,1.0,0.3,0.2984,0.104785,0.107945,1.03,0.956,delta = case - control; positive = higher in cases,4000
+20,20,1.0,1.0,0.8,0.8046,0.111145,0.115765,1.042,0.958,delta = case - control; positive = higher in cases,4000
+40,40,1.0,1.0,0.0,0.0043,0.050989,0.051617,1.012,0.956,delta = case - control; positive = higher in cases,4000
+40,40,1.0,1.0,0.3,0.2993,0.05073,0.052203,1.029,0.951,delta = case - control; positive = higher in cases,4000
+40,40,1.0,1.0,0.8,0.799,0.052961,0.055823,1.054,0.956,delta = case - control; positive = higher in cases,4000
+60,30,1.0,1.0,0.0,0.0046,0.049264,0.051622,1.048,0.955,delta = case - control; positive = higher in cases,4000
+60,30,1.0,1.0,0.3,0.3001,0.051343,0.052211,1.017,0.949,delta = case - control; positive = higher in cases,4000
+60,30,1.0,1.0,0.8,0.7986,0.055279,0.055805,1.01,0.954,delta = case - control; positive = higher in cases,4000
+20,20,1.0,2.0,0.5,0.3203,0.10633,0.108926,1.024,0.921,delta = case - control; positive = higher in cases,4000
+20,20,2.0,0.5,0.5,0.3475,0.112789,0.110597,0.981,0.92,delta = case - control; positive = higher in cases,4000
+60,15,1.0,1.0,0.5,0.5032,0.085882,0.090658,1.056,0.955,delta = case - control; positive = higher in cases,4000
+60,15,1.0,2.0,0.5,0.3204,0.127131,0.123901,0.975,0.912,delta = case - control; positive = higher in cases,4000
+15,60,2.0,1.0,0.0,-0.001,0.121929,0.12154,0.997,0.951,delta = case - control; positive = higher in cases,4000

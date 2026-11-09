@@ -1,0 +1,43 @@
+accession_or_dataset,context,layer,status,in_estimates,testable_comparison,reason_for_status,dataset_version,source_doi,control_class
+GSE13911,STAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE27342,STAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE63089,STAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE15471,PAAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE20347,ESCC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE23400,ESCC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE28735,PAAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE33814,NAFLD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,non-diseased control tissue
+GSE47460,COPD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,non-diseased control tissue
+GSE57957,HCC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE62232,HCC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE62452,PAAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE66676,NAFLD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,non-diseased control tissue
+GSE76925,COPD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,non-diseased control tissue
+GSE10072,LUAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE16879,,bulk transcriptome,"treatment-response series (reviewed, not part of the case-control resource)",no,no,"responder versus non-responder design, no case-control contrast for module scoring",,,
+GSE179285,IBD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,healthy donor / non-diseased control
+GSE19804,LUAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE23878,CRC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE32863,LUAD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE41258,CRC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE4302,Asthma,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,other
+GSE43696,Asthma,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,other
+GSE44076,CRC,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,tumour-adjacent normal tissue
+GSE67472,Asthma,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,other
+GSE75214,IBD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,non-inflamed tissue of the same or comparable patients
+GSE87473,IBD,bulk transcriptome,included case-control cohort,yes,yes,case and control samples on one platform with a usable processed matrix,,,non-inflamed tissue of the same or comparable patients
+GSE21501,PAAD,bulk transcriptome,downloaded but not carried forward,no,no,no usable control arm after sample annotation,,,
+GSE62254,STAD,bulk transcriptome,downloaded but not carried forward,no,no,incomplete platform annotation,,,
+GSE15459,STAD,bulk transcriptome,downloaded but not carried forward,no,no,redundant with the retained gastric cohorts,,,
+GSE39582,CRC,bulk transcriptome,external-validation series (not part of the resource),no,yes,used only to test whether the frozen modules transfer to an unseen colorectal cohort,,,adjacent non-tumour tissue
+CRC single-cell dataset (CELLxGENE collection 1cbfb478-2c7f-4d15-b522-9f74e9fe52a8; dataset version 829a3cd1-a466-49f1-b2e9-d3f6b7f392e2),CRC,single-cell,processed; contributes testable comparisons,no,yes,arms separated by donor with at least three donors per arm,829a3cd1-a466-49f1-b2e9-d3f6b7f392e2,,
+IBD single-cell dataset (CELLxGENE collection 7c7bd6c2-925b-4034-baab-620ef1b760e1; dataset version 9bfecd44-e6b5-4072-9b64-cb7f0a117f88),IBD,single-cell,processed; contributes testable comparisons,no,yes,arms separated by donor with at least three donors per arm,9bfecd44-e6b5-4072-9b64-cb7f0a117f88,,
+STAD single-cell dataset (CELLxGENE collection f11cb29c-b546-4738-9bd8-66ea621a7bd5; dataset version 0d3807bf-97f0-4ec5-9611-15ada507f0df),STAD,single-cell,processed; contributes testable comparisons,no,yes,arms separated by donor with at least three donors per arm,0d3807bf-97f0-4ec5-9611-15ada507f0df,,
+ASTHMA single-cell dataset,ASTHMA,single-cell,processed; no testable comparison after donor rules,no,no,"case and control arms are the same donors within one cell type, so no comparison met the donor rules",,,
+LUAD single-cell dataset (CELLxGENE collection 0bebef1a-4607-4584-9070-dacf89a0d635; dataset version 01ff5cf0-730f-4ddc-b1be-7b407211f544),LUAD,single-cell,excluded (no control arm),no,no,"all cells are tumour tissue, so no case-control contrast exists",01ff5cf0-730f-4ddc-b1be-7b407211f544,,
+TCGA-LUAD,LUAD,tumour molecular,"included (annotation, mutation and survival layers)",no,yes,open-access GDC project accessed through cBioPortal,,,
+TCGA-COADREAD,CRC,tumour molecular,"included (annotation, mutation and survival layers)",no,yes,open-access GDC project accessed through cBioPortal,,,
+TCGA-STAD,STAD,tumour molecular,"included (annotation, mutation and survival layers)",no,yes,open-access GDC project accessed through cBioPortal,,,
+TCGA-PAAD,PAAD,tumour molecular,"included (annotation, mutation and survival layers)",no,yes,open-access GDC project accessed through cBioPortal,,,
+TCGA-LIHC,HCC,tumour molecular,"included (annotation, mutation and survival layers)",no,yes,open-access GDC project accessed through cBioPortal,,,
+TCGA-ESCA,ESCC,tumour molecular,"included (annotation, mutation and survival layers)",no,yes,open-access GDC project accessed through cBioPortal,,,

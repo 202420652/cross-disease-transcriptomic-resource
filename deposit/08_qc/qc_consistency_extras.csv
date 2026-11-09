@@ -1,0 +1,8 @@
+metric,value
+context-module pairs with at least two cohorts,165
+pairs with the same direction in every contributing cohort,112 (68%)
+"Wilson 95% interval for that proportion (pair-level, pairs not independent)",60.4% to 74.5%
+consistency restricted to pairs with at least three cohorts,67/99 (68%)
+cohorts whose control is tumour-adjacent normal tissue,16/26
+control classes present in the resource,healthy donor / non-diseased control: 1 cohorts; non-diseased control tissue: 4 cohorts; non-inflamed tissue of the same or comparable patients: 2 cohorts; other: 3 cohorts; tumour-adjacent normal tissue: 16 cohorts
+design types pooled in the primary analysis,SMDH (unpaired cohorts) and SMCRPH (paired cohorts) are pooled together; design type is reported per state and unpaired-only pooling is shipped as a sensitivity analysis

@@ -48,9 +48,12 @@ resource and on this code — do not silently "fix" them.
   with the raw mean difference rather than the standardised effect (hence
   mean estimates near 0.32 for a stated 0.5). The standardisation target of
   that simulation grid is under re-evaluation by the authors.
-- **SMCRPH full-precision inputs** are not in the printed materials; the
-  paired layer can only be re-derived from the deposit.
-- The original pipeline scripts (`11_code/` in the deposit) are not part of
-  the submission package this repository was extracted from; the R scripts
-  here are faithful re-implementations of the documented calls, not the
-  original files.
+- **SMCRPH full-precision inputs** are not printed in the supplementary
+  tables; the paired layer can only be re-derived from the deposit
+  (`deposit/07_estimates/per_cohort_effects.csv`, columns `r_emp` and `npair`),
+  not from the printed summaries in `data/reference/`.
+- The original pipeline is shipped in `deposit/11_code/` and preserved
+  unchanged; the R scripts in `R/` are faithful re-implementations of the
+  documented calls, not copies of those files. The archive note
+  (`deposit/11_code/00_ARCHIVE_NOTE.md`) lists the historical hard-coded
+  strings that the preserved scripts still contain.

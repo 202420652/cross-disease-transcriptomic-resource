@@ -1,0 +1,5 @@
+example,status,run_from,working_directory,last_line
+example1_replace_module_gene_set.R,exit 0,clean copy of the deposit,temporary directory,example 1 done: scores written for 2 module(s)
+example2_recompute_composition_scheme.R,exit 0,clean copy of the deposit,temporary directory,example 2 done: 170 states | median per-state adjusted/base ratio = 0.818 | overall ratio from column medians = 1.303
+example3_external_cohort_rebuild.R,exit 0,clean copy of the deposit,temporary directory,total wall-clock runtime: 0.2 minutes
+declared values reproduced,confirmed,example 2 in the clean copy,temporary directory,median per-state adjusted/base ratio 0.818 and external-cohort direction agreement 9/17 match the shipped tables

@@ -1,0 +1,14 @@
+# Path configuration for the shipped scripts. Set root_dir to the folder that contains this deposit,
+# then every script resolves its inputs and outputs relative to that folder.
+root_dir: "."            # e.g. "/data/cross_disease_transcriptome_resource"
+paths:
+  expression: "03_expression"
+  estimates: "07_estimates"
+  qc: "08_qc"
+  single_cell: "06_single_cell"
+  registry: "01_cohort_registry"
+options:
+  r_binary: "Rscript"    # R 4.4.1 or newer
+  python_binary: "python3"
+  threads: 4
+  seed: 20240901

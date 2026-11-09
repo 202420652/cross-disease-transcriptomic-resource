@@ -9,9 +9,11 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 
 | File | Purpose |
 |---|---|
-| `README.md` | Repository overview, provenance/scope statement, quickstart, conventions |
-| `LICENSE` | MIT licence (as declared in the manuscript's Code Availability) |
-| `config.yml` | Path configuration (`root_dir` → deposit) and the pre-specified analysis settings |
+| `README.md` | Repository overview, deposit-vs-code distinction, quickstart, conventions, licence split |
+| `LICENSE` | MIT licence for the code (as declared in the manuscript's Code Availability) |
+| `LICENSE-DATA` | CC-BY-4.0 licence for the author-generated data, with scope and attribution |
+| `CHANGELOG.md` | Release notes and version history of the repository (the "release notes" cited in Data Availability) |
+| `config.yml` | Path configuration (`root_dir: deposit`) and the pre-specified analysis settings |
 | `environment.txt` | Pinned software environment (R 4.4.1 + GSVA 1.52.3, metafor 5.0.1, xCell 1.1.0, …; Python 3.11) |
 | `requirements.txt` | Minimal Python dependencies |
 | `pyproject.toml` | Installable package definition for `src/cdtr` |
@@ -29,7 +31,7 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 | `design.py` | Metadata-derived paired/unpaired decision (≥4 complete pairs) and measure/sample-count mapping |
 | `__init__.py` | Public API |
 
-## R pipeline — `R/` (requires the data deposit; fails explicitly without it)
+## R pipeline — `R/` (runs against `deposit/`; fails explicitly if an input is missing)
 
 | File | Purpose |
 |---|---|
@@ -49,6 +51,7 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 | `scripts/validate_reference_tables.py` | Structural consistency checks on `data/reference/` (26 cohorts/10 contexts, 17 modules/99 genes, 312 S25 rows, subset markers, manifest coverage) |
 | `scripts/verify_independent_implementation.py` | Monte Carlo check of the SMDH closed-form variance (mirrors S27, with the standardisation-target caveat documented) |
 | `tools/export_docx_tables.py` | The verbatim cell-level exporter used to build `data/reference/` from Tables.docx |
+| `tools/refresh_deposit_manifests.py` | Rebuilds `08_qc/file_inventory_and_checksums.csv`, `checksums_sha256.txt` and `manifest_checksum.txt` after any change to the deposit |
 
 ## Tests — `tests/`
 
@@ -76,7 +79,23 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 |---|---|
 | `data/reference/*.csv` (36 files) | Printed tables S1–S32 and Tables 1–3, verbatim; `first80`/`first60`/`first12` in a name marks a printed subset, not complete data |
 | `data/reference/table_manifest.json` | Per-table provenance incl. source SHA-256 and value policy |
-| `data/placeholders/README.md` | Inventory of inputs that exist only in the deposit (nothing fabricated) |
+| `data/placeholders/README.md` | Input map: every input the code reads, and its path under `deposit/` |
+
+## Deposit — `deposit/`
+
+The data deposit described in the manuscript, shipped in full (135 files, 5.7 MB;
+largest file 1.9 MB, so no Git LFS is required).
+
+| Path | Purpose |
+|---|---|
+| `deposit/00_README.md` | Deposit guide: contents, field dictionary, exclusions, limitations, layer-selection table, encoding and licence rules |
+| `deposit/00_CHANGELOG.md` | Deposit version history (v12 → v18) and its mapping to repository release v1.0 |
+| `deposit/00_VERSION.txt` | Deposit version (v18.0), release tag, frozen module configuration, update policy |
+| `deposit/01_cohort_registry/` … `deposit/10_environment/` | Data, quality-control records, reuse examples and environment, as summarised in Table 3 |
+| `deposit/11_code/` | Original pipeline, preserved unchanged; `00_ARCHIVE_NOTE.md` explains its historical hard-coded strings |
+| `deposit/08_qc/file_inventory_and_checksums.csv` | One row per shipped file: bytes, data rows, SHA-256 |
+| `deposit/08_qc/checksums_sha256.txt` | `sha256sum -c` list for 133 files |
+| `deposit/08_qc/manifest_checksum.txt` | Digests of the two manifest files above |
 
 ## Docs
 

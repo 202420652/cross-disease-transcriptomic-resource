@@ -1,0 +1,7 @@
+cross-disease transcriptomic resource
+version: v18.0
+released: 2026-11-05
+release in repository: v1.0 (https://github.com/202420652/cross-disease-transcriptomic-resource)
+frozen configuration: module_version = v12.0-frozen-2026-09
+supersedes: v17.0 (design-stratified pooled table regenerated under the Hartung-Knapp rule so that it reproduces the joint table; sampling variance documented as the Bonett heteroscedastic form actually used and re-validated by Monte Carlo; validation records moved to four explicit states PASS/FAIL/PARTIAL/NOT TESTED; cell-count table relabelled; data dictionary added)
+update policy: new versions are published as new tagged releases of the GitHub repository; earlier releases remain accessible and citable

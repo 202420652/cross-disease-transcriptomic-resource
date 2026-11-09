@@ -1,0 +1,28 @@
+accession,context,platform,n_assay_records,n_unique_samples,n_unique_patients,patient_identity_available,n_case,n_control,patients_with_both_arms,paired_design_used,design,included_in_estimates,origin_pmid,provenance,origin_reference
+GSE13911,STAD,GPL570,69,69,38,yes,38,31,31,yes,case-control,yes,19081245,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),D'Errico M 2009
+GSE27342,STAD,GPL5175,160,160,80,yes,80,80,80,yes,case-control,yes,21445269,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Cui J 2011
+GSE63089,STAD,GPL5175,90,90,45,yes,45,45,45,yes,case-control,yes,25646628,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Zhang X 2015
+GSE15471,PAAD,GPL570,72,72,36,yes,36,36,36,yes,case-control,yes,28881803,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Idichi T 2017
+GSE20347,ESCC,GPL571,34,34,17,yes,17,17,17,yes,case-control,yes,20955586,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Hu N 2010
+GSE23400,ESCC,GPL96,106,106,53,yes,53,53,53,yes,case-control,yes,26635288,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Hyland PL 2016
+GSE28735,PAAD,GPL6244,90,90,45,yes,45,45,45,yes,case-control,yes,23918603,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Zhang G 2013
+GSE33814,NAFLD,GPL6884,44,44,not provided,no,31,13,0,no,case-control,yes,23071592,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Starmann J 2012
+GSE47460,COPD,GPL14550,236,236,not provided,no,145,91,0,no,case-control,yes,26560100,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Kim S 2015
+GSE57957,HCC,GPL10558,74,74,37,yes,37,37,37,yes,case-control,yes,25093504,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Mah WC 2014
+GSE62232,HCC,GPL570,86,86,85,yes,81,5,1,no,case-control,yes,25822088,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Schulze K 2015
+GSE62452,PAAD,GPL6244,84,84,42,yes,42,42,42,yes,case-control,yes,27197190,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Yang S 2016
+GSE66676,NAFLD,GPL6244,65,65,not provided,no,31,34,0,no,case-control,yes,26026390,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Xanthakos SA 2015
+GSE76925,COPD,GPL10558,151,151,not provided,no,111,40,0,no,case-control,yes,28287180,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Morrow JD 2017
+GSE10072,LUAD,GPL96,66,66,33,yes,33,33,33,yes,case-control,yes,18297132,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Landi MT 2008
+GSE16879,IBD,GPL570,43,43,43,yes,0,0,0,no,treatment-response (excluded from case-control analyses),no,19956723,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Arijs I 2009
+GSE179285,IBD,GPL6480,53,53,42,yes,22,31,11,yes,case-control,yes,34561227,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Keir ME 2021
+GSE19804,LUAD,GPL570,120,120,60,yes,60,60,60,yes,case-control,yes,25889623,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Lu TP 2015
+GSE23878,CRC,GPL570,59,59,not provided,no,35,24,0,no,case-control,yes,21281787,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Uddin S 2011
+GSE32863,LUAD,GPL6884,114,114,57,yes,57,57,57,yes,case-control,yes,22613842,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Selamat SA 2012
+GSE41258,CRC,GPL96,235,235,191,yes,182,53,44,yes,case-control,yes,19359472,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Sheffer M 2009
+GSE4302,Asthma,GPL570,70,70,not provided,no,42,28,0,no,case-control,yes,19628779,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Park SW 2009
+GSE43696,Asthma,GPL6480,108,108,not provided,no,88,20,0,no,case-control,yes,27050946,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Li X 2016
+GSE44076,CRC,GPL13667,196,196,98,yes,98,98,98,yes,case-control,yes,36182938,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Diez-Villanueva A 2022
+GSE67472,Asthma,GPL16311,105,105,not provided,no,62,43,0,no,case-control,yes,25611785,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Christenson SA 2015
+GSE75214,IBD,GPL6244,97,97,not provided,no,74,23,0,no,case-control,yes,28885228,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Vancamelbeke M 2017
+GSE87473,IBD,GPL13158,127,127,127,yes,106,21,0,no,case-control,yes,29401083,processed matrices prepared from the public series (see 03_expression/transformation_log.csv),Li K 2018

@@ -1,0 +1,7 @@
+metric,value
+context-module pairs with at least two cohorts,165
+pairs in which the low-control cohort participates,17
+states that stop being estimable when that cohort is removed,17
+median absolute effect shift where a pooled estimate remains,not applicable
+direction changes where a pooled estimate remains,not applicable
+interpretation,"every hepatocellular carcinoma state rests on exactly two cohorts; one of them contributes five control samples, so removing it leaves single-cohort states that are reported as not estimable rather than pooled"

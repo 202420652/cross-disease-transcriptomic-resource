@@ -1,0 +1,18 @@
+module,contexts_with_a_pooled_estimate,contexts_significant_up,n_up,contexts_significant_down,n_down,pattern
+FGFR_AXIS,10,,0,CRC;LUAD,2,consistent down in several contexts
+JAK_STAT,10,IBD,1,LUAD,1,significant in one direction only
+PDGFR_KIT_CSF1R,10,IBD,1,CRC,1,significant in one direction only
+EPH_RECEPTORS,10,CRC,1,,0,significant in one direction only
+ERBB_RECEPTORS,10,,0,IBD,1,significant in one direction only
+IGF_INSR_AXIS,10,,0,CRC,1,significant in one direction only
+RAS_MAPK,10,PAAD,1,,0,significant in one direction only
+SRC_FAK,10,,0,CRC,1,significant in one direction only
+TGFB_SMAD,10,,0,CRC,1,significant in one direction only
+WNT_CTNNB1,10,CRC,1,,0,significant in one direction only
+ERBB_LIGANDS,10,,0,,0,no significant context
+HGF_MET_AXIS,9,,0,,0,no significant context
+PI3K_AKT,10,,0,,0,no significant context
+RET_ALK_NTRK,8,,0,,0,no significant context
+TAM_AXL_AXIS,8,,0,,0,no significant context
+TIE_ANGPT_AXIS,10,,0,,0,no significant context
+VEGF_PDGF_AXIS,10,,0,,0,no significant context
