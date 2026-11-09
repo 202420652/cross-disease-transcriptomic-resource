@@ -41,7 +41,7 @@ repository remains the working access point.
 
 | Path | Contents |
 |---|---|
-| `deposit/` | The data deposit described in the manuscript: eleven folders `01_cohort_registry/` … `11_code/`, 135 shipped files, deposit version v18.0. Start at `deposit/00_README.md` |
+| `deposit/` | The data deposit described in the manuscript: eleven folders `01_cohort_registry/` … `11_code/`, 136 shipped files (133 covered by the checksum list, plus the three integrity manifests), deposit version v18.0. Start at `deposit/00_README.md` |
 | `src/cdtr/` | Python 3.11 validation layer: effect sizes (SMDH/SMCRPH, exact gamma J, Bonett LS variance), REML + Hartung–Knapp pooling, BH, direction consistency, score construction, single-cell donor rules, design decisions |
 | `R/` | R 4.4.1 pipeline mirroring the documented calls: GSVA 1.52.3 scoring, metafor 5.0.1 `escalc`/`rma.uni`, xCell 1.1.0, survival Cox models, `run_all.R` |
 | `scripts/` | `validate_reference_tables.py` (structural consistency of the printed tables), `verify_independent_implementation.py` (Monte Carlo check of the SMDH variance, mirroring S27) |

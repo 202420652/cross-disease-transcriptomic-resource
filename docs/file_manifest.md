@@ -84,7 +84,7 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 
 ## Deposit — `deposit/`
 
-The data deposit described in the manuscript, shipped in full (135 files, 5.7 MB;
+The data deposit described in the manuscript, shipped in full (136 files, 5.7 MB; 133 covered by the checksum list, plus the three integrity manifests;
 largest file 1.9 MB, so no Git LFS is required).
 
 | Path | Purpose |
