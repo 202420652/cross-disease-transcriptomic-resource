@@ -1,12 +1,12 @@
-# Cross-disease growth-factor and tissue-composition transcriptomic resource (v19.0)
+# Cross-disease growth-factor and tissue-composition transcriptomic resource (v20.0)
 
 This directory **is** the data deposit described in the manuscript. It is shipped
 as the `deposit/` folder of the GitHub repository
 <https://github.com/202420652/cross-disease-transcriptomic-resource>, release tag
-`v1.0`; every path quoted in the manuscript is relative to the repository root
+`v1.2`; every path quoted in the manuscript is relative to the repository root
 (for example `03_expression/` is `deposit/03_expression/` in the repository).
-The version of this package is recorded in `00_VERSION.txt` (v19.0, released
-2026-11-05), and the mapping between the deposit version and the repository
+The version of this package is recorded in `00_VERSION.txt` (v20.0, released
+2026-11-10), and the mapping between the deposit version and the repository
 release is given in `00_CHANGELOG.md`.
 
 **Licence**
@@ -16,8 +16,9 @@ release is given in `00_CHANGELOG.md`.
 
 **How to cite**
 Cite the Data Descriptor and this resource. The resource is citable through the
-GitHub repository at the release tag `v1.0`; a DOI-issuing archive of the same
-release is being deposited, and the DOI will be inserted on publication. Cite the
+GitHub repository at the release tag `v1.2`. The archive is issued by Zenodo under
+the concept DOI `10.5281/zenodo.24083603`, which always resolves to the latest
+version; the version DOI of a given release is printed on that record page. Cite the
 primary sources listed in `01_cohort_registry/` for the underlying measurements.
 
 ## What is in the package

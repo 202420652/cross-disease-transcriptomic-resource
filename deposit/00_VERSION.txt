@@ -1,7 +1,7 @@
 cross-disease transcriptomic resource
-version: v19.0
+version: v20.0
 released: 2026-11-10
-release in repository: v1.1 (https://github.com/202420652/cross-disease-transcriptomic-resource/releases/tag/v1.1)
+release in repository: v1.2 (https://github.com/202420652/cross-disease-transcriptomic-resource/releases/tag/v1.2)
 frozen configuration: module_version = v12.0-frozen-2026-09
-supersedes: v18.0 (released as v1.0; patient-level de-duplication of the pancreatic accessions, estimates layer and every table derived from it re-estimated, coverage-threshold and cross-cohort-consistency tables regenerated)
+supersedes: v19.0 (released as v1.1; documentation-completeness release: the field dictionary now covers every shipped table, PROVENANCE states both the delivered and the estimates layer, the common-gene sensitivity table defines its n_common column; no estimate, count or statistic changes)
 update policy: new versions are published as new Zenodo versions; earlier DOIs remain citable

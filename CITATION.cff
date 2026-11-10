@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this resource, cite this archived release (version DOI) or the Data Descriptor; the concept DOI 10.5281/zenodo.24083603 identifies the resource across versions."
-title: "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.1)"
+title: "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.2)"
 abstract: >-
   Analysis code and the eleven-folder data deposit of a cross-disease case-control
   transcriptome resource: 26 public case-control accessions across 10 disease contexts
@@ -42,12 +42,12 @@ authors:
   - family-names: Lin
     given-names: Yuan
     affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
-version: "v1.1"
-doi: "10.5281/zenodo.24097637"
+version: "v1.2"
+doi: "10.5281/zenodo.24083603"
 date-released: "2026-11-10"
 license: CC-BY-4.0
 repository-code: "https://github.com/202420652/cross-disease-transcriptomic-resource"
-url: "https://zenodo.org/records/24097637"
+url: "https://zenodo.org/records/24083603"
 keywords:
   - transcriptomics
   - case-control

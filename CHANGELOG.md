@@ -3,6 +3,36 @@
 This file is the release-notes record for the repository. It is the document
 referred to as "release notes" in the manuscript's Data Availability statement.
 
+## v1.2 — documentation completeness (deposit v20.0, 2026-11-10)
+
+**Why.** A full audit of the manuscript against the archive found that four
+descriptive files had not been brought along with the v1.1 re-estimation: the
+field dictionary did not cover every shipped table (although the manuscript says
+it does), the provenance note still described the pre-deduplication row account,
+the common-gene sensitivity table did not define its `n_common` column, and the
+deposit README still called itself the release of tag `v1.0`. No estimate,
+pooled effect, prediction interval, coverage count, consistency statistic or
+sample count is affected.
+
+**What this release contains**
+
+| Component | Path | Change |
+|---|---|---|
+| Field dictionary | `deposit/08_qc/data_dictionary.csv` | rebuilt from the shipped files: 99 of 99 CSV files documented (was 87), 844 field definitions (was 738); adds the 12 CSV files and the 4 columns introduced by v1.1 and recomputes `n_rows`/`n_missing` for every file |
+| Provenance | `deposit/07_estimates/PROVENANCE.md` | `per_cohort_effects.csv` now described as 442 delivered rows of which 425 form the estimates layer (418 estimated + 7 not estimable) |
+| Common-gene sensitivity | `deposit/08_qc/qc_common_gene_sensitivity.csv` | new `note` column defining `n_common` (members inside the cross-cohort gene universe of the re-scoring) and recording that `TIE_ANGPT_AXIS` and `TAM_AXL_AXIS` were not re-scored |
+| Deposit README | `deposit/00_README.md` | version, tag and release date corrected to v20.0 / `v1.2` / 2026-11-10; concept DOI cited instead of a pending-DOI sentence |
+| Integrity manifests | `deposit/08_qc/checksums_sha256.txt`, `file_inventory_and_checksums.csv`, `manifest_checksum.txt` | regenerated over the shipped bytes |
+
+**Counts.** Unchanged: 149 shipped files, 146 checksummed, 26 accessions (25 in the
+estimates layer), 2,711 / 2,627 assay records, 1,086 / 1,044 patients, 442 / 425
+cohort–module pairs, 418 estimable (183 SMDH + 235 SMCRPH), 165 pooled states.
+
+**Archival record (Zenodo).** v1.2 is archived under the same concept DOI as
+v1.0 and v1.1, which is `10.5281/zenodo.24083603`. The version DOI of this
+release is the one printed on its record page, and it is recorded in
+`CITATION.cff` as soon as Zenodo returns it.
+
 ## v1.1 — pancreatic patient-level de-duplication (deposit v19.0, 2026-11-10)
 
 **Why.** A reviewer questioned whether the pancreatic accessions are independent

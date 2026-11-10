@@ -1,10 +1,53 @@
 # Changelog
 
-This changelog records the version history of the deposit. Deposit v19.0 is the
-version released as tag `v1.1` and deposit v18.0 was released as tag `v1.0` of the GitHub repository
+This changelog records the version history of the deposit. Deposit v20.0 is the
+version released as tag `v1.2`, deposit v19.0 was released as tag `v1.1` and
+deposit v18.0 was released as tag `v1.0` of the GitHub repository
 <https://github.com/202420652/cross-disease-transcriptomic-resource>; the
 repository-level `CHANGELOG.md` is the release-notes file for that tag and lists
 what the release contains.
+
+## v20.0 (2026-11-10)
+Documentation-completeness release. **No effect size, pooled estimate, coverage
+count, consistency statistic or sample count changes**; the files that describe
+those numbers are corrected. The file inventory is unchanged at 149 files
+(146 checksummed) and no path is added or removed.
+
+- `08_qc/data_dictionary.csv` rebuilt from the shipped files, because the manuscript
+  states that the dictionary covers every shipped table. It did not: 12 CSV files and
+  107 columns were missing, including every table added by the pancreatic
+  de-duplication. Now 99 of 99 CSV files are documented (was 87) in 844 field
+  definitions (was 738); `n_rows` and `n_missing` are recomputed from the shipped
+  bytes for every file (verified 99/99). Newly documented files:
+  `01_cohort_registry/paad_sample_metadata.csv`,
+  `04_modules/module_definitions_five_column.csv`,
+  `07_estimates/paad_dedup_mapping.csv`, `07_estimates/paad_meta_before_dedup.csv`,
+  `07_estimates/paad_meta_after_dedup.csv`,
+  `08_qc/independent_reproduction_effects.csv`,
+  `08_qc/independent_reproduction_by_cohort.csv`, `08_qc/mc_target_alignment.csv`,
+  `08_qc/paad_cross_accession_correlation.csv`, `08_qc/sensitivity_paired_df.csv`,
+  `08_qc/data_dictionary.csv`, `08_qc/file_inventory_and_checksums.csv`. Newly
+  documented columns: `per_cohort_effects.csv::in_estimates_layer` and
+  `cohort_registry.csv::in_estimates_layer`, `::duplicate_of`,
+  `::exclusion_reason`
+- `07_estimates/PROVENANCE.md`: `per_cohort_effects.csv` was still described as
+  "26 case-control cohorts, 442 rows = 434 estimated + 8 not estimable"; it now
+  gives 442 delivered rows of which 425 form the estimates layer (418 estimated +
+  7 not estimable), with GSE62452 held out of pooling
+- `08_qc/qc_common_gene_sensitivity.csv`: new `note` column. It states that
+  `n_common` counts module members inside the **cross-cohort gene universe of this
+  re-scoring**, a stricter universe than the per-cohort detection count in
+  `04_modules/platform_module_coverage.csv`, which is why `TIE_ANGPT_AXIS`
+  (`n_common = 0`) and `TAM_AXL_AXIS` (`n_common = 1`) are flagged although all
+  their members are present in every cohort; for those two modules the note also
+  records that no re-scoring was attempted and that cross-platform comparability is
+  not claimed
+- `00_README.md`: the header still called itself the deposit of tag `v1.0` released
+  2026-11-05 with a DOI "to be inserted on publication"; it now states deposit
+  v20.0, tag `v1.2`, 2026-11-10, and cites the concept DOI
+  `10.5281/zenodo.24083603`
+- `08_qc/checksums_sha256.txt`, `08_qc/file_inventory_and_checksums.csv` and
+  `08_qc/manifest_checksum.txt` regenerated over the shipped bytes
 
 ## v19.0 (2026-11-10)
 - patient-level de-duplication of the pancreatic accessions: GSE62452 and GSE28735 are the same

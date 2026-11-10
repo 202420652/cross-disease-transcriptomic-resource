@@ -2,7 +2,7 @@
 
 | File | Produced by | Basis | Affected by the metadata-driven pairing correction? |
 |---|---|---|---|
-| per_cohort_effects.csv | v13 (script 80 + 41) | 26 case-control cohorts, 442 rows = 434 estimated + 8 not estimable | yes - it is the corrected version |
+| per_cohort_effects.csv | v13 (script 80 + 41); v19 for the estimates-layer flag | 442 delivered rows (434 estimated + 8 not estimable); of these, 425 rows form the estimates layer of v19.0 (418 estimated + 7 not estimable), the pancreatic duplicate accession GSE62452 being held out of pooling | yes - it is the corrected version |
 | not_estimable_pairs.csv | v13 (script 80) | membership/variance checks | yes |
 | meta_primary_reml_knha.csv, meta_dersimonian_laird.csv, meta_adhoc_knapp_hartung.csv, meta_unpaired_only.csv, meta_rho0.5/rho0.7 | v12 (script 41) | pooled from the corrected per-cohort effects | yes - already recomputed after the pairing correction |
 | composition_model_summary.csv | v11 joint layer | base versus adjusted models on identical samples | no - the composition models do not use the paired/unpaired classification, and the cohort set is unchanged |

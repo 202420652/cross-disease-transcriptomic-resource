@@ -32,13 +32,14 @@ Printed reference tables (complete, with three clearly marked subsets) are in
 `table_manifest.json`.
 
 This repository is the resource cited in the manuscript's Data Availability and
-Code Availability statements — release tag **v1.1**:
+Code Availability statements — release tag **v1.2**:
 https://github.com/202420652/cross-disease-transcriptomic-resource
 
-**Citable archived version.** Releases v1.0 and v1.1 are archived at Zenodo under the
-concept DOI [10.5281/zenodo.24083603](https://doi.org/10.5281/zenodo.24083603); the
-current snapshot (v1.1) is [10.5281/zenodo.24097637](https://doi.org/10.5281/zenodo.24097637), and the
-superseded v1.0 snapshot is [10.5281/zenodo.24083604](https://doi.org/10.5281/zenodo.24083604).
+**Citable archived version.** Releases v1.0, v1.1 and v1.2 are archived at Zenodo under
+the concept DOI [10.5281/zenodo.24083603](https://doi.org/10.5281/zenodo.24083603); the
+current snapshot (v1.2) carries the version DOI printed on its record page, the
+superseded v1.1 snapshot is [10.5281/zenodo.24097637](https://doi.org/10.5281/zenodo.24097637),
+and the superseded v1.0 snapshot is [10.5281/zenodo.24083604](https://doi.org/10.5281/zenodo.24083604).
 
 Cite the version DOI for exactly one snapshot and the concept DOI when pointing
 at the resource in general. The Zenodo record is the persistent archive; this
@@ -48,7 +49,7 @@ repository remains the working access point (issues, fixes, later releases).
 
 | Path | Contents |
 |---|---|
-| `deposit/` | The data deposit described in the manuscript: eleven folders `01_cohort_registry/` … `11_code/`, 149 shipped files (146 covered by the checksum list, plus the three integrity manifests), deposit version v19.0. Start at `deposit/00_README.md` |
+| `deposit/` | The data deposit described in the manuscript: eleven folders `01_cohort_registry/` … `11_code/`, 149 shipped files (146 covered by the checksum list, plus the three integrity manifests), deposit version v20.0. Start at `deposit/00_README.md` |
 | `src/cdtr/` | Python 3.11 validation layer: effect sizes (SMDH/SMCRPH, exact gamma J, Bonett LS variance), REML + Hartung–Knapp pooling, BH, direction consistency, score construction, single-cell donor rules, design decisions |
 | `R/` | R 4.4.1 pipeline mirroring the documented calls: GSVA 1.52.3 scoring, metafor 5.0.1 `escalc`/`rma.uni`, xCell 1.1.0, survival Cox models, `run_all.R` |
 | `scripts/` | `validate_reference_tables.py` (structural consistency of the printed tables), `verify_independent_implementation.py` (Monte Carlo check of the SMDH variance, mirroring S27) |
@@ -95,9 +96,9 @@ deposit each step stops with a message naming the missing input.
 
 ## Archiving and the citable identifier
 
-Release v1.1 (deposit v19.0) was archived from GitHub through the Zenodo
-integration on 2026-11-10; release v1.0 (deposit v18.0) was archived the same
-way on 2026-11-09. The metadata in [`.zenodo.json`](.zenodo.json) — title,
+Release v1.2 (deposit v20.0) was archived from GitHub through the Zenodo
+integration on 2026-11-10, as were release v1.1 (deposit v19.0) and release v1.0
+(deposit v18.0) before it. The metadata in [`.zenodo.json`](.zenodo.json) — title,
 description, the nine creators with affiliations and the ORCID iDs the
 manuscript provides, the CC-BY-4.0 data licence and the relation to this
 repository — is what each record was built from.
@@ -105,7 +106,8 @@ repository — is what each record was built from.
 | Identifier | Value | Use |
 |---|---|---|
 | Concept DOI | `10.5281/zenodo.24083603` | cite the resource across versions; resolves to the latest release |
-| Version DOI, v1.1 | `10.5281/zenodo.24097637` | cite this exact snapshot |
+| Version DOI, v1.2 | printed on the Zenodo record of tag `v1.2` | cite this exact snapshot |
+| Version DOI, v1.1 | `10.5281/zenodo.24097637` | cite the superseded snapshot |
 | Version DOI, v1.0 | `10.5281/zenodo.24083604` | cite the superseded snapshot |
 
 Each release is archived as the repository snapshot at its tag. A new version
@@ -134,7 +136,7 @@ Split by content, as stated file by file in `deposit/08_qc/data_dictionary.csv`:
   only the accession, the checksum and the download script are shipped.
 
 If you use the resource, cite the Data Descriptor and the archived release:
-the version DOI printed on the concept record for this snapshot (v1.1), concept DOI
+the version DOI printed on the concept record for this snapshot (v1.2), concept DOI
 `10.5281/zenodo.24083603` for the resource in general. [`CITATION.cff`](CITATION.cff)
 carries the same information in machine-readable form. See
 [`CHANGELOG.md`](CHANGELOG.md) for what the release contains.
