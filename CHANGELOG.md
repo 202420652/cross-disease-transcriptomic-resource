@@ -27,8 +27,8 @@ which 418 estimable (183 SMDH + 235 SMCRPH); PAAD 3 accessions / 123 patients ->
 them now rest on two cohorts (was 66) and 83 on three (was 99).
 
 **Archival record (Zenodo).** v1.1 is archived under the same concept DOI as
-v1.0, which is `10.5281/zenodo.24083603`; the version DOI of this release is the
-one printed on that record. The superseded v1.0 snapshot is
+v1.0, which is `10.5281/zenodo.24083603`; the version DOI of this release is
+`10.5281/zenodo.24097637`. The superseded v1.0 snapshot is
 `10.5281/zenodo.24083604`. Files inside `deposit/` are byte-for-byte as archived,
 so the DOI is recorded in this file, `README.md`, `CITATION.cff` and
 `LICENSE-DATA`, not inside `deposit/`.
