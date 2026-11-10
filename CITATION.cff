@@ -43,11 +43,11 @@ authors:
     given-names: Yuan
     affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
 version: "v1.1"
-doi: "10.5281/zenodo.24083603"
+doi: "10.5281/zenodo.24097637"
 date-released: "2026-11-10"
 license: CC-BY-4.0
 repository-code: "https://github.com/202420652/cross-disease-transcriptomic-resource"
-url: "https://zenodo.org/records/24083604"
+url: "https://zenodo.org/records/24097637"
 keywords:
   - transcriptomics
   - case-control
