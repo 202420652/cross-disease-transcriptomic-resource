@@ -1,608 +1,608 @@
 disease,feature,k,est,p,fdr,scenario,cohort_module_pairs_pooled,note
-Asthma,EPH_RECEPTORS,3,0.149957153913401,0.27606598106283,0.391093473172343,all cohorts,3,reference scenario (no threshold)
-COPD,EPH_RECEPTORS,2,0.102986615747994,0.782344329430561,0.782344329430561,all cohorts,2,reference scenario (no threshold)
-CRC,EPH_RECEPTORS,3,2.25484763862376,0.00816308832136224,0.0374386882242313,all cohorts,3,reference scenario (no threshold)
-ESCC,EPH_RECEPTORS,2,-0.388996239834087,0.380658710399866,0.556341190807378,all cohorts,2,reference scenario (no threshold)
-HCC,EPH_RECEPTORS,2,-0.186920782928567,0.274627294887602,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,EPH_RECEPTORS,3,-0.100069979219483,0.770608934586456,0.770608934586456,all cohorts,3,reference scenario (no threshold)
-LUAD,EPH_RECEPTORS,3,1.37654015831525,0.0560746814873682,0.114048372220049,all cohorts,3,reference scenario (no threshold)
-NAFLD,EPH_RECEPTORS,2,-0.14089221205073,0.862182824115549,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,EPH_RECEPTORS,3,0.978803194046275,0.139206152690811,0.278412305381622,all cohorts,3,reference scenario (no threshold)
-STAD,EPH_RECEPTORS,3,1.56719726693813,0.0154515169280368,0.1239794902749,all cohorts,3,reference scenario (no threshold)
-Asthma,ERBB_LIGANDS,3,-0.248715662477111,0.147199469334186,0.357484425525881,all cohorts,3,reference scenario (no threshold)
-COPD,ERBB_LIGANDS,2,-0.143883887129669,0.494288399535055,0.647626107011489,all cohorts,2,reference scenario (no threshold)
-CRC,ERBB_LIGANDS,3,-0.402298938241559,0.0584702318207639,0.0993993940952986,all cohorts,3,reference scenario (no threshold)
-ESCC,ERBB_LIGANDS,2,-0.502518197896739,0.0206037959941235,0.350264531900099,all cohorts,2,reference scenario (no threshold)
-HCC,ERBB_LIGANDS,2,-0.833441932511757,0.392228280064468,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,ERBB_LIGANDS,3,0.615046621050884,0.284218920930561,0.439247423256321,all cohorts,3,reference scenario (no threshold)
-LUAD,ERBB_LIGANDS,3,-0.169213687834068,0.631143417243362,0.71529587287581,all cohorts,3,reference scenario (no threshold)
-NAFLD,ERBB_LIGANDS,2,0.125596579190446,0.618039308987193,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,ERBB_LIGANDS,3,0.500782697328845,0.00716345412630461,0.0518488837533965,all cohorts,3,reference scenario (no threshold)
-STAD,ERBB_LIGANDS,3,-0.31166629183861,0.453422312595659,0.487362733211594,all cohorts,3,reference scenario (no threshold)
-Asthma,ERBB_RECEPTORS,3,-0.441141421988087,0.0565172548367801,0.238988416282864,all cohorts,3,reference scenario (no threshold)
-COPD,ERBB_RECEPTORS,2,-0.225703474427274,0.596001036033779,0.647626107011489,all cohorts,2,reference scenario (no threshold)
-CRC,ERBB_RECEPTORS,3,-0.0867944633426476,0.864781343818,0.864781343818,all cohorts,3,reference scenario (no threshold)
-ESCC,ERBB_RECEPTORS,2,-0.923873043282417,0.146868505716176,0.399358533729142,all cohorts,2,reference scenario (no threshold)
-HCC,ERBB_RECEPTORS,2,-0.528332352667163,0.0661351790414987,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,ERBB_RECEPTORS,3,-1.49362404801439,6.10591513493046e-05,0.00103800557293818,all cohorts,3,reference scenario (no threshold)
-LUAD,ERBB_RECEPTORS,3,0.985669803446403,0.153874072552125,0.217988269448843,all cohorts,3,reference scenario (no threshold)
-NAFLD,ERBB_RECEPTORS,2,-0.12030634176465,0.73898629250212,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,ERBB_RECEPTORS,3,0.158143050431548,0.298863732713721,0.41750933765563,all cohorts,3,reference scenario (no threshold)
-STAD,ERBB_RECEPTORS,3,-0.250765903707943,0.456902562385869,0.487362733211594,all cohorts,3,reference scenario (no threshold)
-Asthma,FGFR_AXIS,3,-0.158563111336145,0.528164936104842,0.561175244611395,all cohorts,3,reference scenario (no threshold)
-COPD,FGFR_AXIS,2,-0.192455350788257,0.550327589323342,0.647626107011489,all cohorts,2,reference scenario (no threshold)
-CRC,FGFR_AXIS,3,-1.61486384771969,0.0201575925298152,0.048954153286694,all cohorts,3,reference scenario (no threshold)
-ESCC,FGFR_AXIS,2,-0.338543918548958,0.709689692552471,0.74228256929028,all cohorts,2,reference scenario (no threshold)
-HCC,FGFR_AXIS,2,-0.558215245569507,0.242792881231899,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,FGFR_AXIS,3,-0.152114907038824,0.527937934888739,0.723493494053571,all cohorts,3,reference scenario (no threshold)
-LUAD,FGFR_AXIS,3,-2.0083442487795,0.00291390723339685,0.0294364755141446,all cohorts,3,reference scenario (no threshold)
-NAFLD,FGFR_AXIS,2,-0.0795298757752892,0.832603993498374,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,FGFR_AXIS,3,-0.290097404478526,0.475742769671553,0.543706022481775,all cohorts,3,reference scenario (no threshold)
-STAD,FGFR_AXIS,3,-0.0308673640967853,0.889060756786147,0.889060756786147,all cohorts,3,reference scenario (no threshold)
-Asthma,HGF_MET_AXIS,3,-0.265868861925229,0.193199964161833,0.364933265639017,all cohorts,3,reference scenario (no threshold)
-CRC,HGF_MET_AXIS,3,0.945421350106088,0.0421875585447105,0.0796876105844532,all cohorts,3,reference scenario (no threshold)
-ESCC,HGF_MET_AXIS,2,0.768043668852381,0.164441749182588,0.399358533729142,all cohorts,2,reference scenario (no threshold)
-HCC,HGF_MET_AXIS,2,-0.676701112697302,0.321384319733022,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,HGF_MET_AXIS,3,1.56109039617935,0.0465623838920072,0.100831999893851,all cohorts,3,reference scenario (no threshold)
-LUAD,HGF_MET_AXIS,3,0.725839444670172,0.0958824485470312,0.148181965936321,all cohorts,3,reference scenario (no threshold)
-NAFLD,HGF_MET_AXIS,2,-0.149120404640072,0.548243118217893,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,HGF_MET_AXIS,3,1.50045460986676,0.00972166570376184,0.0518488837533965,all cohorts,3,reference scenario (no threshold)
-STAD,HGF_MET_AXIS,3,0.850905794569103,0.0447122595132573,0.143079230442423,all cohorts,3,reference scenario (no threshold)
-Asthma,IGF_INSR_AXIS,3,-0.818296397539505,0.0707632555645177,0.238988416282864,all cohorts,3,reference scenario (no threshold)
-COPD,IGF_INSR_AXIS,2,-0.210949165213156,0.604451033210723,0.647626107011489,all cohorts,2,reference scenario (no threshold)
-CRC,IGF_INSR_AXIS,3,-0.908539715185817,0.0162859690563893,0.0461435789931031,all cohorts,3,reference scenario (no threshold)
-ESCC,IGF_INSR_AXIS,2,0.897992716188283,0.250110320492595,0.520891464313671,all cohorts,2,reference scenario (no threshold)
-HCC,IGF_INSR_AXIS,2,-1.0163101938081,0.105098450948527,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,IGF_INSR_AXIS,3,-0.533700748000128,0.0533832272520004,0.100831999893851,all cohorts,3,reference scenario (no threshold)
-LUAD,IGF_INSR_AXIS,3,-0.439947413609227,0.0264479926719989,0.0749359792373302,all cohorts,3,reference scenario (no threshold)
-NAFLD,IGF_INSR_AXIS,2,-1.03181476798273,0.359977291053871,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,IGF_INSR_AXIS,3,-0.554171891848725,0.266300542436819,0.41750933765563,all cohorts,3,reference scenario (no threshold)
-STAD,IGF_INSR_AXIS,3,0.0581106747826554,0.309050034356514,0.449527322700384,all cohorts,3,reference scenario (no threshold)
-Asthma,JAK_STAT,3,-0.164145345595669,0.239614391371129,0.370313150300835,all cohorts,3,reference scenario (no threshold)
-COPD,JAK_STAT,2,0.281843560148177,0.119169166834585,0.415475115455989,all cohorts,2,reference scenario (no threshold)
-CRC,JAK_STAT,3,-0.0522880187062402,0.107411328494747,0.140460968031592,all cohorts,3,reference scenario (no threshold)
-ESCC,JAK_STAT,2,-0.135487811829347,0.74228256929028,0.74228256929028,all cohorts,2,reference scenario (no threshold)
-HCC,JAK_STAT,2,0.824473347310614,0.358030416897811,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,JAK_STAT,3,2.27192485109386,0.00222083208385709,0.0188770727127852,all cohorts,3,reference scenario (no threshold)
-LUAD,JAK_STAT,3,-1.01587408221567,0.00346311476636996,0.0294364755141446,all cohorts,3,reference scenario (no threshold)
-NAFLD,JAK_STAT,2,-0.0269141727452973,0.950230249583168,0.950230249583168,all cohorts,2,reference scenario (no threshold)
-PAAD,JAK_STAT,3,0.681258109437736,0.0862739966164346,0.197197706551851,all cohorts,3,reference scenario (no threshold)
-STAD,JAK_STAT,3,0.869652032264057,0.0217612423532545,0.1239794902749,all cohorts,3,reference scenario (no threshold)
-Asthma,PDGFR_KIT_CSF1R,3,0.355941293080135,0.0843488528057166,0.238988416282864,all cohorts,3,reference scenario (no threshold)
-COPD,PDGFR_KIT_CSF1R,2,0.371803118091228,0.361202874199515,0.593654657869055,all cohorts,2,reference scenario (no threshold)
-CRC,PDGFR_KIT_CSF1R,3,-1.02847553068845,0.000422164856491166,0.00717680256034982,all cohorts,3,reference scenario (no threshold)
-ESCC,PDGFR_KIT_CSF1R,2,-0.239326856235967,0.275766069342532,0.520891464313671,all cohorts,2,reference scenario (no threshold)
-HCC,PDGFR_KIT_CSF1R,2,-0.109899227483877,0.416471817685008,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,PDGFR_KIT_CSF1R,3,1.83108913578667,0.00741844734661961,0.0420378682975111,all cohorts,3,reference scenario (no threshold)
-LUAD,PDGFR_KIT_CSF1R,3,-1.10920048494009,0.067083821620989,0.114048372220049,all cohorts,3,reference scenario (no threshold)
-NAFLD,PDGFR_KIT_CSF1R,2,0.120762063282959,0.623732408875087,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,PDGFR_KIT_CSF1R,3,0.187578141818385,0.709787000282875,0.757106133635067,all cohorts,3,reference scenario (no threshold)
-STAD,PDGFR_KIT_CSF1R,3,-0.26329281249023,0.341900097720129,0.452453832998598,all cohorts,3,reference scenario (no threshold)
-Asthma,PI3K_AKT,3,0.304545478307904,0.0180909545526304,0.208457116511432,all cohorts,3,reference scenario (no threshold)
-COPD,PI3K_AKT,2,0.0802568755174248,0.155645934847379,0.415475115455989,all cohorts,2,reference scenario (no threshold)
-CRC,PI3K_AKT,3,-0.040862428947499,0.694476274441742,0.787073111033975,all cohorts,3,reference scenario (no threshold)
-ESCC,PI3K_AKT,2,0.370094673460518,0.504240718320495,0.571472814096561,all cohorts,2,reference scenario (no threshold)
-HCC,PI3K_AKT,2,0.999382147842966,0.462287357645229,0.491180317498055,all cohorts,2,reference scenario (no threshold)
-IBD,PI3K_AKT,3,0.150093044684528,0.599324424140061,0.727751086455789,all cohorts,3,reference scenario (no threshold)
-LUAD,PI3K_AKT,3,0.646203760277474,0.25913058921079,0.314658572613102,all cohorts,3,reference scenario (no threshold)
-NAFLD,PI3K_AKT,2,-0.29350259521451,0.169909359954244,0.906183253089301,all cohorts,2,reference scenario (no threshold)
-PAAD,PI3K_AKT,3,0.367279269463256,0.0693471442830577,0.184925718088154,all cohorts,3,reference scenario (no threshold)
-STAD,PI3K_AKT,3,0.760996623526124,0.0268910669225003,0.1239794902749,all cohorts,3,reference scenario (no threshold)
-Asthma,RAS_MAPK,3,0.296147768171427,0.0530441113357885,0.238988416282864,all cohorts,3,reference scenario (no threshold)
-COPD,RAS_MAPK,2,-0.237101474889345,0.266336808287633,0.499381515539311,all cohorts,2,reference scenario (no threshold)
-CRC,RAS_MAPK,3,-0.417550952857478,0.233930170045948,0.284058063627222,all cohorts,3,reference scenario (no threshold)
-ESCC,RAS_MAPK,2,-0.489148841273993,0.458163333606076,0.556341190807378,all cohorts,2,reference scenario (no threshold)
-HCC,RAS_MAPK,2,0.883465534422435,0.0839970752183361,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,RAS_MAPK,3,0.114831848086941,0.64819880168329,0.734625308574396,all cohorts,3,reference scenario (no threshold)
-LUAD,RAS_MAPK,3,-0.0323011397984996,0.928827589235474,0.928827589235474,all cohorts,3,reference scenario (no threshold)
-NAFLD,RAS_MAPK,2,0.439053736821558,0.540276369394808,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,RAS_MAPK,3,1.14665447828512,0.00267083821638034,0.0427334114620854,all cohorts,3,reference scenario (no threshold)
-STAD,RAS_MAPK,3,0.889884117226222,0.078910045774305,0.166815533780198,all cohorts,3,reference scenario (no threshold)
-Asthma,RET_ALK_NTRK,3,0.0846109462172257,0.769885591664897,0.769885591664897,all cohorts,3,reference scenario (no threshold)
-COPD,RET_ALK_NTRK,2,0.702221519290603,0.0745668255091956,0.372834127545978,all cohorts,2,reference scenario (no threshold)
-CRC,RET_ALK_NTRK,3,-1.14327080475195,0.035774177714378,0.0760201276430533,all cohorts,3,reference scenario (no threshold)
-ESCC,RET_ALK_NTRK,2,-0.439919234041001,0.429273257390736,0.556341190807378,all cohorts,2,reference scenario (no threshold)
-HCC,RET_ALK_NTRK,2,-1.16964025428325,0.263334426754964,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,RET_ALK_NTRK,2,-0.241989786764398,0.553259730746848,0.723493494053571,all cohorts,2,reference scenario (no threshold)
-LUAD,RET_ALK_NTRK,3,-0.997745912743957,0.0670872777764992,0.114048372220049,all cohorts,3,reference scenario (no threshold)
-STAD,RET_ALK_NTRK,3,-1.12946898455872,0.030994872568725,0.1239794902749,all cohorts,3,reference scenario (no threshold)
-Asthma,SRC_FAK,3,0.201997426293111,0.300096198516655,0.392433490367934,all cohorts,3,reference scenario (no threshold)
-COPD,SRC_FAK,2,-0.278477921330642,0.0140147018466033,0.21022052769905,all cohorts,2,reference scenario (no threshold)
-CRC,SRC_FAK,3,-0.399527047486973,0.00880910311158383,0.0374386882242313,all cohorts,3,reference scenario (no threshold)
-ESCC,SRC_FAK,2,1.36758553187531,0.0873489098384724,0.399358533729142,all cohorts,2,reference scenario (no threshold)
-HCC,SRC_FAK,2,-0.938613061351047,0.231626686800527,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,SRC_FAK,3,0.421332330581874,0.0216228823638358,0.0735178000370419,all cohorts,3,reference scenario (no threshold)
-LUAD,SRC_FAK,3,-0.0676927254750437,0.887582105872822,0.928827589235474,all cohorts,3,reference scenario (no threshold)
-NAFLD,SRC_FAK,2,-0.0903989869777204,0.640902409007456,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,SRC_FAK,3,0.581730270794891,0.199287786463329,0.35428939815703,all cohorts,3,reference scenario (no threshold)
-STAD,SRC_FAK,3,0.462248368962017,0.239402663037195,0.383044260859513,all cohorts,3,reference scenario (no threshold)
-Asthma,TAM_AXL_AXIS,3,0.212577960225108,0.219356620588086,0.370313150300835,all cohorts,3,reference scenario (no threshold)
-CRC,TAM_AXL_AXIS,3,0.0439361597897652,0.759920299198594,0.807415317898507,all cohorts,3,reference scenario (no threshold)
-ESCC,TAM_AXL_AXIS,2,-0.653262766244012,0.112360299706907,0.399358533729142,all cohorts,2,reference scenario (no threshold)
-HCC,TAM_AXL_AXIS,2,-0.351924756101362,0.292103890106546,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,TAM_AXL_AXIS,3,0.806592649935283,0.0173924532757568,0.0735178000370419,all cohorts,3,reference scenario (no threshold)
-LUAD,TAM_AXL_AXIS,3,-0.298483693811025,0.0407794742911315,0.099035866135605,all cohorts,3,reference scenario (no threshold)
-NAFLD,TAM_AXL_AXIS,2,-0.399482018720574,0.0926761491133087,0.74140919290647,all cohorts,2,reference scenario (no threshold)
-PAAD,TAM_AXL_AXIS,3,-0.0219450125443659,0.94164774228471,0.94164774228471,all cohorts,3,reference scenario (no threshold)
-Asthma,TGFB_SMAD,3,-0.136091509607866,0.49114456218525,0.55663050380995,all cohorts,3,reference scenario (no threshold)
-COPD,TGFB_SMAD,2,-0.19689401287086,0.193888387212795,0.415475115455989,all cohorts,2,reference scenario (no threshold)
-CRC,TGFB_SMAD,3,-0.604291851669304,0.00416801777868614,0.0354281511188322,all cohorts,3,reference scenario (no threshold)
-ESCC,TGFB_SMAD,2,0.520444097681927,0.397896792023167,0.556341190807378,all cohorts,2,reference scenario (no threshold)
-HCC,TGFB_SMAD,2,1.13660913768509,0.378132839654496,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,TGFB_SMAD,3,1.13973130364381,0.0546946617418817,0.100831999893851,all cohorts,3,reference scenario (no threshold)
-LUAD,TGFB_SMAD,3,-0.846803461177225,0.0113375674469649,0.064246215532801,all cohorts,3,reference scenario (no threshold)
-NAFLD,TGFB_SMAD,2,-0.618448466449469,0.283371072531065,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,TGFB_SMAD,3,0.964782472633737,0.0435594699952226,0.139390303984712,all cohorts,3,reference scenario (no threshold)
-STAD,TGFB_SMAD,3,0.663591247774155,0.099727814024423,0.177293891598974,all cohorts,3,reference scenario (no threshold)
-Asthma,TIE_ANGPT_AXIS,3,-0.225075922356608,0.474428294668652,0.55663050380995,all cohorts,3,reference scenario (no threshold)
-COPD,TIE_ANGPT_AXIS,2,0.107227125265384,0.395769771912703,0.593654657869055,all cohorts,2,reference scenario (no threshold)
-CRC,TIE_ANGPT_AXIS,3,-0.157327325601436,0.103555455685206,0.140460968031592,all cohorts,3,reference scenario (no threshold)
-ESCC,TIE_ANGPT_AXIS,2,0.401362448332207,0.402661978362081,0.556341190807378,all cohorts,2,reference scenario (no threshold)
-HCC,TIE_ANGPT_AXIS,2,0.367886121008346,0.158393605418228,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,TIE_ANGPT_AXIS,3,1.49988361949914,0.0269177937714959,0.0762670823525717,all cohorts,3,reference scenario (no threshold)
-LUAD,TIE_ANGPT_AXIS,3,-2.21722538485613,0.0212235973992208,0.0721602311573508,all cohorts,3,reference scenario (no threshold)
-NAFLD,TIE_ANGPT_AXIS,2,0.190482551112248,0.689964865006061,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,TIE_ANGPT_AXIS,3,0.364417623211455,0.313132003241722,0.41750933765563,all cohorts,3,reference scenario (no threshold)
-STAD,TIE_ANGPT_AXIS,3,0.0508914738612976,0.367618739311361,0.452453832998598,all cohorts,3,reference scenario (no threshold)
-Asthma,VEGF_PDGF_AXIS,3,-0.318548975658325,0.177478793468043,0.364933265639017,all cohorts,3,reference scenario (no threshold)
-COPD,VEGF_PDGF_AXIS,2,-0.385987812246985,0.0395627180303111,0.296720385227333,all cohorts,2,reference scenario (no threshold)
-CRC,VEGF_PDGF_AXIS,3,0.910328765529681,0.0746542345119263,0.115374726063886,all cohorts,3,reference scenario (no threshold)
-ESCC,VEGF_PDGF_AXIS,2,1.0237545639717,0.141610834529229,0.399358533729142,all cohorts,2,reference scenario (no threshold)
-HCC,VEGF_PDGF_AXIS,2,0.808570398833122,0.148514324626323,0.472001393376343,all cohorts,2,reference scenario (no threshold)
-IBD,VEGF_PDGF_AXIS,3,1.75352818011205,0.0593129411140298,0.100831999893851,all cohorts,3,reference scenario (no threshold)
-LUAD,VEGF_PDGF_AXIS,3,-1.20781509815084,0.0193848205974983,0.0721602311573508,all cohorts,3,reference scenario (no threshold)
-NAFLD,VEGF_PDGF_AXIS,2,0.169082315942198,0.79370704894193,0.919661679056586,all cohorts,2,reference scenario (no threshold)
-PAAD,VEGF_PDGF_AXIS,3,0.289969923023666,0.393555364906378,0.484375833730927,all cohorts,3,reference scenario (no threshold)
-STAD,VEGF_PDGF_AXIS,3,0.623597442170167,0.0564047375926842,0.150412633580491,all cohorts,3,reference scenario (no threshold)
-Asthma,WNT_CTNNB1,3,-0.55079336941894,0.0245243666484038,0.208457116511432,all cohorts,3,reference scenario (no threshold)
-COPD,WNT_CTNNB1,2,-0.525496294100538,0.189145787155745,0.415475115455989,all cohorts,2,reference scenario (no threshold)
-CRC,WNT_CTNNB1,3,2.80345878009869,0.0135953846858031,0.0461435789931031,all cohorts,3,reference scenario (no threshold)
-ESCC,WNT_CTNNB1,2,0.585422817470789,0.0811221396547785,0.399358533729142,all cohorts,2,reference scenario (no threshold)
-HCC,WNT_CTNNB1,2,0.354175326184387,0.573830440507998,0.573830440507998,all cohorts,2,reference scenario (no threshold)
-IBD,WNT_CTNNB1,3,0.15053069950135,0.730276296397272,0.770608934586456,all cohorts,3,reference scenario (no threshold)
-LUAD,WNT_CTNNB1,3,-0.760932852582995,0.254770624927574,0.314658572613102,all cohorts,3,reference scenario (no threshold)
-NAFLD,WNT_CTNNB1,2,0.082836599039974,0.0191384409054684,0.306215054487494,all cohorts,2,reference scenario (no threshold)
-PAAD,WNT_CTNNB1,3,1.02803593813987,0.0393702145516885,0.139390303984712,all cohorts,3,reference scenario (no threshold)
-STAD,WNT_CTNNB1,3,0.836244745364086,0.0834077668900991,0.166815533780198,all cohorts,3,reference scenario (no threshold)
-Asthma,EPH_RECEPTORS,3,0.149957153913401,0.27606598106283,0.391093473172343,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,EPH_RECEPTORS,2,0.102986615747994,0.782344329430561,0.782344329430561,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,EPH_RECEPTORS,3,2.25484763862376,0.00816308832136224,0.0374386882242313,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,EPH_RECEPTORS,2,-0.388996239834087,0.380658710399866,0.556341190807378,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,EPH_RECEPTORS,2,-0.186920782928567,0.274627294887602,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,EPH_RECEPTORS,3,-0.100069979219483,0.770608934586456,0.770608934586456,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,EPH_RECEPTORS,3,1.37654015831525,0.0560746814873682,0.114048372220049,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,EPH_RECEPTORS,2,-0.14089221205073,0.862182824115549,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,EPH_RECEPTORS,3,0.978803194046275,0.139206152690811,0.278412305381622,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,EPH_RECEPTORS,3,1.56719726693813,0.0154515169280368,0.1239794902749,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,ERBB_LIGANDS,3,-0.248715662477111,0.147199469334186,0.357484425525881,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,ERBB_LIGANDS,2,-0.143883887129669,0.494288399535055,0.647626107011489,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,ERBB_LIGANDS,3,-0.402298938241559,0.0584702318207639,0.0993993940952986,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,ERBB_LIGANDS,2,-0.502518197896739,0.0206037959941235,0.350264531900099,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,ERBB_LIGANDS,2,-0.833441932511757,0.392228280064468,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,ERBB_LIGANDS,3,0.615046621050884,0.284218920930561,0.439247423256321,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,ERBB_LIGANDS,3,-0.169213687834068,0.631143417243362,0.71529587287581,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,ERBB_LIGANDS,2,0.125596579190446,0.618039308987193,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,ERBB_LIGANDS,3,0.500782697328845,0.00716345412630461,0.0518488837533965,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,ERBB_LIGANDS,3,-0.31166629183861,0.453422312595659,0.487362733211594,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,ERBB_RECEPTORS,3,-0.441141421988087,0.0565172548367801,0.238988416282864,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,ERBB_RECEPTORS,2,-0.225703474427274,0.596001036033779,0.647626107011489,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,ERBB_RECEPTORS,3,-0.0867944633426476,0.864781343818,0.864781343818,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,ERBB_RECEPTORS,2,-0.923873043282417,0.146868505716176,0.399358533729142,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,ERBB_RECEPTORS,2,-0.528332352667163,0.0661351790414987,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,ERBB_RECEPTORS,3,-1.49362404801439,6.10591513493046e-05,0.00103800557293818,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,ERBB_RECEPTORS,3,0.985669803446403,0.153874072552125,0.217988269448843,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,ERBB_RECEPTORS,2,-0.12030634176465,0.73898629250212,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,ERBB_RECEPTORS,3,0.158143050431548,0.298863732713721,0.41750933765563,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,ERBB_RECEPTORS,3,-0.250765903707943,0.456902562385869,0.487362733211594,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,FGFR_AXIS,3,-0.158563111336145,0.528164936104842,0.561175244611395,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,FGFR_AXIS,2,-0.192455350788257,0.550327589323342,0.647626107011489,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,FGFR_AXIS,3,-1.61486384771969,0.0201575925298152,0.048954153286694,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,FGFR_AXIS,2,-0.338543918548958,0.709689692552471,0.74228256929028,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,FGFR_AXIS,2,-0.558215245569507,0.242792881231899,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,FGFR_AXIS,3,-0.152114907038824,0.527937934888739,0.723493494053571,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,FGFR_AXIS,3,-2.0083442487795,0.00291390723339685,0.0294364755141446,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,FGFR_AXIS,2,-0.0795298757752892,0.832603993498374,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,FGFR_AXIS,3,-0.290097404478526,0.475742769671553,0.543706022481775,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,FGFR_AXIS,3,-0.0308673640967853,0.889060756786147,0.889060756786147,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,HGF_MET_AXIS,3,-0.265868861925229,0.193199964161833,0.364933265639017,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-CRC,HGF_MET_AXIS,3,0.945421350106088,0.0421875585447105,0.0796876105844532,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,HGF_MET_AXIS,2,0.768043668852381,0.164441749182588,0.399358533729142,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,HGF_MET_AXIS,2,-0.676701112697302,0.321384319733022,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,HGF_MET_AXIS,3,1.56109039617935,0.0465623838920072,0.100831999893851,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,HGF_MET_AXIS,3,0.725839444670172,0.0958824485470312,0.148181965936321,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,HGF_MET_AXIS,2,-0.149120404640072,0.548243118217893,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,HGF_MET_AXIS,3,1.50045460986676,0.00972166570376184,0.0518488837533965,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,HGF_MET_AXIS,3,0.850905794569103,0.0447122595132573,0.143079230442423,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,IGF_INSR_AXIS,3,-0.818296397539505,0.0707632555645177,0.238988416282864,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,IGF_INSR_AXIS,2,-0.210949165213156,0.604451033210723,0.647626107011489,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,IGF_INSR_AXIS,3,-0.908539715185817,0.0162859690563893,0.0461435789931031,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,IGF_INSR_AXIS,2,0.897992716188283,0.250110320492595,0.520891464313671,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,IGF_INSR_AXIS,2,-1.0163101938081,0.105098450948527,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,IGF_INSR_AXIS,3,-0.533700748000128,0.0533832272520004,0.100831999893851,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,IGF_INSR_AXIS,3,-0.439947413609227,0.0264479926719989,0.0749359792373302,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,IGF_INSR_AXIS,2,-1.03181476798273,0.359977291053871,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,IGF_INSR_AXIS,3,-0.554171891848725,0.266300542436819,0.41750933765563,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,IGF_INSR_AXIS,3,0.0581106747826554,0.309050034356514,0.449527322700384,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,JAK_STAT,3,-0.164145345595669,0.239614391371129,0.370313150300835,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,JAK_STAT,2,0.281843560148177,0.119169166834585,0.415475115455989,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,JAK_STAT,3,-0.0522880187062402,0.107411328494747,0.140460968031592,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,JAK_STAT,2,-0.135487811829347,0.74228256929028,0.74228256929028,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,JAK_STAT,2,0.824473347310614,0.358030416897811,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,JAK_STAT,3,2.27192485109386,0.00222083208385709,0.0188770727127852,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,JAK_STAT,3,-1.01587408221567,0.00346311476636996,0.0294364755141446,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,JAK_STAT,2,-0.0269141727452973,0.950230249583168,0.950230249583168,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,JAK_STAT,3,0.681258109437736,0.0862739966164346,0.197197706551851,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,JAK_STAT,3,0.869652032264057,0.0217612423532545,0.1239794902749,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,PDGFR_KIT_CSF1R,3,0.355941293080135,0.0843488528057166,0.238988416282864,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,PDGFR_KIT_CSF1R,2,0.371803118091228,0.361202874199515,0.593654657869055,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,PDGFR_KIT_CSF1R,3,-1.02847553068845,0.000422164856491166,0.00717680256034982,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,PDGFR_KIT_CSF1R,2,-0.239326856235967,0.275766069342532,0.520891464313671,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,PDGFR_KIT_CSF1R,2,-0.109899227483877,0.416471817685008,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,PDGFR_KIT_CSF1R,3,1.83108913578667,0.00741844734661961,0.0420378682975111,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,PDGFR_KIT_CSF1R,3,-1.10920048494009,0.067083821620989,0.114048372220049,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,PDGFR_KIT_CSF1R,2,0.120762063282959,0.623732408875087,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,PDGFR_KIT_CSF1R,3,0.187578141818385,0.709787000282875,0.757106133635067,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,PDGFR_KIT_CSF1R,3,-0.26329281249023,0.341900097720129,0.452453832998598,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,PI3K_AKT,3,0.304545478307904,0.0180909545526304,0.208457116511432,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,PI3K_AKT,2,0.0802568755174248,0.155645934847379,0.415475115455989,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,PI3K_AKT,3,-0.040862428947499,0.694476274441742,0.787073111033975,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,PI3K_AKT,2,0.370094673460518,0.504240718320495,0.571472814096561,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,PI3K_AKT,2,0.999382147842966,0.462287357645229,0.491180317498055,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,PI3K_AKT,3,0.150093044684528,0.599324424140061,0.727751086455789,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,PI3K_AKT,3,0.646203760277474,0.25913058921079,0.314658572613102,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,PI3K_AKT,2,-0.29350259521451,0.169909359954244,0.906183253089301,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,PI3K_AKT,3,0.367279269463256,0.0693471442830577,0.184925718088154,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,PI3K_AKT,3,0.760996623526124,0.0268910669225003,0.1239794902749,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,RAS_MAPK,3,0.296147768171427,0.0530441113357885,0.238988416282864,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,RAS_MAPK,2,-0.237101474889345,0.266336808287633,0.499381515539311,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,RAS_MAPK,3,-0.417550952857478,0.233930170045948,0.284058063627222,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,RAS_MAPK,2,-0.489148841273993,0.458163333606076,0.556341190807378,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,RAS_MAPK,2,0.883465534422435,0.0839970752183361,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,RAS_MAPK,3,0.114831848086941,0.64819880168329,0.734625308574396,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,RAS_MAPK,3,-0.0323011397984996,0.928827589235474,0.928827589235474,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,RAS_MAPK,2,0.439053736821558,0.540276369394808,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,RAS_MAPK,3,1.14665447828512,0.00267083821638034,0.0427334114620854,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,RAS_MAPK,2,0.624312382154065,0.228938347342383,0.383044260859513,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-Asthma,RET_ALK_NTRK,3,0.0846109462172257,0.769885591664897,0.769885591664897,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,RET_ALK_NTRK,2,0.702221519290603,0.0745668255091956,0.372834127545978,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,RET_ALK_NTRK,3,-1.14327080475195,0.035774177714378,0.0760201276430533,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,RET_ALK_NTRK,2,-0.439919234041001,0.429273257390736,0.556341190807378,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,RET_ALK_NTRK,2,-1.16964025428325,0.263334426754964,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,RET_ALK_NTRK,2,-0.241989786764398,0.553259730746848,0.723493494053571,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-LUAD,RET_ALK_NTRK,3,-0.997745912743957,0.0670872777764992,0.114048372220049,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,RET_ALK_NTRK,3,-1.12946898455872,0.030994872568725,0.1239794902749,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,SRC_FAK,3,0.201997426293111,0.300096198516655,0.392433490367934,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,SRC_FAK,2,-0.278477921330642,0.0140147018466033,0.21022052769905,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,SRC_FAK,3,-0.399527047486973,0.00880910311158383,0.0374386882242313,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,SRC_FAK,2,1.36758553187531,0.0873489098384724,0.399358533729142,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,SRC_FAK,2,-0.938613061351047,0.231626686800527,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,SRC_FAK,3,0.421332330581874,0.0216228823638358,0.0735178000370419,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,SRC_FAK,3,-0.0676927254750437,0.887582105872822,0.928827589235474,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,SRC_FAK,2,-0.0903989869777204,0.640902409007456,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,SRC_FAK,3,0.581730270794891,0.199287786463329,0.35428939815703,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,SRC_FAK,3,0.462248368962017,0.239402663037195,0.383044260859513,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TAM_AXL_AXIS,3,0.212577960225108,0.219356620588086,0.370313150300835,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-CRC,TAM_AXL_AXIS,3,0.0439361597897652,0.759920299198594,0.807415317898507,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TAM_AXL_AXIS,2,-0.653262766244012,0.112360299706907,0.399358533729142,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TAM_AXL_AXIS,2,-0.351924756101362,0.292103890106546,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TAM_AXL_AXIS,3,0.806592649935283,0.0173924532757568,0.0735178000370419,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TAM_AXL_AXIS,3,-0.298483693811025,0.0407794742911315,0.099035866135605,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TAM_AXL_AXIS,2,-0.399482018720574,0.0926761491133087,0.74140919290647,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TAM_AXL_AXIS,3,-0.0219450125443659,0.94164774228471,0.94164774228471,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TGFB_SMAD,3,-0.136091509607866,0.49114456218525,0.55663050380995,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,TGFB_SMAD,2,-0.19689401287086,0.193888387212795,0.415475115455989,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,TGFB_SMAD,3,-0.604291851669304,0.00416801777868614,0.0354281511188322,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TGFB_SMAD,2,0.520444097681927,0.397896792023167,0.556341190807378,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TGFB_SMAD,2,1.13660913768509,0.378132839654496,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TGFB_SMAD,3,1.13973130364381,0.0546946617418817,0.100831999893851,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TGFB_SMAD,3,-0.846803461177225,0.0113375674469649,0.064246215532801,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TGFB_SMAD,2,-0.618448466449469,0.283371072531065,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TGFB_SMAD,3,0.964782472633737,0.0435594699952226,0.139390303984712,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,TGFB_SMAD,3,0.663591247774155,0.099727814024423,0.199455628048846,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TIE_ANGPT_AXIS,3,-0.225075922356608,0.474428294668652,0.55663050380995,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,TIE_ANGPT_AXIS,2,0.107227125265384,0.395769771912703,0.593654657869055,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,TIE_ANGPT_AXIS,3,-0.157327325601436,0.103555455685206,0.140460968031592,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TIE_ANGPT_AXIS,2,0.401362448332207,0.402661978362081,0.556341190807378,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TIE_ANGPT_AXIS,2,0.367886121008346,0.158393605418228,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TIE_ANGPT_AXIS,3,1.49988361949914,0.0269177937714959,0.0762670823525717,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TIE_ANGPT_AXIS,3,-2.21722538485613,0.0212235973992208,0.0721602311573508,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TIE_ANGPT_AXIS,2,0.190482551112248,0.689964865006061,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TIE_ANGPT_AXIS,3,0.364417623211455,0.313132003241722,0.41750933765563,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,TIE_ANGPT_AXIS,3,0.0508914738612976,0.367618739311361,0.452453832998598,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,VEGF_PDGF_AXIS,3,-0.318548975658325,0.177478793468043,0.364933265639017,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,VEGF_PDGF_AXIS,2,-0.385987812246985,0.0395627180303111,0.296720385227333,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,VEGF_PDGF_AXIS,3,0.910328765529681,0.0746542345119263,0.115374726063886,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,VEGF_PDGF_AXIS,2,1.0237545639717,0.141610834529229,0.399358533729142,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,VEGF_PDGF_AXIS,2,0.808570398833122,0.148514324626323,0.472001393376343,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,VEGF_PDGF_AXIS,3,1.75352818011205,0.0593129411140298,0.100831999893851,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,VEGF_PDGF_AXIS,3,-1.20781509815084,0.0193848205974983,0.0721602311573508,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,VEGF_PDGF_AXIS,2,0.169082315942198,0.79370704894193,0.919661679056586,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,VEGF_PDGF_AXIS,3,0.289969923023666,0.393555364906378,0.484375833730927,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,VEGF_PDGF_AXIS,3,0.623597442170167,0.0564047375926842,0.150412633580491,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,WNT_CTNNB1,3,-0.55079336941894,0.0245243666484038,0.208457116511432,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-COPD,WNT_CTNNB1,2,-0.525496294100538,0.189145787155745,0.415475115455989,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-CRC,WNT_CTNNB1,3,2.80345878009869,0.0135953846858031,0.0461435789931031,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,WNT_CTNNB1,2,0.585422817470789,0.0811221396547785,0.399358533729142,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-HCC,WNT_CTNNB1,2,0.354175326184387,0.573830440507998,0.573830440507998,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-IBD,WNT_CTNNB1,3,0.15053069950135,0.730276296397272,0.770608934586456,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,WNT_CTNNB1,3,-0.760932852582995,0.254770624927574,0.314658572613102,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,WNT_CTNNB1,2,0.082836599039974,0.0191384409054684,0.306215054487494,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,WNT_CTNNB1,3,1.02803593813987,0.0393702145516885,0.139390303984712,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-STAD,WNT_CTNNB1,3,0.836244745364086,0.0834077668900991,0.190646324320226,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,EPH_RECEPTORS,3,0.149957153913401,0.27606598106283,0.400128264688874,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-CRC,EPH_RECEPTORS,3,2.25484763862376,0.00816308832136224,0.0352364124463353,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,EPH_RECEPTORS,2,-0.388996239834087,0.380658710399866,0.572704167007595,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,EPH_RECEPTORS,2,-0.186920782928567,0.274627294887602,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,EPH_RECEPTORS,3,-0.100069979219483,0.770608934586456,0.770608934586456,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,EPH_RECEPTORS,3,1.37654015831525,0.0560746814873682,0.109923970681981,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,EPH_RECEPTORS,2,-0.14089221205073,0.862182824115549,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,EPH_RECEPTORS,3,0.978803194046275,0.139206152690811,0.261011536295271,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,EPH_RECEPTORS,3,1.56719726693813,0.0154515169280368,0.1239794902749,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,ERBB_LIGANDS,3,-0.248715662477111,0.147199469334186,0.383383026193806,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,ERBB_LIGANDS,2,-0.143883887129669,0.494288399535055,0.549209332816728,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,ERBB_LIGANDS,3,-0.402298938241559,0.0584702318207639,0.116940463641528,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,ERBB_LIGANDS,2,-0.502518197896739,0.0206037959941235,0.309056939911852,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,ERBB_LIGANDS,2,-0.833441932511757,0.392228280064468,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,ERBB_LIGANDS,3,0.615046621050884,0.284218920930561,0.454750273488897,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,ERBB_LIGANDS,3,-0.169213687834068,0.631143417243362,0.721306762563842,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,ERBB_LIGANDS,2,0.125596579190446,0.618039308987193,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,ERBB_LIGANDS,3,0.500782697328845,0.00716345412630461,0.0486083285188092,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,ERBB_LIGANDS,3,-0.31166629183861,0.453422312595659,0.456902562385869,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,ERBB_RECEPTORS,3,-0.441141421988087,0.0565172548367801,0.22606901934712,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-CRC,ERBB_RECEPTORS,3,-0.0867944633426476,0.864781343818,0.864781343818,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,ERBB_RECEPTORS,2,-0.923873043282417,0.146868505716176,0.411104372956469,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,ERBB_RECEPTORS,2,-0.528332352667163,0.0661351790414987,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,ERBB_RECEPTORS,3,-1.49362404801439,6.10591513493046e-05,0.000976946421588873,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,ERBB_RECEPTORS,3,0.985669803446403,0.153874072552125,0.2051654300695,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,ERBB_RECEPTORS,2,-0.12030634176465,0.73898629250212,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,ERBB_RECEPTORS,3,0.158143050431548,0.298863732713721,0.426998186238712,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,ERBB_RECEPTORS,3,-0.250765903707943,0.456902562385869,0.456902562385869,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,FGFR_AXIS,3,-0.158563111336145,0.528164936104842,0.563375931845165,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,FGFR_AXIS,2,-0.192455350788257,0.550327589323342,0.550327589323342,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,FGFR_AXIS,3,-1.61486384771969,0.0201575925298152,0.0645042960954085,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,FGFR_AXIS,2,-0.338543918548958,0.709689692552471,0.74228256929028,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,FGFR_AXIS,2,-0.558215245569507,0.242792881231899,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,FGFR_AXIS,3,-0.152114907038824,0.527937934888739,0.737630060480076,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,FGFR_AXIS,3,-2.0083442487795,0.00291390723339685,0.0277049181309597,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,FGFR_AXIS,2,-0.0795298757752892,0.832603993498374,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,FGFR_AXIS,3,-0.290097404478526,0.475742769671553,0.548933965005638,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,HGF_MET_AXIS,3,-0.265868861925229,0.193199964161833,0.383383026193806,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-CRC,HGF_MET_AXIS,3,0.945421350106088,0.0421875585447105,0.0964287052450526,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,HGF_MET_AXIS,2,0.768043668852381,0.164441749182588,0.411104372956469,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,HGF_MET_AXIS,2,-0.676701112697302,0.321384319733022,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,HGF_MET_AXIS,3,1.56109039617935,0.0465623838920072,0.105445228647164,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,HGF_MET_AXIS,3,0.725839444670172,0.0958824485470312,0.139465379704773,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,HGF_MET_AXIS,2,-0.149120404640072,0.548243118217893,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,HGF_MET_AXIS,3,1.50045460986676,0.00972166570376184,0.0486083285188092,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,HGF_MET_AXIS,3,0.850905794569103,0.0447122595132573,0.134136778539772,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,JAK_STAT,3,-0.164145345595669,0.239614391371129,0.383383026193806,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-CRC,JAK_STAT,3,-0.0522880187062402,0.107411328494747,0.143215104659663,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,JAK_STAT,2,-0.135487811829347,0.74228256929028,0.74228256929028,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,JAK_STAT,2,0.824473347310614,0.358030416897811,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,JAK_STAT,3,2.27192485109386,0.00222083208385709,0.0177666566708567,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,JAK_STAT,3,-1.01587408221567,0.00346311476636996,0.0277049181309597,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,JAK_STAT,2,-0.0269141727452973,0.950230249583168,0.950230249583168,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,JAK_STAT,3,0.681258109437736,0.0862739966164346,0.18487284989236,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,PDGFR_KIT_CSF1R,3,0.355941293080135,0.0843488528057166,0.269916328978293,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,PDGFR_KIT_CSF1R,2,0.371803118091228,0.361202874199515,0.494712214890879,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,PDGFR_KIT_CSF1R,3,-1.02847553068845,0.000422164856491166,0.00675463770385865,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,PDGFR_KIT_CSF1R,2,-0.239326856235967,0.275766069342532,0.572704167007595,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,PDGFR_KIT_CSF1R,2,-0.109899227483877,0.416471817685008,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,PDGFR_KIT_CSF1R,3,1.83108913578667,0.00741844734661961,0.0395650525153046,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,PDGFR_KIT_CSF1R,3,-1.10920048494009,0.067083821620989,0.109923970681981,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,PDGFR_KIT_CSF1R,2,0.120762063282959,0.623732408875087,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,PDGFR_KIT_CSF1R,3,0.187578141818385,0.709787000282875,0.760486071731652,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,PDGFR_KIT_CSF1R,3,-0.26329281249023,0.341900097720129,0.441142487173633,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,PI3K_AKT,3,0.304545478307904,0.0180909545526304,0.19619493318723,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,PI3K_AKT,2,0.0802568755174248,0.155645934847379,0.38777677442559,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,PI3K_AKT,3,-0.040862428947499,0.694476274441742,0.793687170790563,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,PI3K_AKT,2,0.370094673460518,0.504240718320495,0.581816213446725,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,PI3K_AKT,2,0.999382147842966,0.462287357645229,0.493106514821577,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,PI3K_AKT,3,0.150093044684528,0.599324424140061,0.737630060480076,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,PI3K_AKT,3,0.646203760277474,0.25913058921079,0.318929955951741,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,PI3K_AKT,2,-0.29350259521451,0.169909359954244,0.84954679977122,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,PI3K_AKT,3,0.367279269463256,0.0693471442830577,0.173367860707644,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,PI3K_AKT,3,0.760996623526124,0.0268910669225003,0.1239794902749,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,RAS_MAPK,3,0.296147768171427,0.0530441113357885,0.22606901934712,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,RAS_MAPK,2,-0.237101474889345,0.266336808287633,0.443894680479388,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,RAS_MAPK,3,-0.417550952857478,0.233930170045948,0.287914055441167,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,RAS_MAPK,2,-0.489148841273993,0.458163333606076,0.572704167007595,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,RAS_MAPK,2,0.883465534422435,0.0839970752183361,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,RAS_MAPK,3,0.114831848086941,0.64819880168329,0.740798630495189,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,RAS_MAPK,3,-0.0323011397984996,0.928827589235474,0.928827589235474,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,RAS_MAPK,2,0.439053736821558,0.540276369394808,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,RAS_MAPK,3,1.14665447828512,0.00267083821638034,0.040062573245705,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,RET_ALK_NTRK,3,0.0846109462172257,0.769885591664897,0.769885591664897,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,RET_ALK_NTRK,2,0.702221519290603,0.0745668255091956,0.372834127545978,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,RET_ALK_NTRK,3,-1.14327080475195,0.035774177714378,0.0953978072383414,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,RET_ALK_NTRK,2,-0.439919234041001,0.429273257390736,0.572704167007595,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,RET_ALK_NTRK,2,-1.16964025428325,0.263334426754964,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,RET_ALK_NTRK,2,-0.241989786764398,0.553259730746848,0.737630060480076,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-LUAD,RET_ALK_NTRK,3,-0.997745912743957,0.0670872777764992,0.109923970681981,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,RET_ALK_NTRK,3,-1.12946898455872,0.030994872568725,0.1239794902749,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,SRC_FAK,3,0.201997426293111,0.300096198516655,0.400128264688874,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,SRC_FAK,2,-0.278477921330642,0.0140147018466033,0.140147018466033,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,SRC_FAK,3,-0.399527047486973,0.00880910311158383,0.0352364124463353,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,SRC_FAK,2,1.36758553187531,0.0873489098384724,0.411104372956469,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,SRC_FAK,2,-0.938613061351047,0.231626686800527,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,SRC_FAK,3,0.421332330581874,0.0216228823638358,0.0691932235642747,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,SRC_FAK,3,-0.0676927254750437,0.887582105872822,0.928827589235474,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,SRC_FAK,2,-0.0903989869777204,0.640902409007456,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,SRC_FAK,3,0.581730270794891,0.199287786463329,0.332146310772216,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,SRC_FAK,3,0.462248368962017,0.239402663037195,0.359103994555793,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TAM_AXL_AXIS,3,0.212577960225108,0.219356620588086,0.383383026193806,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-CRC,TAM_AXL_AXIS,3,0.0439361597897652,0.759920299198594,0.810581652478501,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TAM_AXL_AXIS,2,-0.653262766244012,0.112360299706907,0.411104372956469,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TAM_AXL_AXIS,2,-0.351924756101362,0.292103890106546,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TAM_AXL_AXIS,3,0.806592649935283,0.0173924532757568,0.0691932235642747,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TAM_AXL_AXIS,3,-0.298483693811025,0.0407794742911315,0.108745264776351,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TAM_AXL_AXIS,2,-0.399482018720574,0.0926761491133087,0.695071118349815,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TAM_AXL_AXIS,3,-0.0219450125443659,0.94164774228471,0.94164774228471,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TGFB_SMAD,3,-0.136091509607866,0.49114456218525,0.561308071068857,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,TGFB_SMAD,2,-0.19689401287086,0.193888387212795,0.38777677442559,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,TGFB_SMAD,3,-0.604291851669304,0.00416801777868614,0.0333441422294891,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TGFB_SMAD,2,0.520444097681927,0.397896792023167,0.572704167007595,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TGFB_SMAD,2,1.13660913768509,0.378132839654496,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TGFB_SMAD,3,1.13973130364381,0.0546946617418817,0.105445228647164,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TGFB_SMAD,3,-0.846803461177225,0.0113375674469649,0.0604670263838127,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TGFB_SMAD,2,-0.618448466449469,0.283371072531065,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TGFB_SMAD,3,0.964782472633737,0.0435594699952226,0.130678409985668,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,TGFB_SMAD,3,0.663591247774155,0.099727814024423,0.170961966899011,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TIE_ANGPT_AXIS,3,-0.225075922356608,0.474428294668652,0.561308071068857,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,TIE_ANGPT_AXIS,2,0.107227125265384,0.395769771912703,0.494712214890879,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,TIE_ANGPT_AXIS,3,-0.157327325601436,0.103555455685206,0.143215104659663,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TIE_ANGPT_AXIS,2,0.401362448332207,0.402661978362081,0.572704167007595,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TIE_ANGPT_AXIS,2,0.367886121008346,0.158393605418228,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TIE_ANGPT_AXIS,3,1.49988361949914,0.0269177937714959,0.0717807833906557,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TIE_ANGPT_AXIS,3,-2.21722538485613,0.0212235973992208,0.0679155116775066,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TIE_ANGPT_AXIS,2,0.190482551112248,0.689964865006061,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TIE_ANGPT_AXIS,3,0.364417623211455,0.313132003241722,0.426998186238712,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,TIE_ANGPT_AXIS,3,0.0508914738612976,0.367618739311361,0.441142487173633,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,VEGF_PDGF_AXIS,3,-0.318548975658325,0.177478793468043,0.383383026193806,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-CRC,VEGF_PDGF_AXIS,3,0.910328765529681,0.0746542345119263,0.132718639132313,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,VEGF_PDGF_AXIS,2,1.0237545639717,0.141610834529229,0.411104372956469,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,VEGF_PDGF_AXIS,2,0.808570398833122,0.148514324626323,0.475967791640009,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,VEGF_PDGF_AXIS,3,1.75352818011205,0.0593129411140298,0.105445228647164,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,VEGF_PDGF_AXIS,3,-1.20781509815084,0.0193848205974983,0.0679155116775066,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,VEGF_PDGF_AXIS,2,0.169082315942198,0.79370704894193,0.923767311552374,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,VEGF_PDGF_AXIS,3,0.289969923023666,0.393555364906378,0.491944206132972,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,VEGF_PDGF_AXIS,3,0.623597442170167,0.0564047375926842,0.135371370222442,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,WNT_CTNNB1,3,-0.55079336941894,0.0245243666484038,0.19619493318723,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-COPD,WNT_CTNNB1,2,-0.525496294100538,0.189145787155745,0.38777677442559,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-CRC,WNT_CTNNB1,2,3.01254015934125,0.0930601064832656,0.143215104659663,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-HCC,WNT_CTNNB1,2,0.354175326184387,0.573830440507998,0.573830440507998,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-IBD,WNT_CTNNB1,3,0.15053069950135,0.730276296397272,0.770608934586456,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,WNT_CTNNB1,2,-1.22068480078664,0.068702481676238,0.109923970681981,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-NAFLD,WNT_CTNNB1,2,0.082836599039974,0.0191384409054684,0.287076613582025,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,WNT_CTNNB1,3,1.02803593813987,0.0393702145516885,0.130678409985668,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-STAD,WNT_CTNNB1,3,0.836244745364086,0.0834077668900991,0.166815533780198,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,EPH_RECEPTORS,3,0.149957153913401,0.27606598106283,0.436503561478772,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,EPH_RECEPTORS,3,2.25484763862376,0.00816308832136224,0.0352364124463353,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,EPH_RECEPTORS,2,-0.388996239834087,0.380658710399866,0.496343611406583,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,EPH_RECEPTORS,2,-0.186920782928567,0.274627294887602,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,EPH_RECEPTORS,3,-0.100069979219483,0.770608934586456,0.770608934586456,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,EPH_RECEPTORS,3,1.37654015831525,0.0560746814873682,0.114504136127063,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,EPH_RECEPTORS,2,-0.14089221205073,0.862182824115549,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,EPH_RECEPTORS,3,0.978803194046275,0.139206152690811,0.258525712140078,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,EPH_RECEPTORS,3,1.56719726693813,0.0154515169280368,0.134136778539772,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,ERBB_LIGANDS,2,-0.216418462411446,0.477204705766469,0.561308071068857,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-CRC,ERBB_LIGANDS,3,-0.402298938241559,0.0584702318207639,0.116940463641528,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,ERBB_LIGANDS,2,-0.502518197896739,0.0206037959941235,0.267849347923605,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,ERBB_LIGANDS,2,-0.833441932511757,0.392228280064468,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,ERBB_LIGANDS,3,0.615046621050884,0.284218920930561,0.454750273488897,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,ERBB_LIGANDS,3,-0.169213687834068,0.631143417243362,0.728242404511571,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,ERBB_LIGANDS,2,0.125596579190446,0.618039308987193,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,ERBB_LIGANDS,3,0.500782697328845,0.00716345412630461,0.063190827074452,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,ERBB_LIGANDS,3,-0.31166629183861,0.453422312595659,0.456902562385869,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,ERBB_RECEPTORS,3,-0.441141421988087,0.0565172548367801,0.22606901934712,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,ERBB_RECEPTORS,3,-0.0867944633426476,0.864781343818,0.922433433405867,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,ERBB_RECEPTORS,2,-0.923873043282417,0.146868505716176,0.356290456562273,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,ERBB_RECEPTORS,2,-0.528332352667163,0.0661351790414987,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,ERBB_RECEPTORS,3,-1.49362404801439,6.10591513493046e-05,0.000976946421588873,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,ERBB_RECEPTORS,3,0.985669803446403,0.153874072552125,0.209828280752897,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,ERBB_RECEPTORS,2,-0.12030634176465,0.73898629250212,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,ERBB_RECEPTORS,3,0.158143050431548,0.298863732713721,0.407071604214239,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,ERBB_RECEPTORS,3,-0.250765903707943,0.456902562385869,0.456902562385869,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,FGFR_AXIS,3,-0.158563111336145,0.528164936104842,0.563375931845165,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,FGFR_AXIS,2,-1.88696300562507,0.039652567327935,0.0964287052450526,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,FGFR_AXIS,2,-0.558215245569507,0.242792881231899,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,FGFR_AXIS,3,-0.152114907038824,0.527937934888739,0.737630060480076,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-PAAD,FGFR_AXIS,3,-0.290097404478526,0.475742769671553,0.515388000477516,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,HGF_MET_AXIS,3,-0.265868861925229,0.193199964161833,0.42598114021534,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,HGF_MET_AXIS,3,0.945421350106088,0.0421875585447105,0.0964287052450526,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,HGF_MET_AXIS,2,0.768043668852381,0.164441749182588,0.356290456562273,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,HGF_MET_AXIS,2,-0.676701112697302,0.321384319733022,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,HGF_MET_AXIS,3,1.56109039617935,0.0465623838920072,0.105445228647164,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,HGF_MET_AXIS,3,0.725839444670172,0.0958824485470312,0.143823672820547,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,HGF_MET_AXIS,2,-0.149120404640072,0.548243118217893,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,HGF_MET_AXIS,3,1.50045460986676,0.00972166570376184,0.063190827074452,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,HGF_MET_AXIS,3,0.850905794569103,0.0447122595132573,0.134136778539772,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,JAK_STAT,3,-0.164145345595669,0.239614391371129,0.42598114021534,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,JAK_STAT,3,-0.0522880187062402,0.107411328494747,0.143215104659663,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,JAK_STAT,2,-0.135487811829347,0.74228256929028,0.74228256929028,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,JAK_STAT,2,0.824473347310614,0.358030416897811,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,JAK_STAT,3,2.27192485109386,0.00222083208385709,0.0177666566708567,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,JAK_STAT,3,-1.01587408221567,0.00346311476636996,0.0519467214955494,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,JAK_STAT,2,-0.0269141727452973,0.950230249583168,0.950230249583168,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,JAK_STAT,3,0.681258109437736,0.0862739966164346,0.186926992668942,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,PDGFR_KIT_CSF1R,3,0.355941293080135,0.0843488528057166,0.269916328978293,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-COPD,PDGFR_KIT_CSF1R,2,0.371803118091228,0.361202874199515,0.395769771912703,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-CRC,PDGFR_KIT_CSF1R,3,-1.02847553068845,0.000422164856491166,0.00675463770385865,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,PDGFR_KIT_CSF1R,2,-0.239326856235967,0.275766069342532,0.496343611406583,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,PDGFR_KIT_CSF1R,2,-0.109899227483877,0.416471817685008,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,PDGFR_KIT_CSF1R,2,2.01836456621907,0.0171497632063219,0.0691932235642747,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-LUAD,PDGFR_KIT_CSF1R,3,-1.10920048494009,0.067083821620989,0.114504136127063,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,PI3K_AKT,3,0.304545478307904,0.0180909545526304,0.19619493318723,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,PI3K_AKT,2,-0.0119438733723841,0.955877252770654,0.955877252770654,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,PI3K_AKT,2,0.999382147842966,0.462287357645229,0.493106514821577,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,PI3K_AKT,3,0.150093044684528,0.599324424140061,0.737630060480076,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,PI3K_AKT,2,0.667757709747264,0.520496553304779,0.650620691630973,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-NAFLD,PI3K_AKT,2,-0.29350259521451,0.169909359954244,0.679637439816976,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,PI3K_AKT,3,0.367279269463256,0.0693471442830577,0.18030257513595,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,RAS_MAPK,3,0.296147768171427,0.0530441113357885,0.22606901934712,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-COPD,RAS_MAPK,2,-0.237101474889345,0.266336808287633,0.395769771912703,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-CRC,RAS_MAPK,3,-0.417550952857478,0.233930170045948,0.287914055441167,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,RAS_MAPK,2,-0.489148841273993,0.458163333606076,0.496343611406583,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,RAS_MAPK,2,0.883465534422435,0.0839970752183361,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,RAS_MAPK,2,-0.0908826740648491,0.665482993223468,0.760551992255392,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-LUAD,RAS_MAPK,3,-0.0323011397984996,0.928827589235474,0.928827589235474,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,RET_ALK_NTRK,3,0.0846109462172257,0.769885591664897,0.769885591664897,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,RET_ALK_NTRK,3,-1.14327080475195,0.035774177714378,0.0964287052450526,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,RET_ALK_NTRK,2,-0.439919234041001,0.429273257390736,0.496343611406583,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,RET_ALK_NTRK,2,-1.16964025428325,0.263334426754964,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,RET_ALK_NTRK,2,-0.241989786764398,0.553259730746848,0.737630060480076,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-LUAD,RET_ALK_NTRK,3,-0.997745912743957,0.0670872777764992,0.114504136127063,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,RET_ALK_NTRK,3,-1.12946898455872,0.030994872568725,0.134136778539772,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,SRC_FAK,3,0.201997426293111,0.300096198516655,0.436503561478772,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,SRC_FAK,3,-0.399527047486973,0.00880910311158383,0.0352364124463353,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,SRC_FAK,2,1.36758553187531,0.0873489098384724,0.356290456562273,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,SRC_FAK,2,-0.938613061351047,0.231626686800527,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,SRC_FAK,3,0.421332330581874,0.0216228823638358,0.0691932235642747,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,SRC_FAK,3,-0.0676927254750437,0.887582105872822,0.928827589235474,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,SRC_FAK,2,-0.0903989869777204,0.640902409007456,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,SRC_FAK,3,0.581730270794891,0.199287786463329,0.32384265300291,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TAM_AXL_AXIS,3,0.212577960225108,0.219356620588086,0.42598114021534,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,TAM_AXL_AXIS,3,0.0439361597897652,0.759920299198594,0.868480341941251,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TAM_AXL_AXIS,2,-0.653262766244012,0.112360299706907,0.356290456562273,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TAM_AXL_AXIS,2,-0.351924756101362,0.292103890106546,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TAM_AXL_AXIS,3,0.806592649935283,0.0173924532757568,0.0691932235642747,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TAM_AXL_AXIS,3,-0.298483693811025,0.0407794742911315,0.114504136127063,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TAM_AXL_AXIS,2,-0.399482018720574,0.0926761491133087,0.556056894679852,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TAM_AXL_AXIS,3,-0.0219450125443659,0.94164774228471,0.94164774228471,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TGFB_SMAD,3,-0.136091509607866,0.49114456218525,0.561308071068857,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,TGFB_SMAD,3,-0.604291851669304,0.00416801777868614,0.0333441422294891,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TGFB_SMAD,2,0.520444097681927,0.397896792023167,0.496343611406583,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TGFB_SMAD,2,1.13660913768509,0.378132839654496,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TGFB_SMAD,3,1.13973130364381,0.0546946617418817,0.105445228647164,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TGFB_SMAD,3,-0.846803461177225,0.0113375674469649,0.0795884902470781,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TGFB_SMAD,2,-0.618448466449469,0.283371072531065,0.850113217593196,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TGFB_SMAD,3,0.964782472633737,0.0435594699952226,0.141568277484474,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,TGFB_SMAD,3,0.663591247774155,0.099727814024423,0.179510065243961,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,TIE_ANGPT_AXIS,3,-0.225075922356608,0.474428294668652,0.561308071068857,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-COPD,TIE_ANGPT_AXIS,2,0.107227125265384,0.395769771912703,0.395769771912703,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-CRC,TIE_ANGPT_AXIS,3,-0.157327325601436,0.103555455685206,0.143215104659663,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,TIE_ANGPT_AXIS,2,0.401362448332207,0.402661978362081,0.496343611406583,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,TIE_ANGPT_AXIS,2,0.367886121008346,0.158393605418228,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,TIE_ANGPT_AXIS,3,1.49988361949914,0.0269177937714959,0.0717807833906557,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,TIE_ANGPT_AXIS,3,-2.21722538485613,0.0212235973992208,0.0795884902470781,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,TIE_ANGPT_AXIS,2,0.190482551112248,0.689964865006061,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,TIE_ANGPT_AXIS,3,0.364417623211455,0.313132003241722,0.407071604214239,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,TIE_ANGPT_AXIS,3,0.0508914738612976,0.367618739311361,0.456902562385869,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-Asthma,VEGF_PDGF_AXIS,3,-0.318548975658325,0.177478793468043,0.42598114021534,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-CRC,VEGF_PDGF_AXIS,3,0.910328765529681,0.0746542345119263,0.132718639132313,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-ESCC,VEGF_PDGF_AXIS,2,1.0237545639717,0.141610834529229,0.356290456562273,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,VEGF_PDGF_AXIS,2,0.808570398833122,0.148514324626323,0.475967791640009,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,VEGF_PDGF_AXIS,3,1.75352818011205,0.0593129411140298,0.105445228647164,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,VEGF_PDGF_AXIS,3,-1.20781509815084,0.0193848205974983,0.0795884902470781,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-NAFLD,VEGF_PDGF_AXIS,2,0.169082315942198,0.79370704894193,0.940563080853326,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,VEGF_PDGF_AXIS,3,0.289969923023666,0.393555364906378,0.465110885798447,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,VEGF_PDGF_AXIS,2,0.595505595324441,0.248254986441762,0.372382479662643,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-Asthma,WNT_CTNNB1,3,-0.55079336941894,0.0245243666484038,0.19619493318723,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-COPD,WNT_CTNNB1,2,-0.525496294100538,0.189145787155745,0.395769771912703,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-CRC,WNT_CTNNB1,2,3.01254015934125,0.0930601064832656,0.143215104659663,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-HCC,WNT_CTNNB1,2,0.354175326184387,0.573830440507998,0.573830440507998,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-IBD,WNT_CTNNB1,3,0.15053069950135,0.730276296397272,0.770608934586456,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-LUAD,WNT_CTNNB1,2,-1.22068480078664,0.068702481676238,0.114504136127063,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-NAFLD,WNT_CTNNB1,2,0.082836599039974,0.0191384409054684,0.22966129086562,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
-PAAD,WNT_CTNNB1,3,1.02803593813987,0.0393702145516885,0.141568277484474,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
-STAD,WNT_CTNNB1,3,0.836244745364086,0.0834077668900991,0.179510065243961,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,EPH_RECEPTORS,3,0.14995715393845574,0.2760659810108395,0.3910934730986893,all cohorts,3,reference scenario (no threshold)
+Asthma,ERBB_LIGANDS,3,-0.24871566246306653,0.14719946937417444,0.35748442562299504,all cohorts,3,reference scenario (no threshold)
+Asthma,ERBB_RECEPTORS,3,-0.4411414219720842,0.05651725484638707,0.23898841630716572,all cohorts,3,reference scenario (no threshold)
+Asthma,FGFR_AXIS,3,-0.1585630731191954,0.5281650140033121,0.561175327378519,all cohorts,3,reference scenario (no threshold)
+Asthma,HGF_MET_AXIS,3,-0.2658687479725698,0.19319930110160355,0.3649320131919178,all cohorts,3,reference scenario (no threshold)
+Asthma,IGF_INSR_AXIS,3,-0.8182963977159765,0.07076325553776024,0.23898841630716572,all cohorts,3,reference scenario (no threshold)
+Asthma,JAK_STAT,3,-0.16414534562825595,0.2396143913289026,0.3703131502355768,all cohorts,3,reference scenario (no threshold)
+Asthma,PDGFR_KIT_CSF1R,3,0.3559412930503207,0.08434885281429379,0.23898841630716572,all cohorts,3,reference scenario (no threshold)
+Asthma,PI3K_AKT,3,0.30454547829702955,0.01809095455569031,0.20845711654151394,all cohorts,3,reference scenario (no threshold)
+Asthma,RAS_MAPK,3,0.296147768170518,0.05304411134778407,0.23898841630716572,all cohorts,3,reference scenario (no threshold)
+Asthma,RET_ALK_NTRK,3,0.08461094632577004,0.7698855913891544,0.7698855913891544,all cohorts,3,reference scenario (no threshold)
+Asthma,SRC_FAK,3,0.20199753841949214,0.3000959235846208,0.39243313084142717,all cohorts,3,reference scenario (no threshold)
+Asthma,TAM_AXL_AXIS,3,0.2125779602601136,0.21935662053713076,0.3703131502355768,all cohorts,3,reference scenario (no threshold)
+Asthma,TGFB_SMAD,3,-0.13609149549612207,0.49114459548769923,0.5566305415527258,all cohorts,3,reference scenario (no threshold)
+Asthma,TIE_ANGPT_AXIS,3,-0.2250759180664516,0.47442830200847674,0.5566305415527258,all cohorts,3,reference scenario (no threshold)
+Asthma,VEGF_PDGF_AXIS,3,-0.31854923440396077,0.17747790779797942,0.3649320131919178,all cohorts,3,reference scenario (no threshold)
+Asthma,WNT_CTNNB1,3,-0.5507933694235436,0.024524366651942818,0.20845711654151394,all cohorts,3,reference scenario (no threshold)
+COPD,EPH_RECEPTORS,2,0.10298661592053611,0.7823443290992058,0.7823443290992057,all cohorts,2,reference scenario (no threshold)
+COPD,ERBB_LIGANDS,2,-0.1438838866094172,0.49428840042777367,0.6476261068886686,all cohorts,2,reference scenario (no threshold)
+COPD,ERBB_RECEPTORS,2,-0.22570347461552742,0.5960010357722645,0.6476261068886686,all cohorts,2,reference scenario (no threshold)
+COPD,FGFR_AXIS,2,-0.19245535110055945,0.5503275888503586,0.6476261068886686,all cohorts,2,reference scenario (no threshold)
+COPD,IGF_INSR_AXIS,2,-0.21094916529585206,0.6044510330960907,0.6476261068886686,all cohorts,2,reference scenario (no threshold)
+COPD,JAK_STAT,2,0.281843560182589,0.11916916684621705,0.4154751156249676,all cohorts,2,reference scenario (no threshold)
+COPD,PDGFR_KIT_CSF1R,2,0.3718031179328972,0.36120287433346143,0.5936546582055071,all cohorts,2,reference scenario (no threshold)
+COPD,PI3K_AKT,2,0.08025687553131661,0.15564593486043204,0.4154751156249676,all cohorts,2,reference scenario (no threshold)
+COPD,RAS_MAPK,2,-0.23710147482833663,0.2663368083887543,0.4993815157289143,all cohorts,2,reference scenario (no threshold)
+COPD,RET_ALK_NTRK,2,0.702221519243002,0.07456682552715102,0.37283412763575513,all cohorts,2,reference scenario (no threshold)
+COPD,SRC_FAK,2,-0.27847792132644217,0.014014701850408704,0.21022052775613057,all cohorts,2,reference scenario (no threshold)
+COPD,TGFB_SMAD,2,-0.1968940128301951,0.19388838729165153,0.4154751156249676,all cohorts,2,reference scenario (no threshold)
+COPD,TIE_ANGPT_AXIS,2,0.1072271252131465,0.39576977213700476,0.5936546582055071,all cohorts,2,reference scenario (no threshold)
+COPD,VEGF_PDGF_AXIS,2,-0.3859878122626753,0.039562718038204166,0.2967203852865312,all cohorts,2,reference scenario (no threshold)
+COPD,WNT_CTNNB1,2,-0.525496294131668,0.18914578715053043,0.4154751156249676,all cohorts,2,reference scenario (no threshold)
+CRC,EPH_RECEPTORS,3,2.2548479034311764,0.008163086400531313,0.03743868826476816,all cohorts,3,reference scenario (no threshold)
+CRC,ERBB_LIGANDS,3,-0.40229503815261,0.05847165786133681,0.09940181836427257,all cohorts,3,reference scenario (no threshold)
+CRC,ERBB_RECEPTORS,3,-0.08679445786614007,0.8647813518449716,0.8647813518449716,all cohorts,3,reference scenario (no threshold)
+CRC,FGFR_AXIS,3,-1.6148637194982602,0.020157587686717625,0.048954141524885655,all cohorts,3,reference scenario (no threshold)
+CRC,HGF_MET_AXIS,3,0.9454220433995225,0.04218727726303746,0.07968707927462632,all cohorts,3,reference scenario (no threshold)
+CRC,IGF_INSR_AXIS,3,-0.9085413536443452,0.016285888310359552,0.0461433502126854,all cohorts,3,reference scenario (no threshold)
+CRC,JAK_STAT,3,-0.052288018690307816,0.10741132861343229,0.14046096818679607,all cohorts,3,reference scenario (no threshold)
+CRC,PDGFR_KIT_CSF1R,3,-1.0284755307050062,0.0004221648566751918,0.007176802563478261,all cohorts,3,reference scenario (no threshold)
+CRC,PI3K_AKT,3,-0.04086242888162914,0.6944762749824542,0.7870731116467815,all cohorts,3,reference scenario (no threshold)
+CRC,RAS_MAPK,3,-0.4175509654574087,0.23393015872900683,0.2840580498852226,all cohorts,3,reference scenario (no threshold)
+CRC,RET_ALK_NTRK,3,-1.1432708824361617,0.03577417232656781,0.07602011619395659,all cohorts,3,reference scenario (no threshold)
+CRC,SRC_FAK,3,-0.3995270474708642,0.008809103121121918,0.03743868826476816,all cohorts,3,reference scenario (no threshold)
+CRC,TAM_AXL_AXIS,3,0.04394143391576541,0.7598837395373135,0.8073764732583956,all cohorts,3,reference scenario (no threshold)
+CRC,TGFB_SMAD,3,-0.6042918517055665,0.004168017779193008,0.03542815112314057,all cohorts,3,reference scenario (no threshold)
+CRC,TIE_ANGPT_AXIS,3,-0.15732732557855872,0.10355545574079437,0.14046096818679607,all cohorts,3,reference scenario (no threshold)
+CRC,VEGF_PDGF_AXIS,3,0.9103287594630186,0.07465423443670799,0.11537472594763963,all cohorts,3,reference scenario (no threshold)
+CRC,WNT_CTNNB1,3,2.803458764170125,0.013595384510109975,0.0461433502126854,all cohorts,3,reference scenario (no threshold)
+ESCC,EPH_RECEPTORS,2,-0.388996240482521,0.38065871019424435,0.5563411908023524,all cohorts,2,reference scenario (no threshold)
+ESCC,ERBB_LIGANDS,2,-0.5025181978902361,0.020603795999525956,0.35026453199194124,all cohorts,2,reference scenario (no threshold)
+ESCC,ERBB_RECEPTORS,2,-0.92387304201205,0.14686850632272164,0.39935853670434174,all cohorts,2,reference scenario (no threshold)
+ESCC,FGFR_AXIS,2,-0.33854391855082955,0.7096896925510555,0.7422825692394799,all cohorts,2,reference scenario (no threshold)
+ESCC,HGF_MET_AXIS,2,0.7680436671782885,0.16444175040767012,0.39935853670434174,all cohorts,2,reference scenario (no threshold)
+ESCC,IGF_INSR_AXIS,2,0.897992715758398,0.250110320521416,0.5208914644629421,all cohorts,2,reference scenario (no threshold)
+ESCC,JAK_STAT,2,-0.1354878118617247,0.7422825692394799,0.7422825692394799,all cohorts,2,reference scenario (no threshold)
+ESCC,PDGFR_KIT_CSF1R,2,-0.2393268563013178,0.27576606942155757,0.5208914644629421,all cohorts,2,reference scenario (no threshold)
+ESCC,PI3K_AKT,2,0.3700946734553802,0.504240718325231,0.5714728141019285,all cohorts,2,reference scenario (no threshold)
+ESCC,RAS_MAPK,2,-0.48914884128091357,0.4581633336019373,0.5563411908023524,all cohorts,2,reference scenario (no threshold)
+ESCC,RET_ALK_NTRK,2,-0.439919235428378,0.42927325621658374,0.5563411908023524,all cohorts,2,reference scenario (no threshold)
+ESCC,SRC_FAK,2,1.367585533046965,0.08734891006309738,0.39935853670434174,all cohorts,2,reference scenario (no threshold)
+ESCC,TAM_AXL_AXIS,2,-0.6532627663009121,0.11236029973820003,0.39935853670434174,all cohorts,2,reference scenario (no threshold)
+ESCC,TGFB_SMAD,2,0.5204440964051134,0.39789679297948377,0.5563411908023524,all cohorts,2,reference scenario (no threshold)
+ESCC,TIE_ANGPT_AXIS,2,0.401362447178938,0.40266197887127064,0.5563411908023524,all cohorts,2,reference scenario (no threshold)
+ESCC,VEGF_PDGF_AXIS,2,1.0237545645401187,0.14161083460224042,0.39935853670434174,all cohorts,2,reference scenario (no threshold)
+ESCC,WNT_CTNNB1,2,0.5854228174250534,0.08112213969716149,0.39935853670434174,all cohorts,2,reference scenario (no threshold)
+HCC,EPH_RECEPTORS,2,-0.18692078296038706,0.2746272949552607,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,ERBB_LIGANDS,2,-0.8334419317658148,0.3922282802924793,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,ERBB_RECEPTORS,2,-0.5283323526502951,0.06613517905628438,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,FGFR_AXIS,2,-0.5582152455823648,0.24279288122689222,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,HGF_MET_AXIS,2,-0.6767011118693135,0.3213843199802662,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,IGF_INSR_AXIS,2,-1.016310193841396,0.10509845095170933,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,JAK_STAT,2,0.8244733473197048,0.35803041689465176,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,PDGFR_KIT_CSF1R,2,-0.10989922746586715,0.41647181777173004,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,PI3K_AKT,2,0.9993821477242387,0.4622873576823814,0.4911803175375302,all cohorts,2,reference scenario (no threshold)
+HCC,RAS_MAPK,2,0.8834655344477185,0.08399707522212727,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,RET_ALK_NTRK,2,-1.1696402533895596,0.2633344269020828,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,SRC_FAK,2,-0.9386130617326013,0.2316266867377219,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,TAM_AXL_AXIS,2,-0.3519247561493703,0.29210389013474114,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,TGFB_SMAD,2,1.1366091376852387,0.378132839654457,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,TIE_ANGPT_AXIS,2,0.3678861209807923,0.15839360547272135,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,VEGF_PDGF_AXIS,2,0.808570398781916,0.14851432466998554,0.4720013934746274,all cohorts,2,reference scenario (no threshold)
+HCC,WNT_CTNNB1,2,0.3541753261937902,0.5738304405008803,0.5738304405008803,all cohorts,2,reference scenario (no threshold)
+IBD,EPH_RECEPTORS,3,-0.10006995765120585,0.7706089895636797,0.7706089895636797,all cohorts,3,reference scenario (no threshold)
+IBD,ERBB_LIGANDS,3,0.6150466213151434,0.2842189207754442,0.4392474230165956,all cohorts,3,reference scenario (no threshold)
+IBD,ERBB_RECEPTORS,3,-1.4936240480112115,6.105915136347748e-05,0.0010380055731791173,all cohorts,3,reference scenario (no threshold)
+IBD,FGFR_AXIS,3,-0.15211478750404445,0.5279381055735011,0.723493492233238,all cohorts,3,reference scenario (no threshold)
+IBD,HGF_MET_AXIS,3,1.5610904180884058,0.04656238042025437,0.10083184227020889,all cohorts,3,reference scenario (no threshold)
+IBD,IGF_INSR_AXIS,3,-0.5337007479977863,0.05338322725711263,0.10083184227020889,all cohorts,3,reference scenario (no threshold)
+IBD,JAK_STAT,3,2.271924851059876,0.002220832085050913,0.018877072722932764,all cohorts,3,reference scenario (no threshold)
+IBD,PDGFR_KIT_CSF1R,3,1.8310893426630743,0.007418453576326125,0.04203790359918138,all cohorts,3,reference scenario (no threshold)
+IBD,PI3K_AKT,3,0.15009330502619875,0.5993236795763122,0.7277501823426648,all cohorts,3,reference scenario (no threshold)
+IBD,RAS_MAPK,3,0.11483184068350594,0.6481988242458909,0.7346253341453431,all cohorts,3,reference scenario (no threshold)
+IBD,RET_ALK_NTRK,2,-0.24198978763244913,0.553259729354829,0.723493492233238,all cohorts,2,reference scenario (no threshold)
+IBD,SRC_FAK,3,0.4213323305655943,0.02162288237083818,0.07351780006084982,all cohorts,3,reference scenario (no threshold)
+IBD,TAM_AXL_AXIS,3,0.8065926499308147,0.017392453276520302,0.07351780006084982,all cohorts,3,reference scenario (no threshold)
+IBD,TGFB_SMAD,3,1.1397313070975061,0.05469466117646182,0.10083184227020889,all cohorts,3,reference scenario (no threshold)
+IBD,TIE_ANGPT_AXIS,3,1.499879745097824,0.026917345841056255,0.07626581321632606,all cohorts,3,reference scenario (no threshold)
+IBD,VEGF_PDGF_AXIS,3,1.7535264859950719,0.05931284839424053,0.10083184227020889,all cohorts,3,reference scenario (no threshold)
+IBD,WNT_CTNNB1,3,0.15053069898612523,0.7302762971626204,0.7706089895636797,all cohorts,3,reference scenario (no threshold)
+LUAD,EPH_RECEPTORS,3,1.376540133522533,0.05607468598236022,0.11404836859631107,all cohorts,3,reference scenario (no threshold)
+LUAD,ERBB_LIGANDS,3,-0.16921368535737563,0.6311434219794756,0.7152958782434057,all cohorts,3,reference scenario (no threshold)
+LUAD,ERBB_RECEPTORS,3,0.9856698034137912,0.15387407255625835,0.21798826945469932,all cohorts,3,reference scenario (no threshold)
+LUAD,FGFR_AXIS,3,-2.008344248815821,0.002913907234326042,0.029436475511051635,all cohorts,3,reference scenario (no threshold)
+LUAD,HGF_MET_AXIS,3,0.7258394460799316,0.09588244583481186,0.1481819617447092,all cohorts,3,reference scenario (no threshold)
+LUAD,IGF_INSR_AXIS,3,-0.43994741361552875,0.026447992679467455,0.07493597925849112,all cohorts,3,reference scenario (no threshold)
+LUAD,JAK_STAT,3,-1.015874082222785,0.0034631147660060748,0.029436475511051635,all cohorts,3,reference scenario (no threshold)
+LUAD,PDGFR_KIT_CSF1R,3,-1.1092004934928255,0.06708381942091984,0.11404836859631107,all cohorts,3,reference scenario (no threshold)
+LUAD,PI3K_AKT,3,0.6462037571270572,0.25913059165456426,0.31465857558054233,all cohorts,3,reference scenario (no threshold)
+LUAD,RAS_MAPK,3,-0.03230114105789703,0.9288275865369829,0.9288275865369829,all cohorts,3,reference scenario (no threshold)
+LUAD,RET_ALK_NTRK,3,-0.9977459197389043,0.06708727564488887,0.11404836859631107,all cohorts,3,reference scenario (no threshold)
+LUAD,SRC_FAK,3,-0.06769272551195864,0.8875821058133102,0.9288275865369829,all cohorts,3,reference scenario (no threshold)
+LUAD,TAM_AXL_AXIS,3,-0.29848369387835894,0.04077947427625131,0.09903586609946746,all cohorts,3,reference scenario (no threshold)
+LUAD,TGFB_SMAD,3,-0.8468034611290213,0.011337567447483593,0.06424621553574036,all cohorts,3,reference scenario (no threshold)
+LUAD,TIE_ANGPT_AXIS,3,-2.21722538187644,0.021223597259941766,0.072160230683802,all cohorts,3,reference scenario (no threshold)
+LUAD,VEGF_PDGF_AXIS,3,-1.2078150101018392,0.019384823366789917,0.072160230683802,all cohorts,3,reference scenario (no threshold)
+LUAD,WNT_CTNNB1,3,-0.7609328525806806,0.2547706249290101,0.31465857558054233,all cohorts,3,reference scenario (no threshold)
+NAFLD,EPH_RECEPTORS,2,-0.14089221174861058,0.8621828244042677,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,ERBB_LIGANDS,2,0.125596579222815,0.6180393089276495,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,ERBB_RECEPTORS,2,-0.12030634202597124,0.7389862919640698,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,FGFR_AXIS,2,-0.07952987562584682,0.8326039938086874,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,HGF_MET_AXIS,2,-0.14912040466956306,0.5482431181716262,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,IGF_INSR_AXIS,2,-1.0318147679733458,0.35997729105635434,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,JAK_STAT,2,-0.02691417189475703,0.9502302511623767,0.9502302511623767,all cohorts,2,reference scenario (no threshold)
+NAFLD,PDGFR_KIT_CSF1R,2,0.12076206331240964,0.6237324088168739,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,PI3K_AKT,2,-0.2935025952258989,0.16990935995325152,0.906183253084008,all cohorts,2,reference scenario (no threshold)
+NAFLD,RAS_MAPK,2,0.439053737259875,0.5402763690999938,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,SRC_FAK,2,-0.09039898695223791,0.6409024091054292,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,TAM_AXL_AXIS,2,-0.39948201873040673,0.09267614911570993,0.7414091929256794,all cohorts,2,reference scenario (no threshold)
+NAFLD,TGFB_SMAD,2,-0.618448467150016,0.28337107234150527,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,TIE_ANGPT_AXIS,2,0.19048255166256342,0.689964864205785,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,VEGF_PDGF_AXIS,2,0.1690823158314343,0.7937070490659501,0.9196616793645522,all cohorts,2,reference scenario (no threshold)
+NAFLD,WNT_CTNNB1,2,0.08283659904042402,0.01913844090652434,0.30621505450438946,all cohorts,2,reference scenario (no threshold)
+PAAD,EPH_RECEPTORS,2,0.776295683364669,0.4284402131125862,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,ERBB_LIGANDS,2,0.48538856258240465,0.09107659771552915,0.5385196762951344,all cohorts,2,reference scenario (no threshold)
+PAAD,ERBB_RECEPTORS,2,0.11652366855675098,0.627731104742237,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,FGFR_AXIS,2,-0.14629499869429272,0.8278150836382555,0.8432830508555396,all cohorts,2,reference scenario (no threshold)
+PAAD,HGF_MET_AXIS,2,1.5910410532515664,0.10992549594150425,0.5385196762951344,all cohorts,2,reference scenario (no threshold)
+PAAD,IGF_INSR_AXIS,2,-0.36056208218967994,0.6205564287213553,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,JAK_STAT,2,0.7744367521224366,0.2681163701423974,0.612837417468337,all cohorts,2,reference scenario (no threshold)
+PAAD,PDGFR_KIT_CSF1R,2,0.4054311062186091,0.6485654191429603,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,PI3K_AKT,2,0.431704995909878,0.2019448786106754,0.5385196762951344,all cohorts,2,reference scenario (no threshold)
+PAAD,RAS_MAPK,2,1.112652332788007,0.04590966865690445,0.5385196762951344,all cohorts,2,reference scenario (no threshold)
+PAAD,SRC_FAK,2,0.41691651224600496,0.5256482727620903,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,TAM_AXL_AXIS,2,0.10370765357036388,0.8432830508555396,0.8432830508555396,all cohorts,2,reference scenario (no threshold)
+PAAD,TGFB_SMAD,2,1.0818970614152372,0.1823344993529651,0.5385196762951344,all cohorts,2,reference scenario (no threshold)
+PAAD,TIE_ANGPT_AXIS,2,0.4894674650320261,0.4537113322904755,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,VEGF_PDGF_AXIS,2,0.4213241313966208,0.4944781411570607,0.7412176218776689,all cohorts,2,reference scenario (no threshold)
+PAAD,WNT_CTNNB1,2,1.133940485918978,0.18157589305660676,0.5385196762951344,all cohorts,2,reference scenario (no threshold)
+STAD,EPH_RECEPTORS,3,1.567196969759482,0.015451529746445175,0.12397942825740475,all cohorts,3,reference scenario (no threshold)
+STAD,ERBB_LIGANDS,3,-0.311666278559897,0.45342232489173245,0.48736274610130065,all cohorts,3,reference scenario (no threshold)
+STAD,ERBB_RECEPTORS,3,-0.25076589616819434,0.45690257446996935,0.48736274610130065,all cohorts,3,reference scenario (no threshold)
+STAD,FGFR_AXIS,3,-0.030867432278755248,0.889060509353905,0.889060509353905,all cohorts,3,reference scenario (no threshold)
+STAD,HGF_MET_AXIS,3,0.8509057818413811,0.044712264732426496,0.1430792471437648,all cohorts,3,reference scenario (no threshold)
+STAD,IGF_INSR_AXIS,3,0.05811067474999161,0.3090500346034426,0.4495273230595529,all cohorts,3,reference scenario (no threshold)
+STAD,JAK_STAT,3,0.8696515092292891,0.021761281331874084,0.12397942825740475,all cohorts,3,reference scenario (no threshold)
+STAD,PDGFR_KIT_CSF1R,3,-0.26329265486158066,0.341900250578072,0.4524538326604783,all cohorts,3,reference scenario (no threshold)
+STAD,PI3K_AKT,3,0.760998043799579,0.026890886988450203,0.12397942825740475,all cohorts,3,reference scenario (no threshold)
+STAD,RAS_MAPK,3,0.8898841336792607,0.07891003722872504,0.16681553492712128,all cohorts,3,reference scenario (no threshold)
+STAD,RET_ALK_NTRK,3,-1.1294690486806584,0.030994857064351188,0.12397942825740475,all cohorts,3,reference scenario (no threshold)
+STAD,SRC_FAK,3,0.46224837659124063,0.2394026544996841,0.38304424719949454,all cohorts,3,reference scenario (no threshold)
+STAD,TGFB_SMAD,3,0.6635912276058117,0.09972781141352001,0.17729388695736892,all cohorts,3,reference scenario (no threshold)
+STAD,TIE_ANGPT_AXIS,3,0.050891473906448666,0.3676187390366386,0.4524538326604783,all cohorts,3,reference scenario (no threshold)
+STAD,VEGF_PDGF_AXIS,3,0.6235969848581252,0.05640482376428887,0.15041286337143697,all cohorts,3,reference scenario (no threshold)
+STAD,WNT_CTNNB1,3,0.836244738948063,0.08340776746356064,0.16681553492712128,all cohorts,3,reference scenario (no threshold)
+Asthma,EPH_RECEPTORS,3,0.14995715393845574,0.2760659810108395,0.3910934730986893,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,ERBB_LIGANDS,3,-0.24871566246306653,0.14719946937417444,0.35748442562299504,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,ERBB_RECEPTORS,3,-0.4411414219720842,0.05651725484638707,0.23898841630716572,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,FGFR_AXIS,3,-0.1585630731191954,0.5281650140033121,0.561175327378519,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,HGF_MET_AXIS,3,-0.2658687479725698,0.19319930110160355,0.3649320131919178,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,IGF_INSR_AXIS,3,-0.8182963977159765,0.07076325553776024,0.23898841630716572,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,JAK_STAT,3,-0.16414534562825595,0.2396143913289026,0.3703131502355768,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,PDGFR_KIT_CSF1R,3,0.3559412930503207,0.08434885281429379,0.23898841630716572,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,PI3K_AKT,3,0.30454547829702955,0.01809095455569031,0.20845711654151394,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,RAS_MAPK,3,0.296147768170518,0.05304411134778407,0.23898841630716572,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,RET_ALK_NTRK,3,0.08461094632577004,0.7698855913891544,0.7698855913891544,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,SRC_FAK,3,0.20199753841949214,0.3000959235846208,0.39243313084142717,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TAM_AXL_AXIS,3,0.2125779602601136,0.21935662053713076,0.3703131502355768,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TGFB_SMAD,3,-0.13609149549612207,0.49114459548769923,0.5566305415527258,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TIE_ANGPT_AXIS,3,-0.2250759180664516,0.47442830200847674,0.5566305415527258,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,VEGF_PDGF_AXIS,3,-0.31854923440396077,0.17747790779797942,0.3649320131919178,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,WNT_CTNNB1,3,-0.5507933694235436,0.024524366651942818,0.20845711654151394,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+COPD,EPH_RECEPTORS,2,0.10298661592053611,0.7823443290992058,0.7823443290992057,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,ERBB_LIGANDS,2,-0.1438838866094172,0.49428840042777367,0.6476261068886686,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,ERBB_RECEPTORS,2,-0.22570347461552742,0.5960010357722645,0.6476261068886686,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,FGFR_AXIS,2,-0.19245535110055945,0.5503275888503586,0.6476261068886686,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,IGF_INSR_AXIS,2,-0.21094916529585206,0.6044510330960907,0.6476261068886686,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,JAK_STAT,2,0.281843560182589,0.11916916684621705,0.4154751156249676,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,PDGFR_KIT_CSF1R,2,0.3718031179328972,0.36120287433346143,0.5936546582055071,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,PI3K_AKT,2,0.08025687553131661,0.15564593486043204,0.4154751156249676,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,RAS_MAPK,2,-0.23710147482833663,0.2663368083887543,0.4993815157289143,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,RET_ALK_NTRK,2,0.702221519243002,0.07456682552715102,0.37283412763575513,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,SRC_FAK,2,-0.27847792132644217,0.014014701850408704,0.21022052775613057,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,TGFB_SMAD,2,-0.1968940128301951,0.19388838729165153,0.4154751156249676,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,TIE_ANGPT_AXIS,2,0.1072271252131465,0.39576977213700476,0.5936546582055071,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,VEGF_PDGF_AXIS,2,-0.3859878122626753,0.039562718038204166,0.2967203852865312,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+COPD,WNT_CTNNB1,2,-0.525496294131668,0.18914578715053043,0.4154751156249676,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+CRC,EPH_RECEPTORS,3,2.2548479034311764,0.008163086400531313,0.03743868826476816,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,ERBB_LIGANDS,3,-0.40229503815261,0.05847165786133681,0.09940181836427257,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,ERBB_RECEPTORS,3,-0.08679445786614007,0.8647813518449716,0.8647813518449716,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,FGFR_AXIS,3,-1.6148637194982602,0.020157587686717625,0.048954141524885655,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,HGF_MET_AXIS,3,0.9454220433995225,0.04218727726303746,0.07968707927462632,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,IGF_INSR_AXIS,3,-0.9085413536443452,0.016285888310359552,0.0461433502126854,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,JAK_STAT,3,-0.052288018690307816,0.10741132861343229,0.14046096818679607,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,PDGFR_KIT_CSF1R,3,-1.0284755307050062,0.0004221648566751918,0.007176802563478261,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,PI3K_AKT,3,-0.04086242888162914,0.6944762749824542,0.7870731116467815,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,RAS_MAPK,3,-0.4175509654574087,0.23393015872900683,0.2840580498852226,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,RET_ALK_NTRK,3,-1.1432708824361617,0.03577417232656781,0.07602011619395659,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,SRC_FAK,3,-0.3995270474708642,0.008809103121121918,0.03743868826476816,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TAM_AXL_AXIS,3,0.04394143391576541,0.7598837395373135,0.8073764732583956,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TGFB_SMAD,3,-0.6042918517055665,0.004168017779193008,0.03542815112314057,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TIE_ANGPT_AXIS,3,-0.15732732557855872,0.10355545574079437,0.14046096818679607,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,VEGF_PDGF_AXIS,3,0.9103287594630186,0.07465423443670799,0.11537472594763963,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+CRC,WNT_CTNNB1,3,2.803458764170125,0.013595384510109975,0.0461433502126854,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+ESCC,EPH_RECEPTORS,2,-0.388996240482521,0.38065871019424435,0.5563411908023524,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,ERBB_LIGANDS,2,-0.5025181978902361,0.020603795999525956,0.35026453199194124,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,ERBB_RECEPTORS,2,-0.92387304201205,0.14686850632272164,0.39935853670434174,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,FGFR_AXIS,2,-0.33854391855082955,0.7096896925510555,0.7422825692394799,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,HGF_MET_AXIS,2,0.7680436671782885,0.16444175040767012,0.39935853670434174,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,IGF_INSR_AXIS,2,0.897992715758398,0.250110320521416,0.5208914644629421,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,JAK_STAT,2,-0.1354878118617247,0.7422825692394799,0.7422825692394799,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,PDGFR_KIT_CSF1R,2,-0.2393268563013178,0.27576606942155757,0.5208914644629421,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,PI3K_AKT,2,0.3700946734553802,0.504240718325231,0.5714728141019285,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,RAS_MAPK,2,-0.48914884128091357,0.4581633336019373,0.5563411908023524,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,RET_ALK_NTRK,2,-0.439919235428378,0.42927325621658374,0.5563411908023524,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,SRC_FAK,2,1.367585533046965,0.08734891006309738,0.39935853670434174,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TAM_AXL_AXIS,2,-0.6532627663009121,0.11236029973820003,0.39935853670434174,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TGFB_SMAD,2,0.5204440964051134,0.39789679297948377,0.5563411908023524,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TIE_ANGPT_AXIS,2,0.401362447178938,0.40266197887127064,0.5563411908023524,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,VEGF_PDGF_AXIS,2,1.0237545645401187,0.14161083460224042,0.39935853670434174,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,WNT_CTNNB1,2,0.5854228174250534,0.08112213969716149,0.39935853670434174,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,EPH_RECEPTORS,2,-0.18692078296038706,0.2746272949552607,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,ERBB_LIGANDS,2,-0.8334419317658148,0.3922282802924793,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,ERBB_RECEPTORS,2,-0.5283323526502951,0.06613517905628438,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,FGFR_AXIS,2,-0.5582152455823648,0.24279288122689222,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,HGF_MET_AXIS,2,-0.6767011118693135,0.3213843199802662,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,IGF_INSR_AXIS,2,-1.016310193841396,0.10509845095170933,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,JAK_STAT,2,0.8244733473197048,0.35803041689465176,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,PDGFR_KIT_CSF1R,2,-0.10989922746586715,0.41647181777173004,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,PI3K_AKT,2,0.9993821477242387,0.4622873576823814,0.4911803175375302,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,RAS_MAPK,2,0.8834655344477185,0.08399707522212727,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,RET_ALK_NTRK,2,-1.1696402533895596,0.2633344269020828,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,SRC_FAK,2,-0.9386130617326013,0.2316266867377219,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TAM_AXL_AXIS,2,-0.3519247561493703,0.29210389013474114,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TGFB_SMAD,2,1.1366091376852387,0.378132839654457,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TIE_ANGPT_AXIS,2,0.3678861209807923,0.15839360547272135,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,VEGF_PDGF_AXIS,2,0.808570398781916,0.14851432466998554,0.4720013934746274,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+HCC,WNT_CTNNB1,2,0.3541753261937902,0.5738304405008803,0.5738304405008803,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+IBD,EPH_RECEPTORS,3,-0.10006995765120585,0.7706089895636797,0.7706089895636797,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,ERBB_LIGANDS,3,0.6150466213151434,0.2842189207754442,0.4392474230165956,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,ERBB_RECEPTORS,3,-1.4936240480112115,6.105915136347748e-05,0.0010380055731791173,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,FGFR_AXIS,3,-0.15211478750404445,0.5279381055735011,0.723493492233238,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,HGF_MET_AXIS,3,1.5610904180884058,0.04656238042025437,0.10083184227020889,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,IGF_INSR_AXIS,3,-0.5337007479977863,0.05338322725711263,0.10083184227020889,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,JAK_STAT,3,2.271924851059876,0.002220832085050913,0.018877072722932764,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,PDGFR_KIT_CSF1R,3,1.8310893426630743,0.007418453576326125,0.04203790359918138,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,PI3K_AKT,3,0.15009330502619875,0.5993236795763122,0.7277501823426648,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,RAS_MAPK,3,0.11483184068350594,0.6481988242458909,0.7346253341453431,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,RET_ALK_NTRK,2,-0.24198978763244913,0.553259729354829,0.723493492233238,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+IBD,SRC_FAK,3,0.4213323305655943,0.02162288237083818,0.07351780006084982,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TAM_AXL_AXIS,3,0.8065926499308147,0.017392453276520302,0.07351780006084982,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TGFB_SMAD,3,1.1397313070975061,0.05469466117646182,0.10083184227020889,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TIE_ANGPT_AXIS,3,1.499879745097824,0.026917345841056255,0.07626581321632606,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,VEGF_PDGF_AXIS,3,1.7535264859950719,0.05931284839424053,0.10083184227020889,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+IBD,WNT_CTNNB1,3,0.15053069898612523,0.7302762971626204,0.7706089895636797,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,EPH_RECEPTORS,3,1.376540133522533,0.05607468598236022,0.11404836859631107,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,ERBB_LIGANDS,3,-0.16921368535737563,0.6311434219794756,0.7152958782434057,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,ERBB_RECEPTORS,3,0.9856698034137912,0.15387407255625835,0.21798826945469932,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,FGFR_AXIS,3,-2.008344248815821,0.002913907234326042,0.029436475511051635,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,HGF_MET_AXIS,3,0.7258394460799316,0.09588244583481186,0.1481819617447092,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,IGF_INSR_AXIS,3,-0.43994741361552875,0.026447992679467455,0.07493597925849112,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,JAK_STAT,3,-1.015874082222785,0.0034631147660060748,0.029436475511051635,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,PDGFR_KIT_CSF1R,3,-1.1092004934928255,0.06708381942091984,0.11404836859631107,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,PI3K_AKT,3,0.6462037571270572,0.25913059165456426,0.31465857558054233,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,RAS_MAPK,3,-0.03230114105789703,0.9288275865369829,0.9288275865369829,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,RET_ALK_NTRK,3,-0.9977459197389043,0.06708727564488887,0.11404836859631107,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,SRC_FAK,3,-0.06769272551195864,0.8875821058133102,0.9288275865369829,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TAM_AXL_AXIS,3,-0.29848369387835894,0.04077947427625131,0.09903586609946746,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TGFB_SMAD,3,-0.8468034611290213,0.011337567447483593,0.06424621553574036,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TIE_ANGPT_AXIS,3,-2.21722538187644,0.021223597259941766,0.072160230683802,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,VEGF_PDGF_AXIS,3,-1.2078150101018392,0.019384823366789917,0.072160230683802,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,WNT_CTNNB1,3,-0.7609328525806806,0.2547706249290101,0.31465857558054233,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+NAFLD,EPH_RECEPTORS,2,-0.14089221174861058,0.8621828244042677,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,ERBB_LIGANDS,2,0.125596579222815,0.6180393089276495,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,ERBB_RECEPTORS,2,-0.12030634202597124,0.7389862919640698,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,FGFR_AXIS,2,-0.07952987562584682,0.8326039938086874,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,HGF_MET_AXIS,2,-0.14912040466956306,0.5482431181716262,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,IGF_INSR_AXIS,2,-1.0318147679733458,0.35997729105635434,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,JAK_STAT,2,-0.02691417189475703,0.9502302511623767,0.9502302511623767,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,PDGFR_KIT_CSF1R,2,0.12076206331240964,0.6237324088168739,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,PI3K_AKT,2,-0.2935025952258989,0.16990935995325152,0.906183253084008,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,RAS_MAPK,2,0.439053737259875,0.5402763690999938,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,SRC_FAK,2,-0.09039898695223791,0.6409024091054292,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TAM_AXL_AXIS,2,-0.39948201873040673,0.09267614911570993,0.7414091929256794,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TGFB_SMAD,2,-0.618448467150016,0.28337107234150527,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TIE_ANGPT_AXIS,2,0.19048255166256342,0.689964864205785,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,VEGF_PDGF_AXIS,2,0.1690823158314343,0.7937070490659501,0.9196616793645522,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,WNT_CTNNB1,2,0.08283659904042402,0.01913844090652434,0.30621505450438946,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,EPH_RECEPTORS,2,0.776295683364669,0.4284402131125862,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,ERBB_LIGANDS,2,0.48538856258240465,0.09107659771552915,0.5385196762951344,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,ERBB_RECEPTORS,2,0.11652366855675098,0.627731104742237,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,FGFR_AXIS,2,-0.14629499869429272,0.8278150836382555,0.8432830508555396,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,HGF_MET_AXIS,2,1.5910410532515664,0.10992549594150425,0.5385196762951344,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,IGF_INSR_AXIS,2,-0.36056208218967994,0.6205564287213553,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,JAK_STAT,2,0.7744367521224366,0.2681163701423974,0.612837417468337,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,PDGFR_KIT_CSF1R,2,0.4054311062186091,0.6485654191429603,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,PI3K_AKT,2,0.431704995909878,0.2019448786106754,0.5385196762951344,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,RAS_MAPK,2,1.112652332788007,0.04590966865690445,0.5385196762951344,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,SRC_FAK,2,0.41691651224600496,0.5256482727620903,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TAM_AXL_AXIS,2,0.10370765357036388,0.8432830508555396,0.8432830508555396,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TGFB_SMAD,2,1.0818970614152372,0.1823344993529651,0.5385196762951344,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TIE_ANGPT_AXIS,2,0.4894674650320261,0.4537113322904755,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,VEGF_PDGF_AXIS,2,0.4213241313966208,0.4944781411570607,0.7412176218776689,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,WNT_CTNNB1,2,1.133940485918978,0.18157589305660676,0.5385196762951344,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+STAD,EPH_RECEPTORS,3,1.567196969759482,0.015451529746445175,0.12397942825740475,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,ERBB_LIGANDS,3,-0.311666278559897,0.45342232489173245,0.48736274610130065,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,ERBB_RECEPTORS,3,-0.25076589616819434,0.45690257446996935,0.48736274610130065,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,FGFR_AXIS,3,-0.030867432278755248,0.889060509353905,0.889060509353905,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,HGF_MET_AXIS,3,0.8509057818413811,0.044712264732426496,0.1430792471437648,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,IGF_INSR_AXIS,3,0.05811067474999161,0.3090500346034426,0.4495273230595529,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,JAK_STAT,3,0.8696515092292891,0.021761281331874084,0.12397942825740475,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,PDGFR_KIT_CSF1R,3,-0.26329265486158066,0.341900250578072,0.4524538326604783,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,PI3K_AKT,3,0.760998043799579,0.026890886988450203,0.12397942825740475,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,RAS_MAPK,2,0.6243123814665509,0.228938347413865,0.38304424719949454,coverage >= 0.60,2,threshold applied to the module coverage of each cohort-module pair
+STAD,RET_ALK_NTRK,3,-1.1294690486806584,0.030994857064351188,0.12397942825740475,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,SRC_FAK,3,0.46224837659124063,0.2394026544996841,0.38304424719949454,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,TGFB_SMAD,3,0.6635912276058117,0.09972781141352001,0.19945562282704002,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,TIE_ANGPT_AXIS,3,0.050891473906448666,0.3676187390366386,0.4524538326604783,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,VEGF_PDGF_AXIS,3,0.6235969848581252,0.05640482376428887,0.15041286337143697,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+STAD,WNT_CTNNB1,3,0.836244738948063,0.08340776746356064,0.19064632563099576,coverage >= 0.60,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,EPH_RECEPTORS,3,0.14995715393845574,0.2760659810108395,0.40012789811282773,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,ERBB_LIGANDS,3,-0.24871566246306653,0.14719946937417444,0.3833830261262442,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,ERBB_RECEPTORS,3,-0.4411414219720842,0.05651725484638707,0.22606901938554827,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,FGFR_AXIS,3,-0.1585630731191954,0.5281650140033121,0.5633760149368662,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,HGF_MET_AXIS,3,-0.2658687479725698,0.19319930110160355,0.3833830261262442,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,JAK_STAT,3,-0.16414534562825595,0.2396143913289026,0.3833830261262442,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,PDGFR_KIT_CSF1R,3,0.3559412930503207,0.08434885281429379,0.26991632900574014,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,PI3K_AKT,3,0.30454547829702955,0.01809095455569031,0.19619493321554254,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,RAS_MAPK,3,0.296147768170518,0.05304411134778407,0.22606901938554827,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,RET_ALK_NTRK,3,0.08461094632577004,0.7698855913891544,0.7698855913891544,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,SRC_FAK,3,0.20199753841949214,0.3000959235846208,0.40012789811282773,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TAM_AXL_AXIS,3,0.2125779602601136,0.21935662053713076,0.3833830261262442,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TGFB_SMAD,3,-0.13609149549612207,0.49114459548769923,0.5613081091287991,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TIE_ANGPT_AXIS,3,-0.2250759180664516,0.47442830200847674,0.5613081091287991,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,VEGF_PDGF_AXIS,3,-0.31854923440396077,0.17747790779797942,0.3833830261262442,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,WNT_CTNNB1,3,-0.5507933694235436,0.024524366651942818,0.19619493321554254,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+COPD,ERBB_LIGANDS,2,-0.1438838866094172,0.49428840042777367,0.5492093338086375,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,FGFR_AXIS,2,-0.19245535110055945,0.5503275888503586,0.5503275888503586,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,PDGFR_KIT_CSF1R,2,0.3718031179328972,0.36120287433346143,0.49471221517125596,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,PI3K_AKT,2,0.08025687553131661,0.15564593486043204,0.38777677458330306,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,RAS_MAPK,2,-0.23710147482833663,0.2663368083887543,0.4438946806479238,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,RET_ALK_NTRK,2,0.702221519243002,0.07456682552715102,0.3728341276357551,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,SRC_FAK,2,-0.27847792132644217,0.014014701850408704,0.14014701850408703,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,TGFB_SMAD,2,-0.1968940128301951,0.19388838729165153,0.38777677458330306,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,TIE_ANGPT_AXIS,2,0.1072271252131465,0.39576977213700476,0.49471221517125596,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+COPD,WNT_CTNNB1,2,-0.525496294131668,0.18914578715053043,0.38777677458330306,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+CRC,EPH_RECEPTORS,3,2.2548479034311764,0.008163086400531313,0.035236412484487674,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,ERBB_LIGANDS,3,-0.40229503815261,0.05847165786133681,0.11694331572267362,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,ERBB_RECEPTORS,3,-0.08679445786614007,0.8647813518449716,0.8647813518449716,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,FGFR_AXIS,3,-1.6148637194982602,0.020157587686717625,0.0645042805974964,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,HGF_MET_AXIS,3,0.9454220433995225,0.04218727726303746,0.09642806231551419,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,JAK_STAT,3,-0.052288018690307816,0.10741132861343229,0.14321510481790972,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,PDGFR_KIT_CSF1R,3,-1.0284755307050062,0.0004221648566751918,0.006754637706803069,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,PI3K_AKT,3,-0.04086242888162914,0.6944762749824542,0.7936871714085191,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,RAS_MAPK,3,-0.4175509654574087,0.23393015872900683,0.2879140415126238,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,RET_ALK_NTRK,3,-1.1432708824361617,0.03577417232656781,0.09539779287084749,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,SRC_FAK,3,-0.3995270474708642,0.008809103121121918,0.035236412484487674,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TAM_AXL_AXIS,3,0.04394143391576541,0.7598837395373135,0.8105426555064678,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TGFB_SMAD,3,-0.6042918517055665,0.004168017779193008,0.033344142233544066,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TIE_ANGPT_AXIS,3,-0.15732732557855872,0.10355545574079437,0.14321510481790972,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,VEGF_PDGF_AXIS,3,0.9103287594630186,0.07465423443670799,0.132718638998592,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+CRC,WNT_CTNNB1,2,3.0125401593480987,0.09306010648289718,0.14321510481790972,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,EPH_RECEPTORS,2,-0.388996240482521,0.38065871019424435,0.5727041670024217,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,ERBB_LIGANDS,2,-0.5025181978902361,0.020603795999525956,0.30905693999288936,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,ERBB_RECEPTORS,2,-0.92387304201205,0.14686850632272164,0.41110437601917527,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,FGFR_AXIS,2,-0.33854391855082955,0.7096896925510555,0.7422825692394799,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,HGF_MET_AXIS,2,0.7680436671782885,0.16444175040767012,0.41110437601917527,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,JAK_STAT,2,-0.1354878118617247,0.7422825692394799,0.7422825692394799,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,PDGFR_KIT_CSF1R,2,-0.2393268563013178,0.27576606942155757,0.5727041670024217,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,PI3K_AKT,2,0.3700946734553802,0.504240718325231,0.5818162134521896,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,RAS_MAPK,2,-0.48914884128091357,0.4581633336019373,0.5727041670024217,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,RET_ALK_NTRK,2,-0.439919235428378,0.42927325621658374,0.5727041670024217,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,SRC_FAK,2,1.367585533046965,0.08734891006309738,0.41110437601917527,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TAM_AXL_AXIS,2,-0.6532627663009121,0.11236029973820003,0.41110437601917527,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TGFB_SMAD,2,0.5204440964051134,0.39789679297948377,0.5727041670024217,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TIE_ANGPT_AXIS,2,0.401362447178938,0.40266197887127064,0.5727041670024217,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,VEGF_PDGF_AXIS,2,1.0237545645401187,0.14161083460224042,0.41110437601917527,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,EPH_RECEPTORS,2,-0.18692078296038706,0.2746272949552607,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,ERBB_LIGANDS,2,-0.8334419317658148,0.3922282802924793,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,ERBB_RECEPTORS,2,-0.5283323526502951,0.06613517905628438,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,FGFR_AXIS,2,-0.5582152455823648,0.24279288122689222,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,HGF_MET_AXIS,2,-0.6767011118693135,0.3213843199802662,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,JAK_STAT,2,0.8244733473197048,0.35803041689465176,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,PDGFR_KIT_CSF1R,2,-0.10989922746586715,0.41647181777173004,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,PI3K_AKT,2,0.9993821477242387,0.4622873576823814,0.4931065148612068,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,RAS_MAPK,2,0.8834655344477185,0.08399707522212727,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,RET_ALK_NTRK,2,-1.1696402533895596,0.2633344269020828,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,SRC_FAK,2,-0.9386130617326013,0.2316266867377219,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TAM_AXL_AXIS,2,-0.3519247561493703,0.29210389013474114,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TGFB_SMAD,2,1.1366091376852387,0.378132839654457,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TIE_ANGPT_AXIS,2,0.3678861209807923,0.15839360547272135,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,VEGF_PDGF_AXIS,2,0.808570398781916,0.14851432466998554,0.47596779173912,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+HCC,WNT_CTNNB1,2,0.3541753261937902,0.5738304405008803,0.5738304405008803,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+IBD,EPH_RECEPTORS,3,-0.10006995765120585,0.7706089895636797,0.7706089895636797,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,ERBB_LIGANDS,3,0.6150466213151434,0.2842189207754442,0.4547502732407107,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,ERBB_RECEPTORS,3,-1.4936240480112115,6.105915136347748e-05,0.0009769464218156397,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,FGFR_AXIS,3,-0.15211478750404445,0.5279381055735011,0.7376291440939227,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,HGF_MET_AXIS,3,1.5610904180884058,0.04656238042025437,0.10544506381198317,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,JAK_STAT,3,2.271924851059876,0.002220832085050913,0.017766656680407306,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,PDGFR_KIT_CSF1R,3,1.8310893426630743,0.007418453576326125,0.039565085740406,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,PI3K_AKT,3,0.15009330502619875,0.5993236795763122,0.7376291440939227,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,RAS_MAPK,3,0.11483184068350594,0.6481988242458909,0.7407986562810182,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,RET_ALK_NTRK,2,-0.24198978763244913,0.553259729354829,0.7376291440939227,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+IBD,SRC_FAK,3,0.4213323305655943,0.02162288237083818,0.06919322358668217,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TAM_AXL_AXIS,3,0.8065926499308147,0.017392453276520302,0.06919322358668217,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TGFB_SMAD,3,1.1397313070975061,0.05469466117646182,0.10544506381198317,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TIE_ANGPT_AXIS,3,1.499879745097824,0.026917345841056255,0.07177958890948334,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,VEGF_PDGF_AXIS,3,1.7535264859950719,0.05931284839424053,0.10544506381198317,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+IBD,WNT_CTNNB1,3,0.15053069898612523,0.7302762971626204,0.7706089895636797,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,EPH_RECEPTORS,3,1.376540133522533,0.05607468598236022,0.10992397068032869,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,ERBB_LIGANDS,3,-0.16921368535737563,0.6311434219794756,0.7213067679765436,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,ERBB_RECEPTORS,3,0.9856698034137912,0.15387407255625835,0.20516543007501112,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,FGFR_AXIS,3,-2.008344248815821,0.002913907234326042,0.027704918128048598,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,HGF_MET_AXIS,3,0.7258394460799316,0.09588244583481186,0.13946537575972634,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,JAK_STAT,3,-1.015874082222785,0.0034631147660060748,0.027704918128048598,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,PDGFR_KIT_CSF1R,3,-1.1092004934928255,0.06708381942091984,0.10992397068032869,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,PI3K_AKT,3,0.6462037571270572,0.25913059165456426,0.3189299589594637,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,RAS_MAPK,3,-0.03230114105789703,0.9288275865369829,0.9288275865369829,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,RET_ALK_NTRK,3,-0.9977459197389043,0.06708727564488887,0.10992397068032869,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,SRC_FAK,3,-0.06769272551195864,0.8875821058133102,0.9288275865369829,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TAM_AXL_AXIS,3,-0.29848369387835894,0.04077947427625131,0.10874526473667016,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TGFB_SMAD,3,-0.8468034611290213,0.011337567447483593,0.060467026386579165,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TIE_ANGPT_AXIS,3,-2.21722538187644,0.021223597259941766,0.06791551123181365,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,VEGF_PDGF_AXIS,3,-1.2078150101018392,0.019384823366789917,0.06791551123181365,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,WNT_CTNNB1,2,-1.2206848008198368,0.06870248167520543,0.10992397068032869,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,EPH_RECEPTORS,2,-0.14089221174861058,0.8621828244042677,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,ERBB_LIGANDS,2,0.125596579222815,0.6180393089276495,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,ERBB_RECEPTORS,2,-0.12030634202597124,0.7389862919640698,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,FGFR_AXIS,2,-0.07952987562584682,0.8326039938086874,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,HGF_MET_AXIS,2,-0.14912040466956306,0.5482431181716262,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,JAK_STAT,2,-0.02691417189475703,0.9502302511623767,0.9502302511623767,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,PDGFR_KIT_CSF1R,2,0.12076206331240964,0.6237324088168739,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,PI3K_AKT,2,-0.2935025952258989,0.16990935995325152,0.8495467997662575,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,RAS_MAPK,2,0.439053737259875,0.5402763690999938,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,SRC_FAK,2,-0.09039898695223791,0.6409024091054292,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TAM_AXL_AXIS,2,-0.39948201873040673,0.09267614911570993,0.6950711183678244,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TGFB_SMAD,2,-0.618448467150016,0.28337107234150527,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TIE_ANGPT_AXIS,2,0.19048255166256342,0.689964864205785,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,VEGF_PDGF_AXIS,2,0.1690823158314343,0.7937070490659501,0.9237673118617155,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,WNT_CTNNB1,2,0.08283659904042402,0.01913844090652434,0.2870766135978651,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,EPH_RECEPTORS,2,0.776295683364669,0.4284402131125862,0.7167930992210322,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,ERBB_LIGANDS,2,0.48538856258240465,0.09107659771552915,0.5048621965266885,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,ERBB_RECEPTORS,2,0.11652366855675098,0.627731104742237,0.7483447143957235,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,FGFR_AXIS,2,-0.14629499869429272,0.8278150836382555,0.8432830508555396,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,HGF_MET_AXIS,2,1.5910410532515664,0.10992549594150425,0.5048621965266885,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,JAK_STAT,2,0.7744367521224366,0.2681163701423974,0.5745350788765659,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,PDGFR_KIT_CSF1R,2,0.4054311062186091,0.6485654191429603,0.7483447143957235,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,PI3K_AKT,2,0.431704995909878,0.2019448786106754,0.5048621965266885,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,RAS_MAPK,2,1.112652332788007,0.04590966865690445,0.5048621965266885,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,SRC_FAK,2,0.41691651224600496,0.5256482727620903,0.7167930992210322,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TAM_AXL_AXIS,2,0.10370765357036388,0.8432830508555396,0.8432830508555396,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TGFB_SMAD,2,1.0818970614152372,0.1823344993529651,0.5048621965266885,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TIE_ANGPT_AXIS,2,0.4894674650320261,0.4537113322904755,0.7167930992210322,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,VEGF_PDGF_AXIS,2,0.4213241313966208,0.4944781411570607,0.7167930992210322,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,WNT_CTNNB1,2,1.133940485918978,0.18157589305660676,0.5048621965266885,coverage >= 0.80,2,threshold applied to the module coverage of each cohort-module pair
+STAD,EPH_RECEPTORS,3,1.567196969759482,0.015451529746445175,0.12397942825740475,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,ERBB_LIGANDS,3,-0.311666278559897,0.45342232489173245,0.45690257446996935,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,ERBB_RECEPTORS,3,-0.25076589616819434,0.45690257446996935,0.45690257446996935,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,HGF_MET_AXIS,3,0.8509057818413811,0.044712264732426496,0.13413679419727947,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,PDGFR_KIT_CSF1R,3,-0.26329265486158066,0.341900250578072,0.44114248684396634,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,PI3K_AKT,3,0.760998043799579,0.026890886988450203,0.12397942825740475,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,RET_ALK_NTRK,3,-1.1294690486806584,0.030994857064351188,0.12397942825740475,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,SRC_FAK,3,0.46224837659124063,0.2394026544996841,0.3591039817495261,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,TGFB_SMAD,3,0.6635912276058117,0.09972781141352001,0.17096196242317716,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,TIE_ANGPT_AXIS,3,0.050891473906448666,0.3676187390366386,0.44114248684396634,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,VEGF_PDGF_AXIS,3,0.6235969848581252,0.05640482376428887,0.13537157703429328,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+STAD,WNT_CTNNB1,3,0.836244738948063,0.08340776746356064,0.16681553492712128,coverage >= 0.80,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,EPH_RECEPTORS,3,0.14995715393845574,0.2760659810108395,0.43650316157763025,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,ERBB_LIGANDS,2,-0.2164184624608105,0.477204705688976,0.5613081091287991,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+Asthma,ERBB_RECEPTORS,3,-0.4411414219720842,0.05651725484638707,0.22606901938554827,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,FGFR_AXIS,3,-0.1585630731191954,0.5281650140033121,0.5633760149368662,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,HGF_MET_AXIS,3,-0.2658687479725698,0.19319930110160355,0.42598114014027133,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,JAK_STAT,3,-0.16414534562825595,0.2396143913289026,0.42598114014027133,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,PDGFR_KIT_CSF1R,3,0.3559412930503207,0.08434885281429379,0.26991632900574014,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,PI3K_AKT,3,0.30454547829702955,0.01809095455569031,0.19619493321554254,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,RAS_MAPK,3,0.296147768170518,0.05304411134778407,0.22606901938554827,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,RET_ALK_NTRK,3,0.08461094632577004,0.7698855913891544,0.7698855913891544,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,SRC_FAK,3,0.20199753841949214,0.3000959235846208,0.43650316157763025,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TAM_AXL_AXIS,3,0.2125779602601136,0.21935662053713076,0.42598114014027133,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TGFB_SMAD,3,-0.13609149549612207,0.49114459548769923,0.5613081091287991,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,TIE_ANGPT_AXIS,3,-0.2250759180664516,0.47442830200847674,0.5613081091287991,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,VEGF_PDGF_AXIS,3,-0.31854923440396077,0.17747790779797942,0.42598114014027133,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+Asthma,WNT_CTNNB1,3,-0.5507933694235436,0.024524366651942818,0.19619493321554254,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+COPD,PDGFR_KIT_CSF1R,2,0.3718031179328972,0.36120287433346143,0.39576977213700476,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+COPD,RAS_MAPK,2,-0.23710147482833663,0.2663368083887543,0.39576977213700476,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+COPD,TIE_ANGPT_AXIS,2,0.1072271252131465,0.39576977213700476,0.39576977213700476,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+COPD,WNT_CTNNB1,2,-0.525496294131668,0.18914578715053043,0.39576977213700476,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+CRC,EPH_RECEPTORS,3,2.2548479034311764,0.008163086400531313,0.035236412484487674,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,ERBB_LIGANDS,3,-0.40229503815261,0.05847165786133681,0.11694331572267362,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,ERBB_RECEPTORS,3,-0.08679445786614007,0.8647813518449716,0.9224334419679697,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,FGFR_AXIS,2,-1.8869630055662918,0.03965256734227079,0.09642806231551419,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+CRC,HGF_MET_AXIS,3,0.9454220433995225,0.04218727726303746,0.09642806231551419,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,JAK_STAT,3,-0.052288018690307816,0.10741132861343229,0.14321510481790972,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,PDGFR_KIT_CSF1R,3,-1.0284755307050062,0.0004221648566751918,0.006754637706803069,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,PI3K_AKT,2,-0.011943873298784845,0.9558772530489673,0.9558772530489673,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+CRC,RAS_MAPK,3,-0.4175509654574087,0.23393015872900683,0.2879140415126238,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,RET_ALK_NTRK,3,-1.1432708824361617,0.03577417232656781,0.09642806231551419,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,SRC_FAK,3,-0.3995270474708642,0.008809103121121918,0.035236412484487674,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TAM_AXL_AXIS,3,0.04394143391576541,0.7598837395373135,0.8684385594712154,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TGFB_SMAD,3,-0.6042918517055665,0.004168017779193008,0.033344142233544066,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,TIE_ANGPT_AXIS,3,-0.15732732557855872,0.10355545574079437,0.14321510481790972,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,VEGF_PDGF_AXIS,3,0.9103287594630186,0.07465423443670799,0.132718638998592,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+CRC,WNT_CTNNB1,2,3.0125401593480987,0.09306010648289718,0.14321510481790972,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,EPH_RECEPTORS,2,-0.388996240482521,0.38065871019424435,0.4963436114020987,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,ERBB_LIGANDS,2,-0.5025181978902361,0.020603795999525956,0.2678493479938374,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,ERBB_RECEPTORS,2,-0.92387304201205,0.14686850632272164,0.35629045921661856,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,HGF_MET_AXIS,2,0.7680436671782885,0.16444175040767012,0.35629045921661856,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,JAK_STAT,2,-0.1354878118617247,0.7422825692394799,0.7422825692394799,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,PDGFR_KIT_CSF1R,2,-0.2393268563013178,0.27576606942155757,0.4963436114020987,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,RAS_MAPK,2,-0.48914884128091357,0.4581633336019373,0.4963436114020987,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,RET_ALK_NTRK,2,-0.439919235428378,0.42927325621658374,0.4963436114020987,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,SRC_FAK,2,1.367585533046965,0.08734891006309738,0.35629045921661856,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TAM_AXL_AXIS,2,-0.6532627663009121,0.11236029973820003,0.35629045921661856,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TGFB_SMAD,2,0.5204440964051134,0.39789679297948377,0.4963436114020987,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,TIE_ANGPT_AXIS,2,0.401362447178938,0.40266197887127064,0.4963436114020987,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+ESCC,VEGF_PDGF_AXIS,2,1.0237545645401187,0.14161083460224042,0.35629045921661856,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,EPH_RECEPTORS,2,-0.18692078296038706,0.2746272949552607,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,ERBB_LIGANDS,2,-0.8334419317658148,0.3922282802924793,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,ERBB_RECEPTORS,2,-0.5283323526502951,0.06613517905628438,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,FGFR_AXIS,2,-0.5582152455823648,0.24279288122689222,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,HGF_MET_AXIS,2,-0.6767011118693135,0.3213843199802662,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,JAK_STAT,2,0.8244733473197048,0.35803041689465176,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,PDGFR_KIT_CSF1R,2,-0.10989922746586715,0.41647181777173004,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,PI3K_AKT,2,0.9993821477242387,0.4622873576823814,0.4931065148612068,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,RAS_MAPK,2,0.8834655344477185,0.08399707522212727,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,RET_ALK_NTRK,2,-1.1696402533895596,0.2633344269020828,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,SRC_FAK,2,-0.9386130617326013,0.2316266867377219,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TAM_AXL_AXIS,2,-0.3519247561493703,0.29210389013474114,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TGFB_SMAD,2,1.1366091376852387,0.378132839654457,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,TIE_ANGPT_AXIS,2,0.3678861209807923,0.15839360547272135,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,VEGF_PDGF_AXIS,2,0.808570398781916,0.14851432466998554,0.47596779173912,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+HCC,WNT_CTNNB1,2,0.3541753261937902,0.5738304405008803,0.5738304405008803,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+IBD,EPH_RECEPTORS,3,-0.10006995765120585,0.7706089895636797,0.7706089895636797,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,ERBB_LIGANDS,3,0.6150466213151434,0.2842189207754442,0.4547502732407107,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,ERBB_RECEPTORS,3,-1.4936240480112115,6.105915136347748e-05,0.0009769464218156397,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,FGFR_AXIS,3,-0.15211478750404445,0.5279381055735011,0.7376291440939227,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,HGF_MET_AXIS,3,1.5610904180884058,0.04656238042025437,0.10544506381198317,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,JAK_STAT,3,2.271924851059876,0.002220832085050913,0.017766656680407306,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,PDGFR_KIT_CSF1R,2,2.018364566200582,0.017149763212077403,0.06919322358668217,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+IBD,PI3K_AKT,3,0.15009330502619875,0.5993236795763122,0.7376291440939227,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,RAS_MAPK,2,-0.0908826740480648,0.6654829932778196,0.760551992317508,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+IBD,RET_ALK_NTRK,2,-0.24198978763244913,0.553259729354829,0.7376291440939227,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+IBD,SRC_FAK,3,0.4213323305655943,0.02162288237083818,0.06919322358668217,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TAM_AXL_AXIS,3,0.8065926499308147,0.017392453276520302,0.06919322358668217,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TGFB_SMAD,3,1.1397313070975061,0.05469466117646182,0.10544506381198317,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,TIE_ANGPT_AXIS,3,1.499879745097824,0.026917345841056255,0.07177958890948334,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,VEGF_PDGF_AXIS,3,1.7535264859950719,0.05931284839424053,0.10544506381198317,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+IBD,WNT_CTNNB1,3,0.15053069898612523,0.7302762971626204,0.7706089895636797,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,EPH_RECEPTORS,3,1.376540133522533,0.05607468598236022,0.11450413612534237,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,ERBB_LIGANDS,3,-0.16921368535737563,0.6311434219794756,0.7282424099763181,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,ERBB_RECEPTORS,3,0.9856698034137912,0.15387407255625835,0.2098282807585341,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,HGF_MET_AXIS,3,0.7258394460799316,0.09588244583481186,0.1438236687522178,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,JAK_STAT,3,-1.015874082222785,0.0034631147660060748,0.05194672149009112,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,PDGFR_KIT_CSF1R,3,-1.1092004934928255,0.06708381942091984,0.11450413612534237,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,PI3K_AKT,2,0.6677577096536419,0.5204965533489591,0.6506206916861988,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+LUAD,RAS_MAPK,3,-0.03230114105789703,0.9288275865369829,0.9288275865369829,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,RET_ALK_NTRK,3,-0.9977459197389043,0.06708727564488887,0.11450413612534237,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,SRC_FAK,3,-0.06769272551195864,0.8875821058133102,0.9288275865369829,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TAM_AXL_AXIS,3,-0.29848369387835894,0.04077947427625131,0.11450413612534237,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TGFB_SMAD,3,-0.8468034611290213,0.011337567447483593,0.07958848972478162,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,TIE_ANGPT_AXIS,3,-2.21722538187644,0.021223597259941766,0.07958848972478162,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,VEGF_PDGF_AXIS,3,-1.2078150101018392,0.019384823366789917,0.07958848972478162,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+LUAD,WNT_CTNNB1,2,-1.2206848008198368,0.06870248167520543,0.11450413612534237,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,EPH_RECEPTORS,2,-0.14089221174861058,0.8621828244042677,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,ERBB_LIGANDS,2,0.125596579222815,0.6180393089276495,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,ERBB_RECEPTORS,2,-0.12030634202597124,0.7389862919640698,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,HGF_MET_AXIS,2,-0.14912040466956306,0.5482431181716262,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,JAK_STAT,2,-0.02691417189475703,0.9502302511623767,0.9502302511623767,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,PI3K_AKT,2,-0.2935025952258989,0.16990935995325152,0.6796374398130061,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,SRC_FAK,2,-0.09039898695223791,0.6409024091054292,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TAM_AXL_AXIS,2,-0.39948201873040673,0.09267614911570993,0.5560568946942596,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TGFB_SMAD,2,-0.618448467150016,0.28337107234150527,0.8501132170245158,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,TIE_ANGPT_AXIS,2,0.19048255166256342,0.689964864205785,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,VEGF_PDGF_AXIS,2,0.1690823158314343,0.7937070490659501,0.9405630811682921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+NAFLD,WNT_CTNNB1,2,0.08283659904042402,0.01913844090652434,0.2296612908782921,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,EPH_RECEPTORS,2,0.776295683364669,0.4284402131125862,0.6833427545907174,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,ERBB_LIGANDS,2,0.48538856258240465,0.09107659771552915,0.525056684387756,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,ERBB_RECEPTORS,2,0.11652366855675098,0.627731104742237,0.7418640328771893,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,FGFR_AXIS,2,-0.14629499869429272,0.8278150836382555,0.8432830508555396,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,HGF_MET_AXIS,2,1.5910410532515664,0.10992549594150425,0.525056684387756,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,JAK_STAT,2,0.7744367521224366,0.2681163701423974,0.5809188019751944,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,PI3K_AKT,2,0.431704995909878,0.2019448786106754,0.525056684387756,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,SRC_FAK,2,0.41691651224600496,0.5256482727620903,0.6833427545907174,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TAM_AXL_AXIS,2,0.10370765357036388,0.8432830508555396,0.8432830508555396,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TGFB_SMAD,2,1.0818970614152372,0.1823344993529651,0.525056684387756,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,TIE_ANGPT_AXIS,2,0.4894674650320261,0.4537113322904755,0.6833427545907174,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,VEGF_PDGF_AXIS,2,0.4213241313966208,0.4944781411570607,0.6833427545907174,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+PAAD,WNT_CTNNB1,2,1.133940485918978,0.18157589305660676,0.525056684387756,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+STAD,EPH_RECEPTORS,3,1.567196969759482,0.015451529746445175,0.1341367941972795,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,ERBB_LIGANDS,3,-0.311666278559897,0.45342232489173245,0.45690257446996935,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,ERBB_RECEPTORS,3,-0.25076589616819434,0.45690257446996935,0.45690257446996935,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,HGF_MET_AXIS,3,0.8509057818413811,0.044712264732426496,0.1341367941972795,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,RET_ALK_NTRK,3,-1.1294690486806584,0.030994857064351188,0.1341367941972795,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,TGFB_SMAD,3,0.6635912276058117,0.09972781141352001,0.17951006054433602,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,TIE_ANGPT_AXIS,3,0.050891473906448666,0.3676187390366386,0.45690257446996935,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair
+STAD,VEGF_PDGF_AXIS,2,0.5955055948926856,0.2482549865337893,0.3723824798006839,coverage >= 0.90,2,threshold applied to the module coverage of each cohort-module pair
+STAD,WNT_CTNNB1,3,0.836244738948063,0.08340776746356064,0.17951006054433602,coverage >= 0.90,3,threshold applied to the module coverage of each cohort-module pair

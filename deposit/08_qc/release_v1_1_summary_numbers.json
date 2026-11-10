@@ -1,0 +1,40 @@
+{
+  "release": "v1.1",
+  "deposit_version": "v19.0",
+  "date": "2026-11-10",
+  "cohorts_total": 26,
+  "cohorts_estimates": 25,
+  "samples_total": 2711,
+  "samples_estimates": 2627,
+  "patients_total": 1086,
+  "patients_estimates": 1044,
+  "pairs_total": 442,
+  "pairs_estimates": 425,
+  "effects_before": 434,
+  "effects_after": 418,
+  "smdh": 183,
+  "smcrph": 235,
+  "not_estimable_estimates_layer": 7,
+  "dedup": {
+    "excluded": "GSE62452",
+    "kept": "GSE28735",
+    "duplicate_patients": 42,
+    "paad_patients_before": 123,
+    "paad_patients_after": 81
+  },
+  "pooled": {
+    "states_in_table": 170,
+    "states_k_ge_2": 165,
+    "k2": 82,
+    "k3": 83,
+    "fully_concordant_k_ge_3": 57,
+    "binomial_p": 7.7e-17,
+    "fully_concordant_k_ge_2": 112,
+    "bh_significant": {
+      "none": 12,
+      "0.60": 12,
+      "0.80": 9,
+      "0.90": 6
+    }
+  }
+}

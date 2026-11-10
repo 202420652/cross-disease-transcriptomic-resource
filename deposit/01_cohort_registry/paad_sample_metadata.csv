@@ -1,0 +1,299 @@
+accession,gsm,title,source,patient_char,sample_char,tissue,pt,replicate,tissue_char,survival_month_char,cancer_death_char,grading_char,stage_char,survival months_char,survival status_char
+GSE15471,GSM388076,N30162,pancreas,30162,normal,Normal,30162,False,,,,,,,
+GSE15471,GSM388077,N30162_rep,pancreas,30162,normal,Normal,30162,True,,,,,,,
+GSE15471,GSM388078,N40728,pancreas,40728,normal,Normal,40728,False,,,,,,,
+GSE15471,GSM388079,N40728_rep,pancreas,40728,normal,Normal,40728,True,,,,,,,
+GSE15471,GSM388080,N41027,pancreas,41027,normal,Normal,41027,False,,,,,,,
+GSE15471,GSM388081,N41027_rep,pancreas,41027,normal,Normal,41027,True,,,,,,,
+GSE15471,GSM388082,N30057,pancreas,30057,normal,Normal,30057,False,,,,,,,
+GSE15471,GSM388083,N30068,pancreas,30068,normal,Normal,30068,False,,,,,,,
+GSE15471,GSM388084,N30277,pancreas,30277,normal,Normal,30277,False,,,,,,,
+GSE15471,GSM388085,N30308,pancreas,30308,normal,Normal,30308,False,,,,,,,
+GSE15471,GSM388086,N30364,pancreas,30364,normal,Normal,30364,False,,,,,,,
+GSE15471,GSM388087,N30582,pancreas,30582,normal,Normal,30582,False,,,,,,,
+GSE15471,GSM388088,N30617,pancreas,30617,normal,Normal,30617,False,,,,,,,
+GSE15471,GSM388089,N40645,pancreas,40645,normal,Normal,40645,False,,,,,,,
+GSE15471,GSM388090,N40656,pancreas,40656,normal,Normal,40656,False,,,,,,,
+GSE15471,GSM388091,N40726,pancreas,40726,normal,Normal,40726,False,,,,,,,
+GSE15471,GSM388092,N40730,pancreas,40730,normal,Normal,40730,False,,,,,,,
+GSE15471,GSM388093,N40741,pancreas,40741,normal,Normal,40741,False,,,,,,,
+GSE15471,GSM388094,N40836,pancreas,40836,normal,Normal,40836,False,,,,,,,
+GSE15471,GSM388095,N40843,pancreas,40843,normal,Normal,40843,False,,,,,,,
+GSE15471,GSM388096,N40875,pancreas,40875,normal,Normal,40875,False,,,,,,,
+GSE15471,GSM388097,N40892,pancreas,40892,normal,Normal,40892,False,,,,,,,
+GSE15471,GSM388098,N40899,pancreas,40899,normal,Normal,40899,False,,,,,,,
+GSE15471,GSM388099,N40975,pancreas,40975,normal,Normal,40975,False,,,,,,,
+GSE15471,GSM388100,N40977,pancreas,40977,normal,Normal,40977,False,,,,,,,
+GSE15471,GSM388101,N51084,pancreas,51084,normal,Normal,51084,False,,,,,,,
+GSE15471,GSM388102,N51091,pancreas,51091,normal,Normal,51091,False,,,,,,,
+GSE15471,GSM388103,N51176,pancreas,51176,normal,Normal,51176,False,,,,,,,
+GSE15471,GSM388104,N51292,pancreas,51292,normal,Normal,51292,False,,,,,,,
+GSE15471,GSM388105,N51294,pancreas,51294,normal,Normal,51294,False,,,,,,,
+GSE15471,GSM388106,N51308,pancreas,51308,normal,Normal,51308,False,,,,,,,
+GSE15471,GSM388107,N51315,pancreas,51315,normal,Normal,51315,False,,,,,,,
+GSE15471,GSM388108,N51572,pancreas,51572,normal,Normal,51572,False,,,,,,,
+GSE15471,GSM388109,N51628,pancreas,51628,normal,Normal,51628,False,,,,,,,
+GSE15471,GSM388110,N51677,pancreas,51677,normal,Normal,51677,False,,,,,,,
+GSE15471,GSM388111,N51681,pancreas,51681,normal,Normal,51681,False,,,,,,,
+GSE15471,GSM388112,N51721,pancreas,51721,normal,Normal,51721,False,,,,,,,
+GSE15471,GSM388113,N51722,pancreas,51722,normal,Normal,51722,False,,,,,,,
+GSE15471,GSM388114,N51783,pancreas,51783,normal,Normal,51783,False,,,,,,,
+GSE15471,GSM388115,T30162,pancreas,30162,tumor,Tumour,30162,False,,,,,,,
+GSE15471,GSM388116,T30162_rep,pancreas,30162,tumor,Tumour,30162,True,,,,,,,
+GSE15471,GSM388117,T40728,pancreas,40728,tumor,Tumour,40728,False,,,,,,,
+GSE15471,GSM388118,T40728_rep,pancreas,40728,tumor,Tumour,40728,True,,,,,,,
+GSE15471,GSM388119,T41027,pancreas,41027,tumor,Tumour,41027,False,,,,,,,
+GSE15471,GSM388120,T41027_rep,pancreas,41027,tumor,Tumour,41027,True,,,,,,,
+GSE15471,GSM388121,T30057,pancreas,30057,tumor,Tumour,30057,False,,,,,,,
+GSE15471,GSM388122,T30068,pancreas,30068,tumor,Tumour,30068,False,,,,,,,
+GSE15471,GSM388123,T30277,pancreas,30277,tumor,Tumour,30277,False,,,,,,,
+GSE15471,GSM388124,T30308,pancreas,30308,tumor,Tumour,30308,False,,,,,,,
+GSE15471,GSM388125,T30364,pancreas,30364,tumor,Tumour,30364,False,,,,,,,
+GSE15471,GSM388126,T30582,pancreas,30582,tumor,Tumour,30582,False,,,,,,,
+GSE15471,GSM388127,T30617,pancreas,30617,tumor,Tumour,30617,False,,,,,,,
+GSE15471,GSM388128,T40645,pancreas,40645,tumor,Tumour,40645,False,,,,,,,
+GSE15471,GSM388129,T40656,pancreas,40656,tumor,Tumour,40656,False,,,,,,,
+GSE15471,GSM388130,T40726,pancreas,40726,tumor,Tumour,40726,False,,,,,,,
+GSE15471,GSM388131,T40730,pancreas,40730,tumor,Tumour,40730,False,,,,,,,
+GSE15471,GSM388132,T40741,pancreas,40741,tumor,Tumour,40741,False,,,,,,,
+GSE15471,GSM388133,T40836,pancreas,40836,tumor,Tumour,40836,False,,,,,,,
+GSE15471,GSM388134,T40843,pancreas,40843,tumor,Tumour,40843,False,,,,,,,
+GSE15471,GSM388135,T40875,pancreas,40875,tumor,Tumour,40875,False,,,,,,,
+GSE15471,GSM388136,T40892,pancreas,40892,tumor,Tumour,40892,False,,,,,,,
+GSE15471,GSM388137,T40899,pancreas,40899,tumor,Tumour,40899,False,,,,,,,
+GSE15471,GSM388138,T40975,pancreas,40975,tumor,Tumour,40975,False,,,,,,,
+GSE15471,GSM388139,T40977,pancreas,40977,tumor,Tumour,40977,False,,,,,,,
+GSE15471,GSM388140,T51084,pancreas,51084,tumor,Tumour,51084,False,,,,,,,
+GSE15471,GSM388141,T51091,pancreas,51091,tumor,Tumour,51091,False,,,,,,,
+GSE15471,GSM388142,T51176,pancreas,51176,tumor,Tumour,51176,False,,,,,,,
+GSE15471,GSM388143,T51292,pancreas,51292,tumor,Tumour,51292,False,,,,,,,
+GSE15471,GSM388144,T51294,pancreas,51294,tumor,Tumour,51294,False,,,,,,,
+GSE15471,GSM388145,T51308,pancreas,51308,tumor,Tumour,51308,False,,,,,,,
+GSE15471,GSM388146,T51315,pancreas,51315,tumor,Tumour,51315,False,,,,,,,
+GSE15471,GSM388147,T51572,pancreas,51572,tumor,Tumour,51572,False,,,,,,,
+GSE15471,GSM388148,T51628,pancreas,51628,tumor,Tumour,51628,False,,,,,,,
+GSE15471,GSM388149,T51677,pancreas,51677,tumor,Tumour,51677,False,,,,,,,
+GSE15471,GSM388150,T51681,pancreas,51681,tumor,Tumour,51681,False,,,,,,,
+GSE15471,GSM388151,T51721,pancreas,51721,tumor,Tumour,51721,False,,,,,,,
+GSE15471,GSM388152,T51722,pancreas,51722,tumor,Tumour,51722,False,,,,,,,
+GSE15471,GSM388153,T51783,pancreas,51783,tumor,Tumour,51783,False,,,,,,,
+GSE28735,GSM711904,"human pancreatic tumor tissue, patient sample 1","tumor tissue, patient 1",,,Tumour,1,False,T,51,1,,,,
+GSE28735,GSM711905,"human pancreatic nontumor tissue, patient sample 1","non-tumor tissue, patient 1",,,Normal,1,False,N,51,1,,,,
+GSE28735,GSM711906,"human pancreatic tumor tissue, patient sample 2","tumor tissue, patient 2",,,Tumour,2,False,T,7,1,,,,
+GSE28735,GSM711907,"human pancreatic nontumor tissue, patient sample 2","non-tumor tissue, patient 2",,,Normal,2,False,N,7,1,,,,
+GSE28735,GSM711908,"human pancreatic tumor tissue, patient sample 3","tumor tissue, patient 3",,,Tumour,3,False,T,3,1,,,,
+GSE28735,GSM711909,"human pancreatic nontumor tissue, patient sample 3","non-tumor tissue, patient 3",,,Normal,3,False,N,3,1,,,,
+GSE28735,GSM711910,"human pancreatic tumor tissue, patient sample 4","tumor tissue, patient 4",,,Tumour,4,False,T,42,1,,,,
+GSE28735,GSM711911,"human pancreatic nontumor tissue, patient sample 4","non-tumor tissue, patient 4",,,Normal,4,False,N,42,1,,,,
+GSE28735,GSM711912,"human pancreatic tumor tissue, patient sample 5","tumor tissue, patient 5",,,Tumour,5,False,T,na,na,,,,
+GSE28735,GSM711913,"human pancreatic nontumor tissue, patient sample 5","non-tumor tissue, patient 5",,,Normal,5,False,N,na,na,,,,
+GSE28735,GSM711914,"human pancreatic tumor tissue, patient sample 6","tumor tissue, patient 6",,,Tumour,6,False,T,36,1,,,,
+GSE28735,GSM711915,"human pancreatic nontumor tissue, patient sample 6","non-tumor tissue, patient 6",,,Normal,6,False,N,36,1,,,,
+GSE28735,GSM711916,"human pancreatic tumor tissue, patient sample 7","tumor tissue, patient 7",,,Tumour,7,False,T,2,1,,,,
+GSE28735,GSM711917,"human pancreatic nontumor tissue, patient sample 7","non-tumor tissue, patient 7",,,Normal,7,False,N,2,1,,,,
+GSE28735,GSM711918,"human pancreatic tumor tissue, patient sample 8","tumor tissue, patient 8",,,Tumour,8,False,T,na,na,,,,
+GSE28735,GSM711919,"human pancreatic nontumor tissue, patient sample 8","non-tumor tissue, patient 8",,,Normal,8,False,N,na,na,,,,
+GSE28735,GSM711920,"human pancreatic tumor tissue, patient sample 9","tumor tissue, patient 9",,,Tumour,9,False,T,na,na,,,,
+GSE28735,GSM711921,"human pancreatic nontumor tissue, patient sample 9","non-tumor tissue, patient 9",,,Normal,9,False,N,na,na,,,,
+GSE28735,GSM711922,"human pancreatic tumor tissue, patient sample 10","tumor tissue, patient 10",,,Tumour,10,False,T,19,1,,,,
+GSE28735,GSM711923,"human pancreatic nontumor tissue, patient sample 10","non-tumor tissue, patient 10",,,Normal,10,False,N,19,1,,,,
+GSE28735,GSM711924,"human pancreatic tumor tissue, patient sample 11","tumor tissue, patient 11",,,Tumour,11,False,T,13,1,,,,
+GSE28735,GSM711925,"human pancreatic nontumor tissue, patient sample 11","non-tumor tissue, patient 11",,,Normal,11,False,N,13,1,,,,
+GSE28735,GSM711926,"human pancreatic tumor tissue, patient sample 12","tumor tissue, patient 12",,,Tumour,12,False,T,16,1,,,,
+GSE28735,GSM711927,"human pancreatic nontumor tissue, patient sample 12","non-tumor tissue, patient 12",,,Normal,12,False,N,16,1,,,,
+GSE28735,GSM711928,"human pancreatic tumor tissue, patient sample 13","tumor tissue, patient 13",,,Tumour,13,False,T,41,1,,,,
+GSE28735,GSM711929,"human pancreatic nontumor tissue, patient sample 13","non-tumor tissue, patient 13",,,Normal,13,False,N,41,1,,,,
+GSE28735,GSM711930,"human pancreatic tumor tissue, patient sample 14","tumor tissue, patient 14",,,Tumour,14,False,T,3,1,,,,
+GSE28735,GSM711931,"human pancreatic nontumor tissue, patient sample 14","non-tumor tissue, patient 14",,,Normal,14,False,N,3,1,,,,
+GSE28735,GSM711932,"human pancreatic tumor tissue, patient sample 15","tumor tissue, patient 15",,,Tumour,15,False,T,12,1,,,,
+GSE28735,GSM711933,"human pancreatic nontumor tissue, patient sample 15","non-tumor tissue, patient 15",,,Normal,15,False,N,12,1,,,,
+GSE28735,GSM711934,"human pancreatic tumor tissue, patient sample 16","tumor tissue, patient 16",,,Tumour,16,False,T,25,1,,,,
+GSE28735,GSM711935,"human pancreatic nontumor tissue, patient sample 16","non-tumor tissue, patient 16",,,Normal,16,False,N,25,1,,,,
+GSE28735,GSM711936,"human pancreatic tumor tissue, patient sample 17","tumor tissue, patient 17",,,Tumour,17,False,T,38,0,,,,
+GSE28735,GSM711937,"human pancreatic nontumor tissue, patient sample 17","non-tumor tissue, patient 17",,,Normal,17,False,N,38,0,,,,
+GSE28735,GSM711938,"human pancreatic tumor tissue, patient sample 18","tumor tissue, patient 18",,,Tumour,18,False,T,1,0,,,,
+GSE28735,GSM711939,"human pancreatic nontumor tissue, patient sample 18","non-tumor tissue, patient 18",,,Normal,18,False,N,1,0,,,,
+GSE28735,GSM711940,"human pancreatic tumor tissue, patient sample 19","tumor tissue, patient 19",,,Tumour,19,False,T,13,1,,,,
+GSE28735,GSM711941,"human pancreatic nontumor tissue, patient sample 19","non-tumor tissue, patient 19",,,Normal,19,False,N,13,1,,,,
+GSE28735,GSM711942,"human pancreatic tumor tissue, patient sample 20","tumor tissue, patient 20",,,Tumour,20,False,T,23,1,,,,
+GSE28735,GSM711943,"human pancreatic nontumor tissue, patient sample 20","non-tumor tissue, patient 20",,,Normal,20,False,N,23,1,,,,
+GSE28735,GSM711944,"human pancreatic tumor tissue, patient sample 21","tumor tissue, patient 21",,,Tumour,21,False,T,11,1,,,,
+GSE28735,GSM711945,"human pancreatic nontumor tissue, patient sample 21","non-tumor tissue, patient 21",,,Normal,21,False,N,11,1,,,,
+GSE28735,GSM711946,"human pancreatic tumor tissue, patient sample 22","tumor tissue, patient 22",,,Tumour,22,False,T,29,1,,,,
+GSE28735,GSM711947,"human pancreatic nontumor tissue, patient sample 22","non-tumor tissue, patient 22",,,Normal,22,False,N,29,1,,,,
+GSE28735,GSM711948,"human pancreatic tumor tissue, patient sample 23","tumor tissue, patient 23",,,Tumour,23,False,T,28,1,,,,
+GSE28735,GSM711949,"human pancreatic nontumor tissue, patient sample 23","non-tumor tissue, patient 23",,,Normal,23,False,N,28,1,,,,
+GSE28735,GSM711950,"human pancreatic tumor tissue, patient sample 24","tumor tissue, patient 24",,,Tumour,24,False,T,28,0,,,,
+GSE28735,GSM711951,"human pancreatic nontumor tissue, patient sample 24","non-tumor tissue, patient 24",,,Normal,24,False,N,28,0,,,,
+GSE28735,GSM711952,"human pancreatic tumor tissue, patient sample 25","tumor tissue, patient 25",,,Tumour,25,False,T,14,1,,,,
+GSE28735,GSM711953,"human pancreatic nontumor tissue, patient sample 25","non-tumor tissue, patient 25",,,Normal,25,False,N,14,1,,,,
+GSE28735,GSM711954,"human pancreatic tumor tissue, patient sample 26","tumor tissue, patient 26",,,Tumour,26,False,T,7,1,,,,
+GSE28735,GSM711955,"human pancreatic nontumor tissue, patient sample 26","non-tumor tissue, patient 26",,,Normal,26,False,N,7,1,,,,
+GSE28735,GSM711956,"human pancreatic tumor tissue, patient sample 27","tumor tissue, patient 27",,,Tumour,27,False,T,28,0,,,,
+GSE28735,GSM711957,"human pancreatic nontumor tissue, patient sample 27","non-tumor tissue, patient 27",,,Normal,27,False,N,28,0,,,,
+GSE28735,GSM711958,"human pancreatic tumor tissue, patient sample 28","tumor tissue, patient 28",,,Tumour,28,False,T,24,0,,,,
+GSE28735,GSM711959,"human pancreatic nontumor tissue, patient sample 28","non-tumor tissue, patient 28",,,Normal,28,False,N,24,0,,,,
+GSE28735,GSM711960,"human pancreatic tumor tissue, patient sample 29","tumor tissue, patient 29",,,Tumour,29,False,T,24,0,,,,
+GSE28735,GSM711961,"human pancreatic nontumor tissue, patient sample 29","non-tumor tissue, patient 29",,,Normal,29,False,N,24,0,,,,
+GSE28735,GSM711962,"human pancreatic tumor tissue, patient sample 30","tumor tissue, patient 30",,,Tumour,30,False,T,8,1,,,,
+GSE28735,GSM711963,"human pancreatic nontumor tissue, patient sample 30","non-tumor tissue, patient 30",,,Normal,30,False,N,8,1,,,,
+GSE28735,GSM711964,"human pancreatic tumor tissue, patient sample 31","tumor tissue, patient 31",,,Tumour,31,False,T,22,0,,,,
+GSE28735,GSM711965,"human pancreatic nontumor tissue, patient sample 31","non-tumor tissue, patient 31",,,Normal,31,False,N,22,0,,,,
+GSE28735,GSM711966,"human pancreatic tumor tissue, patient sample 32","tumor tissue, patient 32",,,Tumour,32,False,T,21,0,,,,
+GSE28735,GSM711967,"human pancreatic nontumor tissue, patient sample 32","non-tumor tissue, patient 32",,,Normal,32,False,N,21,0,,,,
+GSE28735,GSM711968,"human pancreatic tumor tissue, patient sample 33","tumor tissue, patient 33",,,Tumour,33,False,T,21,0,,,,
+GSE28735,GSM711969,"human pancreatic nontumor tissue, patient sample 33","non-tumor tissue, patient 33",,,Normal,33,False,N,21,0,,,,
+GSE28735,GSM711970,"human pancreatic tumor tissue, patient sample 34","tumor tissue, patient 34",,,Tumour,34,False,T,9,1,,,,
+GSE28735,GSM711971,"human pancreatic nontumor tissue, patient sample 34","non-tumor tissue, patient 34",,,Normal,34,False,N,9,1,,,,
+GSE28735,GSM711972,"human pancreatic tumor tissue, patient sample 35","tumor tissue, patient 35",,,Tumour,35,False,T,17,0,,,,
+GSE28735,GSM711973,"human pancreatic nontumor tissue, patient sample 35","non-tumor tissue, patient 35",,,Normal,35,False,N,17,0,,,,
+GSE28735,GSM711974,"human pancreatic tumor tissue, patient sample 36","tumor tissue, patient 36",,,Tumour,36,False,T,6,1,,,,
+GSE28735,GSM711975,"human pancreatic nontumor tissue, patient sample 36","non-tumor tissue, patient 36",,,Normal,36,False,N,6,1,,,,
+GSE28735,GSM711976,"human pancreatic tumor tissue, patient sample 37","tumor tissue, patient 37",,,Tumour,37,False,T,16,0,,,,
+GSE28735,GSM711977,"human pancreatic nontumor tissue, patient sample 37","non-tumor tissue, patient 37",,,Normal,37,False,N,16,0,,,,
+GSE28735,GSM711978,"human pancreatic tumor tissue, patient sample 38","tumor tissue, patient 38",,,Tumour,38,False,T,5,1,,,,
+GSE28735,GSM711979,"human pancreatic nontumor tissue, patient sample 38","non-tumor tissue, patient 38",,,Normal,38,False,N,5,1,,,,
+GSE28735,GSM711980,"human pancreatic tumor tissue, patient sample 42","tumor tissue, patient 42",,,Tumour,42,False,T,11,0,,,,
+GSE28735,GSM711981,"human pancreatic nontumor tissue, patient sample 42","non-tumor tissue, patient 42",,,Normal,42,False,N,11,0,,,,
+GSE28735,GSM711982,"human pancreatic tumor tissue, patient sample 43","tumor tissue, patient 43",,,Tumour,43,False,T,4,1,,,,
+GSE28735,GSM711983,"human pancreatic nontumor tissue, patient sample 43","non-tumor tissue, patient 43",,,Normal,43,False,N,4,1,,,,
+GSE28735,GSM711984,"human pancreatic tumor tissue, patient sample 44","tumor tissue, patient 44",,,Tumour,44,False,T,10,1,,,,
+GSE28735,GSM711985,"human pancreatic nontumor tissue, patient sample 44","non-tumor tissue, patient 44",,,Normal,44,False,N,10,1,,,,
+GSE28735,GSM711986,"human pancreatic tumor tissue, patient sample 45","tumor tissue, patient 45",,,Tumour,45,False,T,10,0,,,,
+GSE28735,GSM711987,"human pancreatic nontumor tissue, patient sample 45","non-tumor tissue, patient 45",,,Normal,45,False,N,10,0,,,,
+GSE28735,GSM711988,"human pancreatic tumor tissue, patient sample 39","tumor tissue, patient 39",,,Tumour,39,False,T,15,1,,,,
+GSE28735,GSM711989,"human pancreatic nontumor tissue, patient sample 39","non-tumor tissue, patient 39",,,Normal,39,False,N,15,1,,,,
+GSE28735,GSM711990,"human pancreatic tumor tissue, patient sample 40","tumor tissue, patient 40",,,Tumour,40,False,T,5,1,,,,
+GSE28735,GSM711991,"human pancreatic nontumor tissue, patient sample 40","non-tumor tissue, patient 40",,,Normal,40,False,N,5,1,,,,
+GSE28735,GSM711992,"human pancreatic tumor tissue, patient sample 41","tumor tissue, patient 41",,,Tumour,41,False,T,13,1,,,,
+GSE28735,GSM711993,"human pancreatic nontumor tissue, patient sample 41","non-tumor tissue, patient 41",,,Normal,41,False,N,13,1,,,,
+GSE62452,GSM1527105,E005-Tc8,human pancreatic tumor tissue 1,,,Tumour,E005,False,Pancreatic tumor,,,G2,IIA,51.1,1
+GSE62452,GSM1527106,E005-Tn,human pancreatic Non-tumor tissue sample 2,,,Normal,E005,False,adjacent pancreatic non-tumor,,,G2,IIA,,
+GSE62452,GSM1527107,E012-Tp2,human pancreatic tumor tissue 3,,,Tumour,E012,False,Pancreatic tumor,,,G3,III,6.9,1
+GSE62452,GSM1527108,E12-Tn,human pancreatic Non-tumor tissue sample 4,,,Normal,E12,False,adjacent pancreatic non-tumor,,,G3,III,,
+GSE62452,GSM1527109,E021-Tc8,human pancreatic tumor tissue 5,,,Tumour,E021,False,Pancreatic tumor,,,G3,IIA,2.7,1
+GSE62452,GSM1527110,E21-Tn,human pancreatic Non-tumor tissue sample 6,,,Normal,E21,False,adjacent pancreatic non-tumor,,,G3,IIA,,
+GSE62452,GSM1527111,E028-Tp1,human pancreatic tumor tissue 7,,,Tumour,E028,False,Pancreatic tumor,,,G2,III,41.6,1
+GSE62452,GSM1527112,E028-Tn,human pancreatic Non-tumor tissue sample 8,,,Normal,E028,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527113,E033-Tc7,human pancreatic tumor tissue 9,,,Tumour,E033,False,Pancreatic tumor,,,G2,III,?,?
+GSE62452,GSM1527114,E033-Tn,human pancreatic Non-tumor tissue sample 10,,,Normal,E033,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527115,E041-Tc7,human pancreatic tumor tissue 11,,,Tumour,E041,False,Pancreatic tumor,,,G2,III,35.9,1
+GSE62452,GSM1527116,E041-Tn,human pancreatic Non-tumor tissue sample 12,,,Normal,E041,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527117,E042-Tc10,human pancreatic tumor tissue 13,,,Tumour,E042,False,Pancreatic tumor,,,G2,III,2.4,1
+GSE62452,GSM1527118,E042-Tn,human pancreatic Non-tumor tissue sample 14,,,Normal,E042,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527119,E045-Tc7,human pancreatic tumor tissue 15,,,Tumour,E045,False,Pancreatic tumor,,,G2,III,?,?
+GSE62452,GSM1527120,E045-Tn,human pancreatic Non-tumor tissue sample 16,,,Normal,E045,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527121,E048-Tc7,human pancreatic tumor tissue 17,,,Tumour,E048,False,Pancreatic tumor,,,G2,III,?,?
+GSE62452,GSM1527122,E048-Tn,human pancreatic Non-tumor tissue sample 18,,,Normal,E048,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527123,E052-Tc7,human pancreatic tumor tissue 19,,,Tumour,E052,False,Pancreatic tumor,,,G3,IVA,19.5,1
+GSE62452,GSM1527124,E052-Tn,human pancreatic Non-tumor tissue sample 20,,,Normal,E052,False,adjacent pancreatic non-tumor,,,G3,IVA,,
+GSE62452,GSM1527125,E058-Tc7,human pancreatic tumor tissue 21,,,Tumour,E058,False,Pancreatic tumor,,,G3,III,12.6,1
+GSE62452,GSM1527126,E058-Tn,human pancreatic Non-tumor tissue sample 22,,,Normal,E058,False,adjacent pancreatic non-tumor,,,G3,III,,
+GSE62452,GSM1527127,E064-Tp3,human pancreatic tumor tissue 23,,,Tumour,E064,False,Pancreatic tumor,,,G2,IVA,16,1
+GSE62452,GSM1527128,E064-Tn,human pancreatic Non-tumor tissue sample 24,,,Normal,E064,False,adjacent pancreatic non-tumor,,,G2,IVA,,
+GSE62452,GSM1527129,E073-Tc7,human pancreatic tumor tissue 25,,,Tumour,E073,False,Pancreatic tumor,,,G2,III,40.9,1
+GSE62452,GSM1527130,E073-Tn,human pancreatic Non-tumor tissue sample 26,,,Normal,E073,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527131,E082-Tp1,human pancreatic tumor tissue 27,,,Tumour,E082,False,Pancreatic tumor,,,G3,IVB,2.8,1
+GSE62452,GSM1527132,E082-Tn,human pancreatic Non-tumor tissue sample 28,,,Normal,E082,False,adjacent pancreatic non-tumor,,,G3,IVB,,
+GSE62452,GSM1527133,E086-Tc8,human pancreatic tumor tissue 29,,,Tumour,E086,False,Pancreatic tumor,,,G3,III,11.6,1
+GSE62452,GSM1527134,E086-Tn,human pancreatic Non-tumor tissue sample 30,,,Normal,E086,False,adjacent pancreatic non-tumor,,,G3,III,,
+GSE62452,GSM1527135,E088-Tc7,human pancreatic tumor tissue 31,,,Tumour,E088,False,Pancreatic tumor,,,G3,III,24.7,1
+GSE62452,GSM1527136,E088-Tn,human pancreatic Non-tumor tissue sample 32,,,Normal,E088,False,adjacent pancreatic non-tumor,,,G3,III,,
+GSE62452,GSM1527137,E094-Tc7,human pancreatic tumor tissue 33,,,Tumour,E094,False,Pancreatic tumor,,,G2,IIA,40,0
+GSE62452,GSM1527138,E094-Tn,human pancreatic Non-tumor tissue sample 34,,,Normal,E094,False,adjacent pancreatic non-tumor,,,G2,IIA,,
+GSE62452,GSM1527139,E109Tp1,human pancreatic tumor tissue 35,,,Tumour,E109,False,Pancreatic tumor,,,G2,IIB,1.2,1
+GSE62452,GSM1527140,E109-Tn,human pancreatic Non-tumor tissue sample 36,,,Normal,E109,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527141,E119-Tc7,human pancreatic tumor tissue 37,,,Tumour,E119,False,Pancreatic tumor,,,G2,IIA,13.2,1
+GSE62452,GSM1527142,E119-Tn,human pancreatic Non-tumor tissue sample 38,,,Normal,E119,False,adjacent pancreatic non-tumor,,,G2,IIA,,
+GSE62452,GSM1527143,E120-Tc7,human pancreatic tumor tissue 39,,,Tumour,E120,False,Pancreatic tumor,,,G3,III,23.2,1
+GSE62452,GSM1527144,E120-Tn,human pancreatic Non-tumor tissue sample 41,,,Normal,E120,False,adjacent pancreatic non-tumor,,,G3,III,,
+GSE62452,GSM1527145,E123-Tc7,human pancreatic tumor tissue 42,,,Tumour,E123,False,Pancreatic tumor,,,G2,IIB,10.8,1
+GSE62452,GSM1527146,E123-Tn,human pancreatic Non-tumor tissue sample 43,,,Normal,E123,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527147,E130-Tp1,human pancreatic tumor tissue 44,,,Tumour,E130,False,Pancreatic tumor,,,G2,IIB,29,1
+GSE62452,GSM1527148,E130-Tn,human pancreatic Non-tumor tissue sample 45,,,Normal,E130,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527149,E133-Tp4,human pancreatic tumor tissue 46,,,Tumour,E133,False,Pancreatic tumor,,,G2,IIB,27.7,1
+GSE62452,GSM1527150,E133-Tn,human pancreatic Non-tumor tissue sample 47,,,Normal,E133,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527151,E136-Tp1,human pancreatic tumor tissue 48,,,Tumour,E136,False,Pancreatic tumor,,,G2,IIA,27.6,0
+GSE62452,GSM1527152,E136-Tn,human pancreatic Non-tumor tissue sample 49,,,Normal,E136,False,adjacent pancreatic non-tumor,,,G2,IIA,,
+GSE62452,GSM1527153,E138-Tp1,human pancreatic tumor tissue 50,,,Tumour,E138,False,Pancreatic tumor,,,G3,IIB,,
+GSE62452,GSM1527154,E138-Tn,human pancreatic Non-tumor tissue sample 50,,,Normal,E138,False,adjacent pancreatic non-tumor,,,G3,IIB,13.8,1
+GSE62452,GSM1527155,E139-Tp1,human pancreatic tumor tissue 51,,,Tumour,E139,False,Pancreatic tumor,,,G3,IIB,6.8,1
+GSE62452,GSM1527156,E139-Tn,human pancreatic Non-tumor tissue sample 52,,,Normal,E139,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527157,E152-Tc5,human pancreatic tumor tissue 53,,,Tumour,E152,False,Pancreatic tumor,,,G2,IIB,28.2,0
+GSE62452,GSM1527158,E152-Tn,human pancreatic Non-tumor tissue sample 54,,,Normal,E152,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527159,E162-Tp1,human pancreatic tumor tissue 55,,,Tumour,E162,False,Pancreatic tumor,,,G3,IIB,9.8,1
+GSE62452,GSM1527160,E162-Tn,human pancreatic Non-tumor tissue sample 56,,,Normal,E162,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527161,E165-Tp1,human pancreatic tumor tissue 57,,,Tumour,E165,False,Pancreatic tumor,,,G3,IIB,23.6,0
+GSE62452,GSM1527162,E165-Tn,human pancreatic Non-tumor tissue sample 58,,,Normal,E165,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527163,E178-Tp1,human pancreatic tumor tissue 59,,,Tumour,E178,False,Pancreatic tumor,,,G3,IIB,7.7,1
+GSE62452,GSM1527164,E178-Tn,human pancreatic Non-tumor tissue sample 60,,,Normal,E178,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527165,E179-Tp1,human pancreatic tumor tissue 61,,,Tumour,E179,False,Pancreatic tumor,,,G2,IIB,21.8,0
+GSE62452,GSM1527166,E179-Tn,human pancreatic Non-tumor tissue sample 62,,,Normal,E179,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527167,E181-Tp1,human pancreatic tumor tissue 63,,,Tumour,E181,False,Pancreatic tumor,,,G4,IIA,21.2,0
+GSE62452,GSM1527168,E181-Tn,human pancreatic Non-tumor tissue sample 64,,,Normal,E181,False,adjacent pancreatic non-tumor,,,G4,IIA,,
+GSE62452,GSM1527169,E182-Tp2,human pancreatic tumor tissue 65,,,Tumour,E182,False,Pancreatic tumor,,,G3,IIB,21.1,0
+GSE62452,GSM1527170,E182-Tn,human pancreatic Non-tumor tissue sample 66,,,Normal,E182,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527171,E186-Tp2,human pancreatic tumor tissue 67,,,Tumour,E186,False,Pancreatic tumor,,,G2,IIB,8.9,1
+GSE62452,GSM1527172,E186-Tn,human pancreatic Non-tumor tissue sample 68,,,Normal,E186,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527173,E203-Tp1,human pancreatic tumor tissue 69,,,Tumour,E203,False,Pancreatic tumor,,,G3,IV,17.3,0
+GSE62452,GSM1527174,E203-Tn,human pancreatic Non-tumor tissue sample 70,,,Normal,E203,False,adjacent pancreatic non-tumor,,,G3,IV,,
+GSE62452,GSM1527175,E208-Tp1,human pancreatic tumor tissue 71,,,Tumour,E208,False,Pancreatic tumor,,,G3,IIB,6.4,1
+GSE62452,GSM1527176,E208-Tn,human pancreatic Non-tumor tissue sample 72,,,Normal,E208,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527177,E209-Tp2,human pancreatic tumor tissue 73,,,Tumour,E209,False,Pancreatic tumor,,,G3,IIB,16.4,0
+GSE62452,GSM1527178,E209-Tn,human pancreatic Non-tumor tissue sample 74,,,Normal,E209,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527179,E218-Tp1,human pancreatic tumor tissue 75,,,Tumour,E218,False,Pancreatic tumor,,,G2,IIB,4.6,1
+GSE62452,GSM1527180,E218-Tn,human pancreatic Non-tumor tissue sample 76,,,Normal,E218,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527181,E245-Tp1,human pancreatic tumor tissue 77,,,Tumour,E245,False,Pancreatic tumor,,,G2,IIB,10.6,0
+GSE62452,GSM1527182,E245-Tn,human pancreatic Non-tumor tissue sample 78,,,Normal,E245,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527183,E246-Tp1,human pancreatic tumor tissue 79,,,Tumour,E246,False,Pancreatic tumor,,,G3,IB,4.2,1
+GSE62452,GSM1527184,E246-Tn,human pancreatic Non-tumor tissue sample 80,,,Normal,E246,False,adjacent pancreatic non-tumor,,,G3,IB,,
+GSE62452,GSM1527185,E249-Tp1,human pancreatic tumor tissue 81,,,Tumour,E249,False,Pancreatic tumor,,,G2,IIB,10.3,1
+GSE62452,GSM1527186,E249-Tn,human pancreatic Non-tumor tissue sample 82,,,Normal,E249,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527187,E250-Tp1,human pancreatic tumor tissue 83,,,Tumour,E250,False,Pancreatic tumor,,,G2,IV,9.7,0
+GSE62452,GSM1527188,E250-Tn,human pancreatic Non-tumor tissue sample 84,,,Normal,E250,False,adjacent pancreatic non-tumor,,,G2,IV,,
+GSE62452,GSM1527189,E220-Tp1,human pancreatic tumor tissue 85,,,Tumour,E220,False,Pancreatic tumor,,,G3,IIB,14.9,1
+GSE62452,GSM1527190,E220-Tn,human pancreatic Non-tumor tissue sample 86,,,Normal,E220,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527191,E229-Tp1,human pancreatic tumor tissue 87,,,Tumour,E229,False,Pancreatic tumor,,,G3,IIB,4.5,1
+GSE62452,GSM1527192,E229-Tn,human pancreatic Non-tumor tissue sample 88,,,Normal,E229,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527193,E234-Tp1,human pancreatic tumor tissue 89,,,Tumour,E234,False,Pancreatic tumor,,,G3,IIB,12.9,1
+GSE62452,GSM1527194,E234-Tn,human pancreatic Non-tumor tissue sample 90,,,Normal,E234,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527195,6376,human pancreatic Non-tumor tissue sample 91,,,Normal,,False,adjacent pancreatic non-tumor,,,G2,IV,,
+GSE62452,GSM1527196,9233T,human pancreatic tumor tissue 92,,,Tumour,,False,Pancreatic tumor,,,G2,IB,9.5,1
+GSE62452,GSM1527197,9727,human pancreatic Non-tumor tissue sample 93,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527198,9728T,human pancreatic tumor tissue 94,,,Tumour,,False,Pancreatic tumor,,,G3,IIB,6.3,1
+GSE62452,GSM1527199,14694T,human pancreatic tumor tissue 95,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,0.9,1
+GSE62452,GSM1527200,17529T,human pancreatic tumor tissue 96,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,5.9,1
+GSE62452,GSM1527201,17530,human pancreatic Non-tumor tissue sample 97,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527202,17531T,human pancreatic tumor tissue 98,,,Tumour,,False,Pancreatic tumor,,,G3,IIB,9.8,1
+GSE62452,GSM1527203,17797,human pancreatic Non-tumor tissue sample 99,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527204,17798T,human pancreatic tumor tissue 100,,,Tumour,,False,Pancreatic tumor,,,G3,IIB,5.3,1
+GSE62452,GSM1527205,18590T,human pancreatic tumor tissue 101,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,21.5,1
+GSE62452,GSM1527206,19926,human pancreatic Non-tumor tissue sample 102,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IB,,
+GSE62452,GSM1527207,19927T,human pancreatic tumor tissue 103,,,Tumour,,False,Pancreatic tumor,,,G3,IB,14.2,1
+GSE62452,GSM1527208,22505,human pancreatic Non-tumor tissue sample 104,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIA,,
+GSE62452,GSM1527209,22506T,human pancreatic tumor tissue 105,,,Tumour,,False,Pancreatic tumor,,,G3,IIA,32,1
+GSE62452,GSM1527210,26172T,human pancreatic tumor tissue 106,,,Tumour,,False,Pancreatic tumor,,,G2,III,22.9,1
+GSE62452,GSM1527211,26171,human pancreatic Non-tumor tissue sample 107,,,Normal,,False,adjacent pancreatic non-tumor,,,G2,III,,
+GSE62452,GSM1527212,26576T,human pancreatic tumor tissue 108,,,Tumour,,False,Pancreatic tumor,,,G3,IIA,45.9,1
+GSE62452,GSM1527213,27775T,human pancreatic tumor tissue 109,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,21.9,1
+GSE62452,GSM1527214,27880,human pancreatic Non-tumor tissue sample 110,,,Normal,,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527215,27881T,human pancreatic tumor tissue 111,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,42,0
+GSE62452,GSM1527216,29102T,human pancreatic tumor tissue 112,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,38.3,0
+GSE62452,GSM1527217,29163,human pancreatic Non-tumor tissue sample 113,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIA,,
+GSE62452,GSM1527218,29164T,human pancreatic tumor tissue 114,,,Tumour,,False,Pancreatic tumor,,,G3,IIA,13.7,1
+GSE62452,GSM1527219,29261T,human pancreatic tumor tissue 115,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,10.9,1
+GSE62452,GSM1527220,29818T,human pancreatic tumor tissue 116,,,Tumour,,False,Pancreatic tumor,,,G3,IIB,21.3,1
+GSE62452,GSM1527221,29819,human pancreatic Non-tumor tissue sample 117,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527222,29826,human pancreatic Non-tumor tissue sample 118,,,Normal,,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527223,29827T,human pancreatic tumor tissue 119,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,9.3,1
+GSE62452,GSM1527224,31262,human pancreatic Non-tumor tissue sample 120,,,Normal,,False,adjacent pancreatic non-tumor,,,G3,IIB,,
+GSE62452,GSM1527225,31263T,human pancreatic tumor tissue 121,,,Tumour,,False,Pancreatic tumor,,,G3,IIB,19.9,1
+GSE62452,GSM1527226,31392,human pancreatic Non-tumor tissue sample 122,,,Normal,,False,adjacent pancreatic non-tumor,,,G2,IIB,,
+GSE62452,GSM1527227,31393T,human pancreatic tumor tissue 123,,,Tumour,,False,Pancreatic tumor,,,G2,IIB,70.8,0
+GSE62452,GSM1527228,32018T,human pancreatic tumor tissue 124,,,Tumour,,False,Pancreatic tumor,,,Gx,>IIB,68,0
+GSE62452,GSM1527229,32019,human pancreatic Non-tumor tissue sample 125,,,Normal,,False,adjacent pancreatic non-tumor,,,Gx,>IIB,,
+GSE62452,GSM1527230,32175T,human pancreatic tumor tissue 126,,,Tumour,,False,Pancreatic tumor,,,G1,IIA,67.7,0
+GSE62452,GSM1527231,34244,human pancreatic Non-tumor tissue sample 127,,,Normal,,False,adjacent pancreatic non-tumor,,,G1,IB,,
+GSE62452,GSM1527232,34245T,human pancreatic tumor tissue 128,,,Tumour,,False,Pancreatic tumor,,,G1,IB,49.7,1
+GSE62452,GSM1527233,34434,human pancreatic Non-tumor tissue sample 129,,,Normal,,False,adjacent pancreatic non-tumor,,,G2,IV,,
+GSE62452,GSM1527234,34435T,human pancreatic tumor tissue 130,,,Tumour,,False,Pancreatic tumor,,,G2,IV,3.2,1

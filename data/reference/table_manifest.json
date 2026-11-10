@@ -1,6 +1,6 @@
 {
   "source_document": "Tables.docx",
-  "source_sha256": "6af7871b2e1b520ac2ec74dce7a931758035766890e9991b16bc0422a5074005",
+  "source_sha256": "977ddb956970c2d41c9d34dad671b833d50b41b50226e2d37bf340d0e6ad458d",
   "value_policy": "Cell text exported verbatim; no imputation or numeric reformatting.",
   "table_count": 36,
   "tables": [
@@ -190,12 +190,12 @@
       "source_title": "Supplementary Table S10. Cross-cohort direction consistency (summary metrics). The per-pair discordance detail is Supplementary Table S19; the corresponding deposit files are 08_qc/qc_cross_cohort_consistency.csv (summary, 165 rows) and 08_qc/qc_cross_cohort_disagreement_detail.csv (detail).",
       "file": "s10_direction_consistency_summary.csv",
       "scope": "summary only; 165-row detail not supplied",
-      "data_rows": 3,
+      "data_rows": 5,
       "columns": [
         "Statistic",
         "Value"
       ],
-      "sha256": "f326df43fbb64bb7d63d790c8a5f19bac1d9ba3dc13bf80b0ed87196cc8c87a7"
+      "sha256": "b2e960e9cd2f13cc18e93869e1017fab0342a570e0a179190b88ebd02b5df4d4"
     },
     {
       "source_block": 40,
@@ -429,7 +429,7 @@
         "95% CI",
         "BH adj. p"
       ],
-      "sha256": "40e06b7438e1c82cc2e8813f273ae6e5f333102b82bb0b849493ca9041b0cce7"
+      "sha256": "78d06da42af413824f33b11be1989cae6689a31874caa82a11949ab3a38a58bd"
     },
     {
       "source_block": 89,
@@ -548,7 +548,7 @@
         "Measure",
         "Note"
       ],
-      "sha256": "f80321d6a125da67931ede897d0ff7290a7234635a693bfa89d77d31795bba02"
+      "sha256": "a27b835b0da73e616f7864d32b06b3c48e2bd33f5838e5863070d8a040b48bb8"
     }
   ]
 }

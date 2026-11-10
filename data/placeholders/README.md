@@ -2,7 +2,7 @@
 
 The data deposit described in the manuscript is shipped in this repository as
 `deposit/` (eleven folders `01_cohort_registry/` … `11_code/`, deposit version
-v18.0, released as tag `v1.0`). Everything the code needs is therefore present in
+v19.0, released as tag `v1.1`). Everything the code needs is therefore present in
 the repository; this file maps each input to its path so that a reader can go
 straight from a script to the file it consumes.
 
@@ -13,7 +13,7 @@ straight from a script to the file it consumes.
 | Sample-level bulk GSVA z-scores | `04_modules/sample_module_scores_gsva_z.csv` | effect-size layer |
 | Sample annotation (case/control, pairing, exclusions) | `02_sample_annotation/sample_annotation_geo_cohorts.csv`, `…_escc_squamous_tcga.csv` | `R/03_effects_escalc.R` |
 | Per-cohort processed expression matrices | regenerated from `03_expression/source_download_manifest.csv` + `download_and_rebuild_one_series.R` | `R/01`, `R/02`, `R/05` |
-| Full-precision per-cohort effects (`r_emp`, `npair`, member counts) | `07_estimates/per_cohort_effects.csv` (442 rows) | reproducibility of the estimates layer |
+| Full-precision per-cohort effects (`r_emp`, `npair`, member counts) | `07_estimates/per_cohort_effects.csv` (442 delivered rows; 425 in the estimates layer) | reproducibility of the estimates layer |
 | Complete S26 sensitivity table (165 rows; the printed table in `data/reference/` is the first 80) | `07_estimates/meta_classic_denominator_sensitivity.csv` | sensitivity comparison |
 | Complete S29 single-cell donor effects (208 rows; printed: first 60) | `06_single_cell/single_cell_donor_level_effects_with_ci.csv` | single-cell layer |
 | Patient-level TCGA scores, OS annotation, driver calls | `07_estimates/tcga_patient_module_scores.csv`, `07_estimates/driver_interactions.csv`, `07_estimates/tcga_escc_squamous_survival_cox.csv` | `R/06_tcga_survival.R` |

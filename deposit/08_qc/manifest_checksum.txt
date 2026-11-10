@@ -1,3 +1,2 @@
-# digest of the manifest files themselves (they are not covered by the list)
-58b304df109234911b8f296897d40e628bfec07e36c3ea1127cbdfc24dd748fe  file_inventory_and_checksums.csv
-a16d6e978291982fc1a7060da6c66376467a818808bdca07b8fc0d51f33697c3  checksums_sha256.txt
+b0e5df4399db5447f1c1d52c28e83e53cb35b87b7ddac5bf49dd77efde205a23  file_inventory_and_checksums.csv
+55e6e81da63ba4c0d3d95807a6e3bee5d415d3b2280d99d98e52bb6a3847113c  checksums_sha256.txt

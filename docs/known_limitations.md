@@ -9,8 +9,8 @@ resource and on this code — do not silently "fix" them.
 2. 66 of 165 pooled states rest on exactly two cohorts ("two-cohort
    summaries", not meta-analytic estimates); prediction intervals for k = 3
    states rest on one degree of freedom.
-3. 98 of 434 estimated pairs are scored from exactly three members;
-   IGF_INSR_AXIS is reduced to 3 of 4 members in 18 of 26 cohorts; member
+3. 94 of 418 estimated pairs are scored from exactly three members;
+   IGF_INSR_AXIS is reduced to 3 of 4 members in 17 of 25 cohorts; member
    counts must accompany any comparison.
 4. Compartment scores share genes with module scores (12 of 17 modules fully
    inside the xCell signature universe); in an auxiliary regression the four

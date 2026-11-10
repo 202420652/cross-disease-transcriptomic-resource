@@ -1,6 +1,6 @@
 {
-  "title": "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.0)",
-  "description": "<p>Analysis code and the eleven-folder data deposit of a cross-disease case-control transcriptome resource: 26 public case-control cohorts across 10 disease contexts, 17 frozen signalling modules (99 genes) and 442 cohort-module pairs, scored in three separate layers (bulk GSVA z-scores, TCGA member-mean z-scores, single-cell member means) with coverage-aware standardised effect sizes (SMDH, SMCRPH), REML pooling with Hartung-Knapp inference, and a validation ledger that separates PASS, FAIL, PARTIAL and NOT TESTED.</p><p>Contents: <code>deposit/</code> (data, quality-control records, reuse examples, environment and the archived pipeline), the maintained Python and R implementations under <code>src/</code>, <code>R/</code>, <code>scripts/</code> and <code>tests/</code>, printed reference tables under <code>data/reference/</code>, and the integrity manifests <code>deposit/08_qc/file_inventory_and_checksums.csv</code> and <code>deposit/08_qc/checksums_sha256.txt</code>.</p>",
+  "title": "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.1)",
+  "description": "<p>Analysis code and the eleven-folder data deposit of a cross-disease case-control transcriptome resource: 26 public case-control accessions across 10 disease contexts (25 of them in the estimates layer, after patient-level de-duplication of one pancreatic accession), 17 frozen signalling modules (99 genes) and 425 cohort-module pairs, scored in three separate layers (bulk GSVA z-scores, TCGA member-mean z-scores, single-cell member means) with coverage-aware standardised effect sizes (SMDH, SMCRPH), REML pooling with Hartung-Knapp inference, and a validation ledger that separates PASS, FAIL, PARTIAL and NOT TESTED.</p><p>Contents: <code>deposit/</code> (data, quality-control records, reuse examples, environment and the archived pipeline), the maintained Python and R implementations under <code>src/</code>, <code>R/</code>, <code>scripts/</code> and <code>tests/</code>, printed reference tables under <code>data/reference/</code>, and the integrity manifests <code>deposit/08_qc/file_inventory_and_checksums.csv</code> and <code>deposit/08_qc/checksums_sha256.txt</code>.</p><p>Release v1.1 (deposit v19.0, 2026-11-10) adds the patient-level de-duplication of the pancreatic accessions: GSE62452 and GSE28735 are the same 42 patients (profile r median 0.996), GSE62452 is held out of every pooled estimate, and all tables derived from the estimates layer are re-estimated (418 estimable pairs; 82 states with two cohorts and 83 with three; 57 of 83 fully concordant).</p>",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -57,9 +57,10 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/202420652/cross-disease-transcriptomic-resource/tree/v1.0",
+      "identifier": "https://github.com/202420652/cross-disease-transcriptomic-resource/tree/v1.1",
       "scheme": "url"
     }
   ],
-  "notes": "Author list, order, affiliations and ORCID identifiers are transcribed from the manuscript (notified equal contribution: Shimeng Qin and Fengyan Qin; corresponding authors: Hongqun Zuo, Hao Lai and Yuan Lin). ORCID identifiers are given only where the manuscript provides them. The CC-BY-4.0 licence recorded above applies to the author-generated data in deposit/; the code is MIT-licensed (see LICENSE at the repository root), and upstream expression matrices remain under the terms of GEO, TCGA/GDC and CELLxGENE."
+  "notes": "Author list, order, affiliations and ORCID identifiers are transcribed from the manuscript (notified equal contribution: Shimeng Qin and Fengyan Qin; corresponding authors: Hongqun Zuo, Hao Lai and Yuan Lin). ORCID identifiers are given only where the manuscript provides them. The CC-BY-4.0 licence recorded above applies to the author-generated data in deposit/; the code is MIT-licensed (see LICENSE at the repository root), and upstream expression matrices remain under the terms of GEO, TCGA/GDC and CELLxGENE.",
+  "version": "1.1"
 }

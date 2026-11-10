@@ -3,6 +3,36 @@
 This file is the release-notes record for the repository. It is the document
 referred to as "release notes" in the manuscript's Data Availability statement.
 
+## v1.1 — pancreatic patient-level de-duplication (deposit v19.0, 2026-11-10)
+
+**Why.** A reviewer questioned whether the pancreatic accessions are independent
+samples. They are not: GSE62452 and GSE28735 are the same 42 patients.
+
+**What this release contains**
+
+| Component | Path | Change |
+|---|---|---|
+| Data deposit | `deposit/` | deposit version v19.0; 149 shipped files (146 in the checksum list) |
+| Cohort registry | `deposit/01_cohort_registry/cohort_registry.csv` | new columns `in_estimates_layer`, `duplicate_of`, `exclusion_reason`; GSE62452 flagged |
+| Per-cohort effects | `deposit/07_estimates/per_cohort_effects.csv` | same 442 delivered rows, new row flag `in_estimates_layer` |
+| Joint primary table | `deposit/07_estimates/meta_primary_reml_knha.csv` | re-estimated on the 25-cohort layer (170 states; 82 with k = 2, 83 with k = 3) |
+| Quality control | `deposit/08_qc/qc_cross_cohort_consistency.csv`, `qc_coverage_threshold_sensitivity.csv` | regenerated; 57/83 fully concordant at k = 3; BH-significant 12, 12, 9, 6 |
+| New analysis outputs | `deposit/07_estimates/`, `deposit/08_qc/` | de-duplication mapping, PAAD before/after, independent reproduction of all 434 estimable pairs, paired-df sensitivity, Monte Carlo aligned to the RMS estimand |
+| Printed reference tables | `data/reference/` | s10, s25 and s32 updated to the estimates layer |
+
+**Counts** (delivered -> estimates layer): accessions 26 -> 25; samples 2,711 ->
+2,627; patients with identifiers 1,086 -> 1,044; cohort-module pairs 442 -> 425, of
+which 418 estimable (183 SMDH + 235 SMCRPH); PAAD 3 accessions / 123 patients ->
+2 accessions / 81 patients. The pooled state count is unchanged at 165, but 82 of
+them now rest on two cohorts (was 66) and 83 on three (was 99).
+
+**Archival record (Zenodo).** v1.1 is archived under the same concept DOI as
+v1.0, which is `10.5281/zenodo.24083603`; the version DOI of this release is the
+one printed on that record. The superseded v1.0 snapshot is
+`10.5281/zenodo.24083604`. Files inside `deposit/` are byte-for-byte as archived,
+so the DOI is recorded in this file, `README.md`, `CITATION.cff` and
+`LICENSE-DATA`, not inside `deposit/`.
+
 ## v1.0 — release accompanying the Data Descriptor submission (2026-11-09)
 
 **What this release contains**

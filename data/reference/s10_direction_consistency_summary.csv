@@ -1,4 +1,6 @@
 Statistic,Value
 Context-module pairs with at least two cohorts,165
-Pairs whose effect direction is the same in every contributing cohort,112 (68%)
+Context-module pairs with exactly three cohorts (primary metric),83
+Pairs whose effect direction is the same in every contributing cohort (k >= 2),112 (68%; Wilson 60.4% to 74.5%)
+Pairs whose effect direction is the same in all three cohorts (primary metric),57 (69%; Wilson 58.1% to 77.6%)
 "Detail (one row per pair with cohort counts, sign counts and median effect)",deposited as 08_qc/qc_cross_cohort_consistency.csv (165 rows); not printed here because oversized tables are deposited rather than printed

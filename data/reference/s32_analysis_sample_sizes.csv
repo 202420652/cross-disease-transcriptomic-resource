@@ -21,8 +21,8 @@ GSE33814,NAFLD,unpaired,31,13,—,31,13,SMDH,
 GSE66676,NAFLD,unpaired,31,34,—,31,34,SMDH,
 GSE15471,PAAD,paired,36,36,36,36,36,SMCRPH,
 GSE28735,PAAD,paired,45,45,45,45,45,SMCRPH,
-GSE62452,PAAD,paired,42,42,42,42,42,SMCRPH,
+GSE62452,PAAD,paired,42,42,42,42,42,SMCRPH,held out of the estimates layer: patient-level duplicate of GSE28735 (42 of 42 patients matched)
 GSE13911,STAD,paired,38,31,31,31,31,SMCRPH,7 case samples unused (no complete pair)
 GSE27342,STAD,paired,80,80,80,80,80,SMCRPH,
 GSE63089,STAD,paired,45,45,45,45,45,SMCRPH,
-Total,26 cohorts,15 paired / 11 unpaired,1651,1060,689,1495,1031,SMDH / SMCRPH,156 case samples without a complete pair in three paired cohorts
+Total,25 cohorts,14 paired / 11 unpaired,1609,1018,647,1453,989,SMDH / SMCRPH,156 case samples without a complete pair in three paired cohorts

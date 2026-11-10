@@ -49,7 +49,7 @@ counts) is machine-readable in `data/reference/table_manifest.json`.
 
 | File | Purpose |
 |---|---|
-| `scripts/validate_reference_tables.py` | Structural consistency checks on `data/reference/` (26 cohorts/10 contexts, 17 modules/99 genes, 312 S25 rows, subset markers, manifest coverage) |
+| `scripts/validate_reference_tables.py` | Structural consistency checks on `data/reference/` (26 accessions/10 contexts, 17 modules/99 genes, 312 S25 rows, subset markers, manifest coverage) |
 | `scripts/verify_independent_implementation.py` | Monte Carlo check of the SMDH closed-form variance (mirrors S27, with the standardisation-target caveat documented) |
 | `tools/export_docx_tables.py` | The verbatim cell-level exporter used to build `data/reference/` from Tables.docx |
 | `tools/refresh_deposit_manifests.py` | Rebuilds `08_qc/file_inventory_and_checksums.csv`, `checksums_sha256.txt` and `manifest_checksum.txt` after any change to the deposit |
@@ -91,7 +91,7 @@ largest file 1.9 MB, so no Git LFS is required).
 |---|---|
 | `deposit/00_README.md` | Deposit guide: contents, field dictionary, exclusions, limitations, layer-selection table, encoding and licence rules |
 | `deposit/00_CHANGELOG.md` | Deposit version history (v12 → v18) and its mapping to repository release v1.0 |
-| `deposit/00_VERSION.txt` | Deposit version (v18.0), release tag, frozen module configuration, update policy |
+| `deposit/00_VERSION.txt` | Deposit version (v19.0), release tag, frozen module configuration, update policy |
 | `deposit/01_cohort_registry/` … `deposit/10_environment/` | Data, quality-control records, reuse examples and environment, as summarised in Table 3 |
 | `deposit/11_code/` | Original pipeline, preserved unchanged; `00_ARCHIVE_NOTE.md` explains its historical hard-coded strings |
 | `deposit/08_qc/file_inventory_and_checksums.csv` | One row per shipped file: bytes, data rows, SHA-256 |

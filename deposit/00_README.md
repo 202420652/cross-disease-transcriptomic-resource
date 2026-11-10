@@ -1,11 +1,11 @@
-# Cross-disease growth-factor and tissue-composition transcriptomic resource (v18.0)
+# Cross-disease growth-factor and tissue-composition transcriptomic resource (v19.0)
 
 This directory **is** the data deposit described in the manuscript. It is shipped
 as the `deposit/` folder of the GitHub repository
 <https://github.com/202420652/cross-disease-transcriptomic-resource>, release tag
 `v1.0`; every path quoted in the manuscript is relative to the repository root
 (for example `03_expression/` is `deposit/03_expression/` in the repository).
-The version of this package is recorded in `00_VERSION.txt` (v18.0, released
+The version of this package is recorded in `00_VERSION.txt` (v19.0, released
 2026-11-05), and the mapping between the deposit version and the repository
 release is given in `00_CHANGELOG.md`.
 
@@ -82,7 +82,7 @@ These are different quantities and must not be concatenated into one matrix.
 See `08_qc/exclusion_and_flag_log.csv`: 89 adenocarcinoma samples excluded from the squamous oesophageal layer; 1,277 in utero cells excluded; a tumour-only single-cell dataset (117,266 cells) excluded for having no control arm; 358 malignant-labelled cells in non-tumour colorectal samples flagged but not reassigned; 80 single-cell comparisons reported as not testable because donors overlap between arms without forming five complete pairs.
 
 ## Known limitations
-Module gene coverage is incomplete in part of the cohorts (worst case: RET/ALK/NTRK modules down to 33% of members in one platform). Composition scores are enrichment scores, not cell proportions. Cohort count is not patient count: 27 curated series contain 26 case-control cohorts, of which 17 provide patient identifiers and 9 do not, so 1,086 is the number of patients with identifiers (the patient count of the remaining 9 cohorts is unknown, not one). The resource is not a patient-level multi-omics resource: the same disease label in different layers does not imply the same patients. Control tissue differs between cohorts and is classified in 01_cohort_registry/contrast_ontology.csv (adjacent non-tumour, non-inflamed, healthy donor, non-diseased); classes are not pooled silently. One cohort (GSE62232, hepatocellular carcinoma) contributes only five control samples, so its control-side variance is estimated from very few samples. Zero-variance genes are absent by construction (matrices were filtered before scoring), which is why the QC column reports zero for every cohort. Module scores are not validated prognostic or predictive tools.
+Module gene coverage is incomplete in part of the cohorts (worst case: RET/ALK/NTRK modules down to 33% of members in one platform). Composition scores are enrichment scores, not cell proportions. Cohort count is not patient count: 27 curated series contain 26 case-control cohorts, of which 17 provide patient identifiers and 9 do not. One cohort (GSE62452) is a patient-level duplicate of GSE28735 and is held out of pooling, so the estimates layer covers 25 accessions and 2,627 samples; 1,044 is the number of patients with identifiers that enter the estimates layer (1,086 delivered) (the patient count of the remaining 9 cohorts is unknown, not one). The resource is not a patient-level multi-omics resource: the same disease label in different layers does not imply the same patients. Control tissue differs between cohorts and is classified in 01_cohort_registry/contrast_ontology.csv (adjacent non-tumour, non-inflamed, healthy donor, non-diseased); classes are not pooled silently. One cohort (GSE62232, hepatocellular carcinoma) contributes only five control samples, so its control-side variance is estimated from very few samples. Zero-variance genes are absent by construction (matrices were filtered before scoring), which is why the QC column reports zero for every cohort. Module scores are not validated prognostic or predictive tools.
 
 ## Which score layer to use
 | Question | Layer | File | Notes |

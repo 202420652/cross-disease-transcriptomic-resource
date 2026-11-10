@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this resource, cite this archived release (version DOI) or the Data Descriptor; the concept DOI 10.5281/zenodo.24083603 identifies the resource across versions."
-title: "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.0)"
+title: "Cross-disease case-control transcriptome resource: analysis code and data deposit (release v1.1)"
 abstract: >-
   Analysis code and the eleven-folder data deposit of a cross-disease case-control
-  transcriptome resource: 26 public case-control cohorts across 10 disease contexts,
-  17 frozen signalling modules (99 genes) and 442 cohort-module pairs, scored in three
+  transcriptome resource: 26 public case-control accessions across 10 disease contexts
+  (25 of them in the estimates layer after patient-level de-duplication of one pancreatic
+  accession), 17 frozen signalling modules (99 genes) and 425 cohort-module pairs, scored in three
   separate layers (bulk GSVA z-scores, TCGA member-mean z-scores, single-cell member
   means) with coverage-aware standardised effect sizes (SMDH, SMCRPH), REML pooling
   with Hartung-Knapp inference, and a validation ledger that separates PASS, FAIL,
@@ -41,9 +42,9 @@ authors:
   - family-names: Lin
     given-names: Yuan
     affiliation: "Department of Colorectal Surgery, Guangxi Medical University Cancer Hospital, Nanning 530021, Guangxi Zhuang Autonomous Region, China; Guangxi Clinical Research Center for Colorectal Cancer, Guangxi Medical University Cancer Hospital, Nanning, Guangxi Zhuang Autonomous Region, China"
-version: "v1.0"
-doi: "10.5281/zenodo.24083604"
-date-released: "2026-11-09"
+version: "v1.1"
+doi: "10.5281/zenodo.24083603"
+date-released: "2026-11-10"
 license: CC-BY-4.0
 repository-code: "https://github.com/202420652/cross-disease-transcriptomic-resource"
 url: "https://zenodo.org/records/24083604"

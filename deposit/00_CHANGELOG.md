@@ -1,10 +1,35 @@
 # Changelog
 
-This changelog records the version history of the deposit. Deposit v18.0 is the
-version released as tag `v1.0` of the GitHub repository
+This changelog records the version history of the deposit. Deposit v19.0 is the
+version released as tag `v1.1` and deposit v18.0 was released as tag `v1.0` of the GitHub repository
 <https://github.com/202420652/cross-disease-transcriptomic-resource>; the
 repository-level `CHANGELOG.md` is the release-notes file for that tag and lists
 what the release contains.
+
+## v19.0 (2026-11-10)
+- patient-level de-duplication of the pancreatic accessions: GSE62452 and GSE28735 are the same
+  patients. The patient-specific tumour-minus-adjacent profile on 28,869 shared GPL6244 probes
+  matched 42 of 42 GSE62452 patients one to one (r median 0.996, range 0.980-0.998; within-cohort
+  baseline median 0.18, maximum 0.81). GSE15471 (GPL570) has no counterpart (best one-to-one r 0.73)
+- GSE62452 stays in the deposit as data and enters no pooled estimate
+  (01_cohort_registry/cohort_registry.csv: in_estimates_layer = no, duplicate_of = GSE28735,
+  exclusion_reason; 07_estimates/per_cohort_effects.csv carries the same row-level flag)
+- re-estimate 07_estimates/meta_primary_reml_knha.csv on the 25-cohort estimates layer
+  (170 states, 165 with k >= 2: 82 with k = 2 and 83 with k = 3, against 66 and 99 before)
+- regenerate 08_qc/qc_cross_cohort_consistency.csv and
+  08_qc/qc_coverage_threshold_sensitivity.csv on the same layer: fully concordant states at
+  k >= 3 fall from 67/99 to 57/83 (one-sided binomial p = 7.7e-17 against the 0.25 baseline),
+  the k >= 2 fraction stays 112/165, and BH-significant states fall from 13, 13, 12, 6 to
+  12, 12, 9, 6 at no threshold and at coverage 0.60, 0.80 and 0.90
+- add 07_estimates/paad_dedup_mapping.csv (42 one-to-one patient matches),
+  08_qc/paad_cross_accession_correlation.csv, 01_cohort_registry/paad_sample_metadata.csv,
+  08_qc/independent_reproduction_effects.csv and _by_cohort.csv (all 434 estimable pairs of the
+  delivered set recomputed from the score matrix: 183 unpaired to 2e-6, 251 paired to 2e-4 median
+  under the implemented df = 2(n-1) convention), 08_qc/sensitivity_paired_df.csv,
+  08_qc/mc_target_alignment.csv, 08_qc/release_v1_1_summary_numbers.json,
+  04_modules/module_definitions_five_column.csv (the 99 genes with role, KEGG source pathway and
+  arbitration basis)
+- regenerate the three integrity manifests over the new file set
 
 ## v18.0 (2026-11-05)
 - regenerate 07_estimates/meta_by_design_stratum.csv from the frozen per-cohort effects under the primary rule
