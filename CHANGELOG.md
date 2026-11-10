@@ -30,8 +30,7 @@ cohort–module pairs, 418 estimable (183 SMDH + 235 SMCRPH), 165 pooled states.
 
 **Archival record (Zenodo).** v1.2 is archived under the same concept DOI as
 v1.0 and v1.1, which is `10.5281/zenodo.24083603`. The version DOI of this
-release is the one printed on its record page, and it is recorded in
-`CITATION.cff` as soon as Zenodo returns it.
+release is `10.5281/zenodo.24103326`.
 
 ## v1.1 — pancreatic patient-level de-duplication (deposit v19.0, 2026-11-10)
 
