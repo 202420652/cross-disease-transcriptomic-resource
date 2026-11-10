@@ -37,7 +37,7 @@ https://github.com/202420652/cross-disease-transcriptomic-resource
 
 **Citable archived version.** Releases v1.0 and v1.1 are archived at Zenodo under the
 concept DOI [10.5281/zenodo.24083603](https://doi.org/10.5281/zenodo.24083603); the
-version DOI of the current snapshot (v1.1) is printed on that record page, and the
+current snapshot (v1.1) is [10.5281/zenodo.24097637](https://doi.org/10.5281/zenodo.24097637), and the
 superseded v1.0 snapshot is [10.5281/zenodo.24083604](https://doi.org/10.5281/zenodo.24083604).
 
 Cite the version DOI for exactly one snapshot and the concept DOI when pointing
@@ -105,7 +105,7 @@ repository — is what each record was built from.
 | Identifier | Value | Use |
 |---|---|---|
 | Concept DOI | `10.5281/zenodo.24083603` | cite the resource across versions; resolves to the latest release |
-| Version DOI, v1.1 | printed on the record page reached through the concept DOI | cite this exact snapshot |
+| Version DOI, v1.1 | `10.5281/zenodo.24097637` | cite this exact snapshot |
 | Version DOI, v1.0 | `10.5281/zenodo.24083604` | cite the superseded snapshot |
 
 Each release is archived as the repository snapshot at its tag. A new version
